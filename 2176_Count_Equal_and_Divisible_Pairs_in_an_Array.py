@@ -1,0 +1,15 @@
+from imports import *
+
+class Solution:
+    def countPairs(self, nums: List[int], k: int) -> int:
+        index_map = defaultdict(list)
+        count = 0
+        
+        for i in range(len(nums)):
+            for j in index_map[nums[i]]:
+                if (i*j) % k == 0:
+                    count = count + 1
+            
+            index_map[nums[i]].append(i)
+
+        return count
