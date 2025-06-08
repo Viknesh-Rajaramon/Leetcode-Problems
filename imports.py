@@ -10,7 +10,7 @@ from sortedcontainers import SortedList
 from random import randint
 from functools import cache
 import string
-from bisect import bisect_left
+from bisect import bisect_left, bisect_right
 
 
 # Definition for singly-linked list.
