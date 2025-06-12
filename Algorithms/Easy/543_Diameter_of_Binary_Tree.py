@@ -4,7 +4,7 @@ class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         result = 0
 
-        def dfs(node: Optional[TreeNode]):
+        def dfs(node: Optional[TreeNode]) -> int:
             if node is None:
                 return 0
         
