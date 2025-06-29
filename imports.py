@@ -1,5 +1,5 @@
 from typing import Optional, List, Tuple
-from math import inf, log2, log, sqrt, ceil
+from math import inf, log2, log, sqrt, ceil, comb
 from collections import deque, Counter, defaultdict, OrderedDict
 from heapq import heappush, heappop, heappushpop, heapify
 import pandas as pd
@@ -8,7 +8,7 @@ import random
 from itertools import accumulate
 from sortedcontainers import SortedList
 from random import randint
-from functools import cache
+from functools import cache, lru_cache
 import string
 from bisect import bisect_left, bisect_right
 
