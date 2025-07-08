@@ -2,20 +2,29 @@ from imports import *
 
 class Solution:
     def maxEvents(self, events: List[List[int]]) -> int:
+        class UF:
+            def __init__(self, n: int):
+                self.parent = list(range(n+2))
+            
+            def find(self, x: int) -> int:
+                if x != self.parent[x]:
+                    self.parent[x] = self.find(self.parent[x])
+                
+                return self.parent[x]
+            
+            def union(self, x: int, y: int):
+                self.parent[self.find(x)] = self.find(y)
+        
         events.sort(key = lambda x: x[1])
 
-        fa = list(range(events[-1][1] + 2))
-        def find(x: int) -> int:
-            if x != fa[x]:
-                fa[x] = find(fa[x])
-            
-            return fa[x]
+        uf = UF(events[-1][1])
 
         result = 0
         for start, end in events:
-            t = find(start)
-            if t <= end:
+            day = uf.find(start)
+            
+            if day <= end:
                 result += 1
-                fa[t] = t + 1
+                uf.union(day, day+1)
 
         return result
