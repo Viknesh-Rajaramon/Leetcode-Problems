@@ -2,8 +2,6 @@ from imports import *
 
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
-        n = len(nums)
-        
         low, high = 0, len(nums) - 1
         while low < high:
             mid = (low+high) // 2
