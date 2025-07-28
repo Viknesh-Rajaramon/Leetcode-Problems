@@ -7,18 +7,10 @@ class Solution:
             max_bit_or |= num
         
         n = len(nums)
-        result = 0
-
-        def count_subsets(index: int, curr_bit_or: int) -> None:    
-            nonlocal result
+        def count_subsets(index: int, curr: int) -> int:    
             if index == n:
-                if curr_bit_or == max_bit_or:
-                    result += 1
-                
-                return
+                return 1 if curr == max_bit_or else 0
             
-            count_subsets(index+1, curr_bit_or | nums[index])
-            count_subsets(index+1, curr_bit_or)
+            return count_subsets(index+1, curr | nums[index]) + count_subsets(index+1, curr)
         
-        count_subsets(0, 0)
-        return result
+        return count_subsets(0, 0)
