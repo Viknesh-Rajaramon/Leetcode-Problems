@@ -1,10 +1,10 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        n = str(x)
-        if x >= 0:
-            new = int(n[::-1])
-            return new if new <= 2**31 - 1 else 0
+        sign = 1 if x >= 0 else -1
+        x = abs(x)
         
-        new = int(n[0] + n[:0:-1])
+        num = int(str(x)[ : : -1]) * sign
+        if num < -2**31 or num >= 2**31:
+            return 0
         
-        return new if new >= -2**31 else 0
+        return num
