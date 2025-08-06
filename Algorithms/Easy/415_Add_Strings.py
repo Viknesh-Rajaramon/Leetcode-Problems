@@ -29,4 +29,4 @@ class Solution:
         if carry > 0:
             num = num + str(carry)
         
-        return num[::-1]
+        return num[ : : -1]
