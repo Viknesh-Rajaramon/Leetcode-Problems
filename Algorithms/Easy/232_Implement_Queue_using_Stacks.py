@@ -3,25 +3,25 @@ from imports import *
 class MyQueue:
 
     def __init__(self):
-        self.stack1 = []
-        self.stack2 = []
+        self.queue = []
 
     def push(self, x: int) -> None:
-        while len(self.stack1):
-            self.stack2.append(self.pop())
+        stack = []
+        while self.queue:
+            stack.append(self.queue.pop())
         
-        self.stack1.append(x)
-        while len(self.stack2):
-            self.stack1.append(self.stack2.pop())
+        self.queue.append(x)
+        while stack:
+            self.queue.append(stack.pop())
 
     def pop(self) -> int:
-        return self.stack1.pop()
+        return self.queue.pop()
 
     def peek(self) -> int:
-        return self.stack1[-1]
+        return self.queue[-1]
 
     def empty(self) -> bool:
-        return len(self.stack1) == 0
+        return False if self.queue else True
 
 
 # Your MyQueue object will be instantiated and called as such:
