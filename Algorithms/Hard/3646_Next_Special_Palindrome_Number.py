@@ -10,9 +10,8 @@ for half_even_length in range(1, MAX_HALF_EVEN_LENGTH + 1):
         if i == half_even_length:
             if middle_odd_rest_count == 0 and all(included_even_count[even_index] == 0 or included_even_count[even_index] == even_index for even_index in range(1, 5)):
                 half_str = "".join(half)
-                rev_half_str = half_str[ : : -1]
 
-                num = int(half_str + middle_odd_digit + rev_half_str)
+                num = int(half_str + middle_odd_digit + half_str[ : : -1])
                 if num <= int(1e16):
                     SPECIAL_PALINDROMES.append(num)
 
