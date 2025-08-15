@@ -1,8 +1,7 @@
-from imports import *
-
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
         if n <= 0:
             return False
-        
-        return int(log2(n) / 2) == (log2(n) / 2)
+
+        num = bin(n)[2 : ]
+        return num.count("1") == 1 and num.count("0") % 2 == 0
