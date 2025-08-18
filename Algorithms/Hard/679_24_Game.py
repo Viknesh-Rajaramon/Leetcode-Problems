@@ -4,10 +4,10 @@ class Solution:
     def judgePoint24(self, cards: List[int]) -> bool:
         error = 1e-6
         def dfs(nums: List[float]):
-            if len(nums) == 1:
+            n = len(nums)
+            if n == 1:
                 return abs(nums[0] - 24) < error
             
-            n = len(nums)
             for i in range(n):
                 num1 = nums[i]
                 for j in range(i+1, n):
