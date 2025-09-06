@@ -2,21 +2,20 @@ from imports import *
 
 class Solution:
     def minOperations(self, queries: List[List[int]]) -> int:
-        ans = 0
-        for q in queries:
-            ops = 0
-            prev = 1
-
-            for d in range(1, 17):
-                curr = prev * 4
-                l = max(q[0], prev)
-                r = min(q[1], curr-1)
-
-                if r >= l:
-                    ops += (r-l+1) * d
-                
-                prev = curr
+        exp_sum_4 = [1] + [0] * 17
+        def exp_sum(x: int) -> int:
+            if x == 0:
+                return 0
             
-            ans += (ops+1) // 2
+            log_4 = (x.bit_length() - 1) >> 1
+            r = x - (1 << (log_4 << 1))
+            return exp_sum_4[log_4] + r * (log_4+1)
         
-        return ans
+        for i in range(17):
+            exp_sum_4[i+1] = exp_sum_4[i] + 3 * (i+1) * (1 << (2*i)) + 1
+
+        result = 0
+        for l, r in queries:
+            result += (exp_sum(r) - exp_sum(l-1) + 1) >> 1
+
+        return result
