@@ -2,18 +2,12 @@ from imports import *
 
 class Solution:
     def sumZero(self, n: int) -> List[int]:
-        nums = []
-        count = 0
-
-        if n % 2 != 0:
-            nums.append(0)
-            count += 1
+        result = []
+        if n%2 == 1:
+            result.append(0)
         
-        i = 1
-        while count < n:
-            nums.append(i)
-            nums.append(-i)
-            count += 2
-            i += 1
+        for i in range(1, n//2 + 1):
+            result.append(i)
+            result.append(-i)
         
-        return nums
+        return result
