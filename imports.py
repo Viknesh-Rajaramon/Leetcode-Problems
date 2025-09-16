@@ -1,5 +1,5 @@
 from typing import Optional, List, Tuple
-from math import inf, log2, log, sqrt, ceil, comb, gcd
+from math import inf, log2, log, sqrt, ceil, comb, gcd, lcm
 from collections import deque, Counter, defaultdict, OrderedDict
 from heapq import heappush, heappop, heappushpop, heapify
 import pandas as pd
