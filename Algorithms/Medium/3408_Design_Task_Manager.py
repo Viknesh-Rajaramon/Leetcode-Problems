@@ -3,30 +3,41 @@ from imports import *
 class TaskManager:
 
     def __init__(self, tasks: List[List[int]]):
-        self.task_manager = {}
-        self.priority_queue = []
-        for userId, taskId, priority in tasks:
-            self.add(userId, taskId, priority)
+        self.manager = {}
+        self.tasks = []
+
+        for user, task, priority in tasks:
+            t = (-priority, -task, user)
+            self.manager[-task] = t
+            self.tasks.append(t)
+        
+        heapify(self.tasks)
 
     def add(self, userId: int, taskId: int, priority: int) -> None:
-        self.task_manager[taskId] = (userId, priority)
-        heappush(self.priority_queue, (-priority, -taskId))
+        t = (-priority, -taskId, userId)
+        self.manager[-taskId] = t
+        heappush(self.tasks, t)
 
     def edit(self, taskId: int, newPriority: int) -> None:
-        userId, _ = self.task_manager[taskId]
-        self.add(userId, taskId, newPriority)
+        _, old_task, old_user = self.manager[-taskId]
+        t = (-newPriority, old_task, old_user)
+        self.manager[old_task] = t
+        heappush(self.tasks, t)
 
     def rmv(self, taskId: int) -> None:
-        del self.task_manager[taskId]
+        del self.manager[-taskId]
 
     def execTop(self) -> int:
-        while self.priority_queue:
-            p, t = heappop(self.priority_queue)
-            if -t in self.task_manager:
-                userId, priority = self.task_manager[-t]
-                if priority == -p:
-                    self.rmv(-t)
-                    return userId
+        while self.tasks:
+            p, t, u = heappop(self.tasks)
+            if t not in self.manager:
+                continue
+            
+            if self.manager[t][0] != p or self.manager[t][2] != u:
+                continue
+                
+            del self.manager[t]
+            return u
 
         return -1
 
