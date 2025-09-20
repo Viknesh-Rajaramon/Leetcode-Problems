@@ -3,38 +3,46 @@ from imports import *
 class Router:
 
     def __init__(self, memoryLimit: int):
-        self.s = set()
+        self.packets = set()
         self.queue = deque()
-        self.destination_timestamp_map = defaultdict(SortedList)
+        self.destination_timestamp_map = defaultdict(list)
         self.memory_limit = memoryLimit
 
     def addPacket(self, source: int, destination: int, timestamp: int) -> bool:
-        if (source, destination, timestamp) in self.s:
+        packet = (source, destination, timestamp)
+        if packet in self.packets:
             return False
         
         if len(self.queue) == self.memory_limit:
             oldest_packet = self.queue.popleft()
-            self.destination_timestamp_map[oldest_packet[1]].remove(oldest_packet[2])
-            self.s.remove(oldest_packet)
+            self.packets.remove(oldest_packet)
+            old_src, old_dst, old_time = oldest_packet
+            idx = bisect_left(self.destination_timestamp_map[old_dst], old_time)
+            del self.destination_timestamp_map[old_dst][idx]
         
-        self.queue.append((source, destination, timestamp))
-        self.destination_timestamp_map[destination].add(timestamp)
-        self.s.add((source, destination, timestamp))
+        self.queue.append(packet)
+        self.packets.add(packet)
+        insort(self.destination_timestamp_map[destination], timestamp)
         return True
 
     def forwardPacket(self) -> List[int]:
         if len(self.queue) == 0:
             return []
 
-        source, destination, timestamp = self.queue.popleft()
-        self.destination_timestamp_map[destination].remove(timestamp)
-        self.s.remove((source, destination, timestamp))
+        packet = self.queue.popleft()
+        self.packets.remove(packet)
+        source, destination, timestamp = packet
+        idx = bisect_left(self.destination_timestamp_map[destination], timestamp)
+        del self.destination_timestamp_map[destination][idx]
         return [source, destination, timestamp]
 
     def getCount(self, destination: int, startTime: int, endTime: int) -> int:
+        if destination not in self.destination_timestamp_map:
+            return 0
+        
         timestamps = self.destination_timestamp_map[destination]
-        left = timestamps.bisect_left(startTime)
-        right = timestamps.bisect_right(endTime)
+        left = bisect_left(timestamps, startTime)
+        right = bisect_right(timestamps, endTime)
         return right - left
 
 # Your Router object will be instantiated and called as such:
