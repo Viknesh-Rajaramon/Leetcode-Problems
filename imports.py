@@ -10,7 +10,7 @@ from sortedcontainers import SortedList
 from random import randint
 from functools import cache, lru_cache
 import string
-from bisect import bisect_left, bisect_right
+from bisect import bisect_left, bisect_right, insort
 import re
 from datetime import datetime
 
