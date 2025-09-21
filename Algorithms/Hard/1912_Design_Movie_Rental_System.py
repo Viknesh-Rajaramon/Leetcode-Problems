@@ -18,7 +18,7 @@ class MovieRentingSystem:
 
     def search(self, movie: int) -> List[int]:
         result = []
-        for price, shop in self.movie_price_shop.get(movie, []):
+        for _, shop in self.movie_price_shop.get(movie, []):
             if (shop, movie) not in self.rented_movies:
                 result.append(shop)
                 if len(result) == 5:
