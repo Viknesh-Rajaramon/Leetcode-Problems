@@ -8,7 +8,5 @@ class Solution:
                 x += 1
             elif op[1] == "-":
                 x -= 1
-            else:
-                pass
 
         return x
