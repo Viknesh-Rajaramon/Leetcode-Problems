@@ -3,33 +3,32 @@ from imports import *
 class Bank:
 
     def __init__(self, balance: List[int]):
-        self.balances = balance
-        self.n = len(self.balances)
-    
-    def _accountExists(self, account: int) -> bool:
-        return 1 <= account <= self.n
+        self.balance = balance
 
     def transfer(self, account1: int, account2: int, money: int) -> bool:
-        if not (self._accountExists(account1) and self._accountExists(account2)):
+        n = len(self.balance)
+        if account1 < 1 or account1 > n or self.balance[account1-1] < money:
             return False
         
-        if not self.withdraw(account1, money):
+        if account2 < 1 or account2 > n:
             return False
-        
-        return self.deposit(account2, money)
+            
+        self.balance[account1-1] -= money
+        self.balance[account2-1] += money
+        return True
 
     def deposit(self, account: int, money: int) -> bool:
-        if not self._accountExists(account):
+        if account < 1 or account > len(self.balance):
             return False
-        
-        self.balances[account-1] += money
+            
+        self.balance[account-1] += money
         return True
 
     def withdraw(self, account: int, money: int) -> bool:
-        if not self._accountExists(account) or self.balances[account-1] < money:
+        if account < 1 or account > len(self.balance) or self.balance[account-1] < money:
             return False
-        
-        self.balances[account-1] -= money
+            
+        self.balance[account-1] -= money
         return True
 
 
