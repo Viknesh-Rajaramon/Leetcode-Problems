@@ -2,20 +2,18 @@ from imports import *
 
 class Solution:
     def countTrapezoids(self, points: List[List[int]]) -> int:
-        mod = 10**9 + 7
+        mod, counts = 10**9 + 7, defaultdict(int)
+        for _, y in points:
+            counts[y] += 1
 
-        y_to_x = defaultdict(list)
-        for x, y in points:
-            y_to_x[y].append(x)
+        total_sum, total_sq_sum = 0, 0
+        for count in counts.values():
+            if count < 2:
+                continue
+            
+            f = count * (count - 1)
+            total_sum += f
+            total_sq_sum += f*f
 
-        segment_counts = []
-        for y, x_list in y_to_x.items():
-            count = len(x_list)
-            if count >= 2:
-                segment_counts.append(count * (count - 1) // 2)
-
-        total_sum = sum(segment_counts)
-        total_sq_sum = sum(c * c for c in segment_counts)
-        result = (total_sum * total_sum - total_sq_sum) // 2
-
+        result = (total_sum * total_sum - total_sq_sum) // 8
         return result % mod
