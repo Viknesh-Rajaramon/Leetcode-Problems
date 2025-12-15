@@ -5,7 +5,7 @@ from heapq import heappush, heappop, heappushpop, heapify, nlargest, heapreplace
 import pandas as pd
 from queue import PriorityQueue
 import random
-from itertools import accumulate, product, combinations
+from itertools import accumulate, product, combinations, pairwise
 from sortedcontainers import SortedList
 from random import randint
 from functools import cache, lru_cache
