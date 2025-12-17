@@ -1,28 +1,28 @@
-from imports import *
+from typing import List
+from math import inf
 
 class Solution:
     def maximumProfit(self, prices: List[int], k: int) -> int:
-        n = len(prices)
-        dp = [[[-inf] * 3 for _ in range(k+1)] for _ in range(n)]
-
-        for t in range(k+1):
-            dp[0][t][0] = 0
-            if t > 0:
-                dp[0][t][1] = -prices[0]
-                dp[0][t][2] = prices[0]
-            
-        for i in range(1, n):
-            for t in range(k+1):
-                dp[i][t][0] = dp[i-1][t][0]
-                if t <= k:
-                    dp[i][t][0] = max(dp[i][t][0], dp[i-1][t][1] + prices[i], dp[i-1][t][2] - prices[i])
+        k = min(k, len(prices)//2)
+        dp, dp_long, dp_short = [-inf] * (k+1), [-inf] * (k+1), [-inf] * (k+1)
+        dp[0] = 0
+        for price in prices:
+            new_dp, new_dp_long, new_dp_short = dp[ : ], dp_long[ : ], dp_short[ : ]
+            for t in range(k):
+                if dp[t] != -inf:
+                    if dp[t] - price > new_dp_long[t]:
+                            new_dp_long[t] = dp[t] - price
                     
-                if t > 0:
-                    dp[i][t][1] = max(dp[i-1][t][1], dp[i-1][t-1][0] - prices[i])
-                    dp[i][t][2] = max(dp[i-1][t][2], dp[i-1][t-1][0] + prices[i])
+                    if dp[t] + price > new_dp_short[t]:
+                        new_dp_short[t] = dp[t] + price
+
+            for t in range(k):
+                if dp_long[t] != -inf and dp_long[t] + price > new_dp[t+1]:
+                    new_dp[t+1] = dp_long[t] + price
+                
+                if dp_short[t] != -inf and dp_short[t] - price > new_dp[t+1]:
+                    new_dp[t+1] = dp_short[t] - price
+
+            dp, dp_long, dp_short = new_dp, new_dp_long, new_dp_short
         
-        max_profit = 0
-        for t in range(k+1):
-            max_profit = max(max_profit, dp[n-1][t][0])
-        
-        return max_profit
+        return max(dp)
