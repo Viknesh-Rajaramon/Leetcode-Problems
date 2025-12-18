@@ -1,4 +1,4 @@
-from imports import *
+from typing import Optional, List
 
 class Node:
     def __init__(self, val: Optional[int] = None, children: Optional[List['Node']] = None):

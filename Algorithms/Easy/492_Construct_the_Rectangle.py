@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import sqrt
 
 class Solution:
     def constructRectangle(self, area: int) -> List[int]:

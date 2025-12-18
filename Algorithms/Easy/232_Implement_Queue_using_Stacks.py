@@ -1,5 +1,3 @@
-from imports import *
-
 class MyQueue:
 
     def __init__(self):

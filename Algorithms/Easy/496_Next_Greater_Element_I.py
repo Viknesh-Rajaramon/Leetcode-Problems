@@ -1,9 +1,8 @@
-from imports import *
+from typing import List
 
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         index_map = {}
-        n = len(nums2)
         
         stack = []
         for i in range(len(nums2) - 1, -1, -1):

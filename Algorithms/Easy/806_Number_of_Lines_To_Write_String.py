@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def numberOfLines(self, widths: List[int], s: str) -> List[int]:

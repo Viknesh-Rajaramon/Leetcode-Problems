@@ -1,4 +1,5 @@
-from imports import *
+import random
+import string
 
 class Codec:
 

@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from heapq import heappop, heapify
 
 class Solution:
     def findRelativeRanks(self, score: List[int]) -> List[str]:

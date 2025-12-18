@@ -1,4 +1,4 @@
-from imports import *
+from collections import defaultdict
 
 class Solution:
     def firstUniqChar(self, s: str) -> int:

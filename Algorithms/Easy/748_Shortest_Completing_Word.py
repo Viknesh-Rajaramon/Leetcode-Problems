@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from collections import defaultdict
+import string
 
 class Solution:
     def shortestCompletingWord(self, licensePlate: str, words: List[str]) -> str:

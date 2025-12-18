@@ -1,5 +1,3 @@
-from imports import *
-
 class Solution:
     def checkPerfectNumber(self, num: int) -> bool:
         if num == 1:

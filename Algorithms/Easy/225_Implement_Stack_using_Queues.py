@@ -1,5 +1,3 @@
-from imports import *
-
 class MyStack:
 
     def __init__(self):

@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from heapq import heappop, heappushpop, heapify
 
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
