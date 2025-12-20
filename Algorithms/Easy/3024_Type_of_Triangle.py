@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def triangleType(self, nums: List[int]) -> str:

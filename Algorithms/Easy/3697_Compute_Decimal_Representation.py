@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def decimalRepresentation(self, n: int) -> List[int]:

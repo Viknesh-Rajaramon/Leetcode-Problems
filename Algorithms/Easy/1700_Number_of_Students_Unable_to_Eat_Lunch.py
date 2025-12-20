@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from collections import deque
 
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:

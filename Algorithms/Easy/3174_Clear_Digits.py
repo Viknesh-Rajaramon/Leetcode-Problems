@@ -1,8 +1,6 @@
-from imports import *
-
 class Solution:
     def clearDigits(self, s: str) -> str:
-        stack = deque()
+        stack = []
         digit_low = ord("0")
         digit_high = ord("9")
 

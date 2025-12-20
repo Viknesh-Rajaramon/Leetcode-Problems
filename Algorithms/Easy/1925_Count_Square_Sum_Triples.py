@@ -1,4 +1,4 @@
-from imports import *
+from math import sqrt
 
 class Solution:
     def countTriples(self, n: int) -> int:

@@ -1,4 +1,5 @@
-from imports import *
+from collections import Counter
+from math import inf
 
 class Solution:
     def getLeastFrequentDigit(self, n: int) -> int:

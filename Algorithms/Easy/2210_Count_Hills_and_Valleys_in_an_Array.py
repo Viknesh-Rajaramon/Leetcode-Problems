@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def countHillValley(self, nums: List[int]) -> int:

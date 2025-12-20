@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def countGoodTriplets(self, arr: List[int], a: int, b: int, c: int) -> int:

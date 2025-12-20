@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from heapq import heapify, heappop
 
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:

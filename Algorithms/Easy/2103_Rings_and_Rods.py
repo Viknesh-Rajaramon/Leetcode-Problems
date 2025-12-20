@@ -1,4 +1,4 @@
-from imports import *
+from collections import defaultdict
 
 class Solution:
     def countPoints(self, rings: str) -> int:

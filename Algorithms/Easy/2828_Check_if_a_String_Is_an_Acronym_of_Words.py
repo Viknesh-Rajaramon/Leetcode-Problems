@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def isAcronym(self, words: List[str], s: str) -> bool:

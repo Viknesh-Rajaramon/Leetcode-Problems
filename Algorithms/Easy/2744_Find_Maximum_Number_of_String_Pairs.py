@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def maximumNumberOfStringPairs(self, words: List[str]) -> int:

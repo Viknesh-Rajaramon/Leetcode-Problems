@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def countGoodRectangles(self, rectangles: List[List[int]]) -> int:

@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from collections import Counter
+from math import sqrt
 
 class Solution:
     def checkPrimeFrequency(self, nums: List[int]) -> bool:
