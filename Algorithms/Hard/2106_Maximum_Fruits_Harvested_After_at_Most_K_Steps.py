@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from bisect import bisect_left, bisect_right
 
 class Solution:
     def maxTotalFruits(self, fruits: List[List[int]], startPos: int, k: int) -> int:

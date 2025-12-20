@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from collections import defaultdict
 
 class Solution:
     def maxSubgraphScore(self, n: int, edges: List[List[int]], good: List[int]) -> List[int]:

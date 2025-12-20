@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def minimumCost(self, n: int, edges: List[List[int]], query: List[List[int]]) -> List[int]:

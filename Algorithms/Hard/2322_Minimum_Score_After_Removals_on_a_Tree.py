@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from collections import defaultdict
+from math import inf
 
 class Solution:
     def minimumScore(self, nums: List[int], edges: List[List[int]]) -> int:

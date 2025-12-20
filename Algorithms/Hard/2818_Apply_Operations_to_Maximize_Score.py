@@ -1,4 +1,7 @@
-from imports import *
+from typing import List
+from collections import deque
+from math import sqrt
+from heapq import heappush, heappop
 
 class Solution:
     def maximumScore(self, nums: List[int], k: int) -> int:

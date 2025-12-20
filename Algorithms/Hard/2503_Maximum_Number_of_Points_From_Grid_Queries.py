@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from heapq import heapify, heappop, heappush
 
 class Solution:
     def maxPoints(self, grid: List[List[int]], queries: List[int]) -> List[int]:

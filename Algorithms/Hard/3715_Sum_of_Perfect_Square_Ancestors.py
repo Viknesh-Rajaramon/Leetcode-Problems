@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from collections import defaultdict
+from math import sqrt
 
 class Solution:
     def sumOfAncestors(self, n: int, edges: List[List[int]], nums: List[int]) -> int:

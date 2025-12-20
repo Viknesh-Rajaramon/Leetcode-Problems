@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from math import log2
+from heapq import heapify, heappop, heappush
         
 class SparseTableOp:
     def __init__(self, arr: List[int], op):

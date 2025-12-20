@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from collections import defaultdict, Counter
+from math import inf
 
 class Solution:
     def countTrapezoids(self, points: List[List[int]]) -> int:

@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from collections import defaultdict
 
 class Fenwick:
     def __init__(self, n: int):

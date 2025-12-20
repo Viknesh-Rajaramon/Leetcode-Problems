@@ -1,4 +1,7 @@
-from imports import *
+from typing import List
+from collections import defaultdict, Counter
+from itertools import product
+from functools import lru_cache
 
 class Solution:
     def maxLen(self, n: int, edges: List[List[int]], label: str) -> int:

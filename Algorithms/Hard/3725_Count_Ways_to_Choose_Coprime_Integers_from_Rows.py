@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 MOD = 10**9 + 7
 

@@ -1,4 +1,6 @@
-from imports import *
+from typing import List, Tuple
+from collections import defaultdict, Counter
+from sortedcontainers import SortedList
 
 class Solution:
     def kthSmallest(self, par: List[int], vals: List[int], queries: List[List[int]]) -> List[int]:

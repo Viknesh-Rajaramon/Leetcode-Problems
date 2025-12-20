@@ -1,4 +1,5 @@
-from imports import *
+from typing import List, Tuple
+from math import inf
 
 class Solution:
     def earliestAndLatest(self, n: int, firstPlayer: int, secondPlayer: int) -> List[int]:

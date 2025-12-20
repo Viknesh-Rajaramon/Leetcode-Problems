@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from bisect import bisect_right
 
 class Solution:
     def countStableSubarrays(self, nums: List[int], queries: List[List[int]]) -> List[int]:

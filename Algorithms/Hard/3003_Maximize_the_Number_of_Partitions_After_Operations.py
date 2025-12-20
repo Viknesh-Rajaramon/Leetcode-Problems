@@ -1,4 +1,4 @@
-from imports import *
+from typing import List, Tuple
 
 class Solution:
     def maxPartitionsAfterOperations(self, s: str, k: int) -> int:

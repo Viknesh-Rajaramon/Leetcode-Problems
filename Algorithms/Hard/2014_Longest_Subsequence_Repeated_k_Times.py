@@ -1,4 +1,4 @@
-from imports import *
+from collections import Counter, deque
 
 class Solution:
     def longestSubsequenceRepeatedK(self, s: str, k: int) -> str:

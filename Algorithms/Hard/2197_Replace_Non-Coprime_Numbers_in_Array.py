@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import gcd, lcm
 
 class Solution:
     def replaceNonCoprimes(self, nums: List[int]) -> List[int]:

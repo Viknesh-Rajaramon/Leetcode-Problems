@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import inf
 
 class Solution:
     def minCost(self, grid: List[List[int]], k: int) -> int:

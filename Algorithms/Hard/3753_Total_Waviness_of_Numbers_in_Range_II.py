@@ -1,4 +1,5 @@
-from imports import *
+from typing import Optional, Tuple
+from functools import lru_cache
 
 class Solution:
     def totalWaviness(self, num1: int, num2: int) -> int:

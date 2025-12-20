@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from functools import lru_cache
 
 MOD, MAX_ = 10**9 + 7, 31
 

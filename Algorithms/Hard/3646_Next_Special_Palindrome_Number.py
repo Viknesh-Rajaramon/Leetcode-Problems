@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from bisect import bisect_right
 
 MAX_HALF_EVEN_LENGTH = 8
 SPECIAL_PALINDROMES = [1]

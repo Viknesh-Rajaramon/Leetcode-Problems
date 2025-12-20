@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from collections import defaultdict
+from bisect import bisect_left, bisect_right
 
 class Solution:
     def subarrayMajority(self, nums: List[int], queries: List[List[int]]) -> List[int]:

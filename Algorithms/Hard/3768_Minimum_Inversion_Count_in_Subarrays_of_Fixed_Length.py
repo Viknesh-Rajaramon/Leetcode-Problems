@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from math import inf
+from bisect import bisect_left, bisect_right
 
 class Solution:
     def minInversionCount(self, nums: List[int], k: int) -> int:

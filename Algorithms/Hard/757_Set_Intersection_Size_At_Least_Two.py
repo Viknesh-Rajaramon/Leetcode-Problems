@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import inf
 
 class Solution:
     def intersectionSizeTwo(self, intervals: List[List[int]]) -> int:

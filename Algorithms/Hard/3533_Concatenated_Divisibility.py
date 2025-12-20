@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from functools import cache
 
 class Solution:
     def concatenatedDivisibility(self, nums: List[int], k: int) -> List[int]:

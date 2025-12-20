@@ -1,4 +1,4 @@
-from imports import *
+from math import comb
 
 class Solution:
     def popcountDepth(self, n: int, k: int) -> int:

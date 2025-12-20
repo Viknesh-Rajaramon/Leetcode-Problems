@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Tree:
     def __init__(self, n: int):

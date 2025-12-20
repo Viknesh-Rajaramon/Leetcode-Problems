@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import gcd
 
 class Solution:
     def minStable(self, nums: List[int], maxC: int) -> int:
