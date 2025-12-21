@@ -1,4 +1,4 @@
-from imports import *
+from heapq import heappush, heappop
 
 class NumberContainers:
 

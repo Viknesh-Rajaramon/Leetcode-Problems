@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from math import ceil
+from bisect import bisect_left
 
 class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:

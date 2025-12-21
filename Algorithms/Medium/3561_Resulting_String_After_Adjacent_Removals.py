@@ -1,5 +1,3 @@
-from imports import *
-
 class Solution:
     def resultingString(self, s: str) -> str:
         stack = []

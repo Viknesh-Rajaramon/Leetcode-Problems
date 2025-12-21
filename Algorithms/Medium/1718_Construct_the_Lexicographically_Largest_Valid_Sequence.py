@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def generateSeq(self, seq: List[int], used: List[bool], index: int, n: int) -> bool:

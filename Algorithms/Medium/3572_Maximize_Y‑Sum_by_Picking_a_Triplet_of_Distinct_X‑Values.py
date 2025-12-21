@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from collections import defaultdict
 
 class Solution:
     def maxSumDistinctTriplet(self, x: List[int], y: List[int]) -> int:

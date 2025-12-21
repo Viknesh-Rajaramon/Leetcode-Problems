@@ -1,4 +1,4 @@
-from imports import *
+from collections import defaultdict, deque
 
 class Solution:
     def maxSubstrings(self, word: str) -> int:

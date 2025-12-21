@@ -1,5 +1,3 @@
-from imports import *
-
 class Spreadsheet:
 
     def __init__(self, rows: int):

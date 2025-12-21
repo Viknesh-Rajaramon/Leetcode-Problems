@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from bisect import bisect_left, bisect_right
 
 class Solution:
     def countPoints(self, points: List[List[int]], queries: List[List[int]]) -> List[int]:

@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from collections import defaultdict
 
 class Solution:
     def numPairsDivisibleBy60(self, time: List[int]) -> int:

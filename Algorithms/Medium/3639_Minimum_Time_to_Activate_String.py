@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def minTime(self, s: str, order: List[int], k: int) -> int:

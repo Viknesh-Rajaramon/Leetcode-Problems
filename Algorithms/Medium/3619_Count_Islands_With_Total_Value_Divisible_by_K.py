@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def countIslands(self, grid: List[List[int]], k: int) -> int:

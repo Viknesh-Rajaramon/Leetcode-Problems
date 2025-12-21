@@ -1,4 +1,4 @@
-from imports import *
+from bisect import bisect_left
 
 class MyCalendar:
 

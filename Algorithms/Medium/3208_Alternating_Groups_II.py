@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def numberOfAlternatingGroups(self, colors: List[int], k: int) -> int:

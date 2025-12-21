@@ -1,4 +1,4 @@
-from imports import *
+from heapq import heappop, heappush
 
 class SeatManager:
 

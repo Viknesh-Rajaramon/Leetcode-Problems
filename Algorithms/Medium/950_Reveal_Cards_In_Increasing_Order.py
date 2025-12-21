@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from collections import deque
 
 class Solution:
     def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:

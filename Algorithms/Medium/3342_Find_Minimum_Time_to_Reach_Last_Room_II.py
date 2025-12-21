@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from math import inf
+from heapq import heappop, heappush
 
 class Solution:
     def minTimeToReach(self, moveTime: List[List[int]]) -> int:

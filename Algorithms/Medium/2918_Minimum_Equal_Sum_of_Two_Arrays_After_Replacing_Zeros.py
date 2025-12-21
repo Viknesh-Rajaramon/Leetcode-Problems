@@ -1,15 +1,8 @@
-from imports import *
+from typing import List
+from collections import Counter
 
 class Solution:
     def minSum(self, nums1: List[int], nums2: List[int]) -> int:
-        def count_zero(nums: List[int]) -> int:
-            zero_count = 0
-            for i in range(len(nums)):
-                if nums[i] == 0:
-                    zero_count += 1
-            
-            return zero_count
-
         counter1 = Counter(nums1)
         sum1 = sum(nums1) + counter1[0]
 
@@ -28,5 +21,3 @@ class Solution:
                 return sum1
             else:
                 return -1
-        
-        return -1

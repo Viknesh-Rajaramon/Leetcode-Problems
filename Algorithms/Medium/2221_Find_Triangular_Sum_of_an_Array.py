@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import comb
 
 class Solution:
     def triangularSum(self, nums: List[int]) -> int:

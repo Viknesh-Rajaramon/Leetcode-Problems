@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import inf, gcd
 
 class Solution:
     def minOperations(self, nums: List[int]) -> int:

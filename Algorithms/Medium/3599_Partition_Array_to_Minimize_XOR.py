@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from math import inf
+from functools import lru_cache
 
 class Solution:
     def minXor(self, nums: List[int], k: int) -> int:

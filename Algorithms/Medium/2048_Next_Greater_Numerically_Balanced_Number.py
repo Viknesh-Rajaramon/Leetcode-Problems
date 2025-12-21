@@ -1,4 +1,4 @@
-from imports import *
+from collections import defaultdict
 
 class Solution:
     def nextBeautifulNumber(self, n: int) -> int:

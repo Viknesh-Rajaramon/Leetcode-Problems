@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from heapq import heapify, heappop, heappush
 
 class Solution:
     def maxAverageRatio(self, classes: List[List[int]], extraStudents: int) -> float:

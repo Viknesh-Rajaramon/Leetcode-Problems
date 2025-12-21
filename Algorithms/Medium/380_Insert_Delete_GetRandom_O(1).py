@@ -1,4 +1,4 @@
-from imports import *
+import random
 
 class RandomizedSet:
 

@@ -1,5 +1,3 @@
-from imports import *
-
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
         n, m = len(word1), len(word2)

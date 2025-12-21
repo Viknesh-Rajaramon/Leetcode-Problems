@@ -1,4 +1,4 @@
-from imports import *
+from collections import deque
 
 class Solution:
     def smallestNumber(self, pattern: str) -> str:

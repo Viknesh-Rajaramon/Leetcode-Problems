@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from collections import defaultdict
+from heapq import heapify, heappop, heappush
 
 class FoodRatings:
 

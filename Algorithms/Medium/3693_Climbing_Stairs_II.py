@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import inf
 
 class Solution:
     def climbStairs(self, n: int, costs: List[int]) -> int:

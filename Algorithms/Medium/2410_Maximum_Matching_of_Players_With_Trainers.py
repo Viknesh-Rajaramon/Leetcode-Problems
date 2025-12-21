@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def matchPlayersAndTrainers(self, players: List[int], trainers: List[int]) -> int:

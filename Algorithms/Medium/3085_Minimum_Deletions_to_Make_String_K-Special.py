@@ -1,4 +1,5 @@
-from imports import *
+from math import inf
+from collections import Counter
 
 class Solution:
     def minimumDeletions(self, word: str, k: int) -> int:

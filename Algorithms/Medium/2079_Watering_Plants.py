@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def wateringPlants(self, plants: List[int], capacity: int) -> int:

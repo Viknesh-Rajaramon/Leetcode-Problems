@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from collections import defaultdict
+from heapq import heapify, heappop
 
 class Solution:
     def processQueries(self, c: int, connections: List[List[int]], queries: List[List[int]]) -> List[int]:

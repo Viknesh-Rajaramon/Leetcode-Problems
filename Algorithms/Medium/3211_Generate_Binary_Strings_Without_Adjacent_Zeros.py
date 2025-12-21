@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def validStrings(self, n: int) -> List[str]:

@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from heapq import heappush, heappop, heapreplace
 
 class Solution:
     def maxSumDivThree(self, nums: List[int]) -> int:

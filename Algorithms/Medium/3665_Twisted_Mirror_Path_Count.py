@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def uniquePaths(self, grid: List[List[int]]) -> int:

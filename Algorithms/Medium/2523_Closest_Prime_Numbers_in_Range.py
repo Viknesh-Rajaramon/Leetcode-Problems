@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import inf
 
 class Solution:
     def closestPrimes(self, left: int, right: int) -> List[int]:

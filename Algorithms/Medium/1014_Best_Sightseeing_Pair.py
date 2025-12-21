@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import inf
 
 class Solution:
     def maxScoreSightseeingPair(self, values: List[int]) -> int:

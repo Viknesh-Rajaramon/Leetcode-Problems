@@ -1,4 +1,4 @@
-from imports import *
+from math import comb
 
 class Solution:
     def countVowelStrings(self, n: int) -> int:

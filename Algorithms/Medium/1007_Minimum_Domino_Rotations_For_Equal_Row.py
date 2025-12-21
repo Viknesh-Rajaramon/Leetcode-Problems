@@ -1,8 +1,8 @@
-from imports import *
+from typing import List
+from math import inf
 
 class Solution:
     def minDominoRotations(self, tops: List[int], bottoms: List[int]) -> int:
-        n = len(tops)
         result = inf
 
         for num in range(1, 7):

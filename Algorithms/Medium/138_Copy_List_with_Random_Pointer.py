@@ -1,4 +1,4 @@
-from imports import *
+from typing import Optional
 
 # Definition for a Node.
 class Node:

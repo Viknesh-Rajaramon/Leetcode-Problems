@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from math import inf
+from collections import defaultdict
 
 class Solution:
     def maxArea(self, coords: List[List[int]]) -> int:

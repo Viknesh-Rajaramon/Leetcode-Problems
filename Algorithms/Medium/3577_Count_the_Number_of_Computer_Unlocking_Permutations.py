@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 MOD, MAX_NUM = 10**9+7, 10**5
 FACT = {1: 1}

@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 MAX_N = 10**5
 PRIMES = []

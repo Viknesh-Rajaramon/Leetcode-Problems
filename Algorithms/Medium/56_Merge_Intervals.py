@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import inf
 
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:

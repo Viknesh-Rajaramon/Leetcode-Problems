@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from itertools import pairwise
 
 class Solution:
     def getDescentPeriods(self, prices: List[int]) -> int:

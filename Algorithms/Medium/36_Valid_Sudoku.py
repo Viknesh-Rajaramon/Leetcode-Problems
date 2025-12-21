@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 digits = [str(i) for i in range(1, 10)]
 

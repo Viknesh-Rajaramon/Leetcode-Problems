@@ -1,4 +1,4 @@
-from imports import *
+from functools import cache
 
 class Solution:
     def rotatedDigits(self, n: int) -> int:

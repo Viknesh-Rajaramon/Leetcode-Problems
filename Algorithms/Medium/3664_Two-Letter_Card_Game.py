@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def score(self, cards: List[str], x: str) -> int:

@@ -1,4 +1,7 @@
-from imports import *
+from typing import List
+from math import inf
+from collections import defaultdict
+from heapq import heappop, heappush
 
 class Solution:
     def minTime(self, n: int, edges: List[List[int]]) -> int:

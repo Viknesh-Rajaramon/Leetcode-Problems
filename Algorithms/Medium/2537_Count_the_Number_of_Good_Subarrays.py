@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from collections import Counter
 
 class Solution:
     def countGood(self, nums: List[int], k: int) -> int:

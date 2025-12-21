@@ -1,4 +1,4 @@
-from imports import *
+from math import log2
 
 nums = []
 for i in range(int(log2(10**9)) + 1):

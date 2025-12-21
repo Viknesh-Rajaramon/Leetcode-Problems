@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from itertools import accumulate
 
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:

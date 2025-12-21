@@ -1,4 +1,4 @@
-from imports import *
+from math import pow, log
 
 class Solution:
     def checkPowersOfThree(self, n: int) -> bool:

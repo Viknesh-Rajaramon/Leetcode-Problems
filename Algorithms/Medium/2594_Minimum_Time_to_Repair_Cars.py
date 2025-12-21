@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import sqrt
 
 class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:

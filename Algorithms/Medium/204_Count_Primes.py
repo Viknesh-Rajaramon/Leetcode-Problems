@@ -1,5 +1,3 @@
-from imports import *
-
 max_num = 5 * 10**6
 
 primes = []

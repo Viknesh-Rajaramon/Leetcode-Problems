@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from heapq import heapify, heappop, heappushpop
 
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:

@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from collections import defaultdict, deque
 
 MAX = 10**6 + 1
 prime_factors = defaultdict(list)

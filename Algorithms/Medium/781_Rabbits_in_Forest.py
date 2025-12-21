@@ -1,4 +1,6 @@
-from imports import *
+from typing import List
+from math import ceil
+from collections import Counter
 
 class Solution:
     def numRabbits(self, answers: List[int]) -> int:

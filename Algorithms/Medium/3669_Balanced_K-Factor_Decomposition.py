@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import inf, sqrt
 
 class Solution:
     def minDifference(self, n: int, k: int) -> List[int]:
