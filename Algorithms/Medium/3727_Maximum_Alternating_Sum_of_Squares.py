@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from math import ceil
 
 class Solution:
     def maxAlternatingSum(self, nums: List[int]) -> int:

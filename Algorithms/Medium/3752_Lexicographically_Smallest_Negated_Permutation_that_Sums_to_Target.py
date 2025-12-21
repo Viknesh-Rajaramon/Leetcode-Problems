@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def lexSmallestNegatedPerm(self, n: int, target: int) -> List[int]:

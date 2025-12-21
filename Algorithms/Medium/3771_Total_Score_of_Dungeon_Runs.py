@@ -1,4 +1,5 @@
-from imports import *
+from typing import List
+from bisect import bisect_left
 
 class Solution:
     def totalScore(self, hp: int, damage: List[int], requirement: List[int]) -> int:

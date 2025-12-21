@@ -1,4 +1,4 @@
-from imports import *
+from bisect import bisect_left, bisect_right
 
 class ExamTracker:
     def __init__(self):

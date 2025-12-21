@@ -1,4 +1,5 @@
-from imports import *
+from math import sqrt
+from bisect import bisect_right
 
 MAX = 5 * 10**5
 is_prime = [True] * (MAX+1)

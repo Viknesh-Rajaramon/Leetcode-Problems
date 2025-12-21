@@ -1,4 +1,11 @@
-from imports import *
+from typing import Optional
+from random import randint
+
+# Definition for singly-linked list.
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
 
 class Solution:
     def __init__(self, head: Optional[ListNode]):

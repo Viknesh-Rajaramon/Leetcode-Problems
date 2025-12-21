@@ -1,4 +1,4 @@
-from imports import *
+from typing import List
 
 class Solution:
     def minMoves(self, balance: List[int]) -> int:

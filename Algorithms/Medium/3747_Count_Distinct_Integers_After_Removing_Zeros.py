@@ -1,4 +1,4 @@
-from imports import *
+from functools import lru_cache
 
 class Solution:
     def countDistinct(self, n: int) -> int:
