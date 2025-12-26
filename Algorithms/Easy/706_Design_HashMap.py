@@ -1,22 +1,20 @@
 class MyHashMap:
 
     def __init__(self):
-        self.hash_map = [[-1] * 1000 for _ in range(1000+1)]
+        self.hash_map = {}
 
     def put(self, key: int, value: int) -> None:
-        hash1 = key // 1000
-        hash2 = key % 1000
-        self.hash_map[hash1][hash2] = value
+        self.hash_map[key] = value
 
     def get(self, key: int) -> int:
-        hash1 = key // 1000
-        hash2 = key % 1000
-        return self.hash_map[hash1][hash2]
+        if key in self.hash_map:
+            return self.hash_map[key]
+        
+        return -1
 
     def remove(self, key: int) -> None:
-        hash1 = key // 1000
-        hash2 = key % 1000
-        self.hash_map[hash1][hash2] = -1
+        if key in self.hash_map:
+            self.hash_map[key] = -1
 
 
 # Your MyHashMap object will be instantiated and called as such:
