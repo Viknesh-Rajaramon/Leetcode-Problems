@@ -3,15 +3,12 @@ class Solution:
         if k % 2 == 0 or k % 5 == 0:
             return -1
 
-        remainder, seen = 0, set()
-        for l in range(1, k+1):
-            remainder = (remainder*10 + 1) % k
-            if remainder == 0:
+        m = 9 * k
+        remainder = 10 % m
+        for l in range(1, m+1):
+            if remainder == 1:
                 return l
 
-            if remainder in seen:
-                return -1
-
-            seen.add(remainder)
+            remainder = (remainder*10) % m
 
         return -1
