@@ -9,19 +9,19 @@ class TreeNode:
 
 class Solution:
     def subtreeWithAllDeepest(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        def dfs(node: Optional[TreeNode], depth: int) -> Tuple[Optional[TreeNode], int]:
-            if node.left is None and node.right is None:
-                return node, depth
+        def dfs(node: Optional[TreeNode]) -> Tuple[int, Optional[TreeNode]]:
+            if not node:
+                return 0, None
             
-            left, left_depth = dfs(node.left, depth+1) if node.left is not None else (node, depth)
-            right, right_depth = dfs(node.right, depth+1) if node.right is not None else (node, depth)
-
-            if left_depth > right_depth:
-                return left, left_depth
-            elif left_depth < right_depth:
-                return right, right_depth
+            left_d, left_node = dfs(node.left)
+            right_d, right_node = dfs(node.right)
             
-            return node, left_depth
+            if left_d > right_d:
+                return left_d+1, left_node
+            elif left_d < right_d:
+                return right_d+1, right_node
+            
+            return left_d+1, node
         
-        subtree, _ = dfs(root, 0)
-        return subtree
+        _, node = dfs(root)
+        return node
