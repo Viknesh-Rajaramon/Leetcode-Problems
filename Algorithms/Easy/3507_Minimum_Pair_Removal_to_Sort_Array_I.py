@@ -3,22 +3,19 @@ from math import inf
 
 class Solution:
     def minimumPairRemoval(self, nums: List[int]) -> int:
-        if len(nums) == 1:
-            return 0
+        result, i = 0, 0
+        while i < len(nums)-1:
+            if nums[i] > nums[i+1]:
+                best, idx = inf, 0
+                for j in range(len(nums)-1):
+                    s = nums[j] + nums[j+1]
+                    if s < best:
+                        best, idx = s, j
 
-        ops = 0    
-        while True:
-            if all(nums[i] <= nums[i+1] for i in range(len(nums) - 1)):
-                return ops
-    
-            min_sum = inf
-            min_idx = -1
-            for i in range(len(nums)-1):
-                pair_sum = nums[i] + nums[i+1]
-                if pair_sum < min_sum:
-                    min_sum = pair_sum
-                    min_idx = i
-    
-            merged = nums[min_idx] + nums[min_idx + 1]
-            nums = nums[:min_idx] + [merged] + nums[min_idx + 2:]
-            ops += 1
+                nums[idx : idx+2] = [best]
+                result += 1
+                i = 0
+            else:
+                i += 1
+        
+        return result
