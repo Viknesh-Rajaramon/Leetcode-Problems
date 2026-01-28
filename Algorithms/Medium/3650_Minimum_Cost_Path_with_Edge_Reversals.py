@@ -10,18 +10,20 @@ class Solution:
             graph[u].append((v, w))
             graph[v].append((u, 2*w))
         
-        dist = defaultdict(lambda: inf)
+        dist, min_heap = [inf] * n, [(0, 0)]
         dist[0] = 0
-        heap = [(0, 0)]
-        while heap:
-            cost, u = heappop(heap)
+        while min_heap:
+            cost, u = heappop(min_heap)
             if u == n-1:
                 return cost
             
+            if cost > dist[u]:
+                continue
+
             for v, w in graph[u]:
                 new_cost = cost + w
                 if new_cost < dist[v]:
                     dist[v] = new_cost
-                    heappush(heap, (new_cost, v))
+                    heappush(min_heap, (new_cost, v))
         
         return -1
