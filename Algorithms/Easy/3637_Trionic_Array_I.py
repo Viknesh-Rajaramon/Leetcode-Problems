@@ -2,11 +2,10 @@ from typing import List
 
 class Solution:
     def isTrionic(self, nums: List[int]) -> bool:
-        p, q = 0, 0
-
         if nums[0] >= nums[1]:
             return False
         
+        p, q = 0, 0
         for i in range(len(nums) - 1):
             if nums[i] == nums[i + 1]:
                 return False
