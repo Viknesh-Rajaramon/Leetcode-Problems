@@ -10,15 +10,15 @@ class TreeNode:
 class Solution:
     def balanceBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         nums = []
-        def dfs(node: Optional[TreeNode]) -> None:
+        def inorder_traversal(node: Optional[TreeNode]) -> None:
             if not node:
                 return
                 
-            dfs(node.left)
+            inorder_traversal(node.left)
             nums.append(node.val)
-            dfs(node.right)
+            inorder_traversal(node.right)
         
-        dfs(root)
+        inorder_traversal(root)
         
         def build_bst(low: int, high: int) -> Optional[TreeNode]:
             if low > high:
