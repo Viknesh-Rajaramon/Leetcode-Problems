@@ -2,16 +2,23 @@ from typing import List
 
 class Solution:
     def longestBalanced(self, nums: List[int]) -> int:
-        result, n = 0, len(nums)
+        result, n, seen = 0, len(nums), set()
         for i in range(n):
-            even, odd = set(), set()
+            seen.clear()
+            balance = 0
+            if result > n-i:
+                break
+            
             for j in range(i, n):
-                if nums[j] % 2 == 0:
-                    even.add(nums[j])
-                else:
-                    odd.add(nums[j])
+                if nums[j] not in seen:
+                    if nums[j] % 2:
+                        balance -= 1
+                    else:
+                        balance += 1
+                    
+                    seen.add(nums[j])
                 
-                if len(even) == len(odd):
+                if balance == 0:
                     result = max(result, j-i+1)
         
         return result
