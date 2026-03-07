@@ -1,40 +1,37 @@
 class Solution:
     def countSubarrays(self, nums: list[int], k: int, m: int) -> int:
-        currfreq1 = {}
-        currfreq3 = {}
-        i1 = 0
-        i3 = 0
-        distinct1 = 0
-
-        enough = 0 
-        res = 0
-        for j, a in enumerate(nums):
-            if a not in currfreq1:
-                currfreq1[a] = 0
-                distinct1 += 1
-            if a not in currfreq3:
-                currfreq3[a] = 0
-            currfreq1[a] += 1
-            currfreq3[a] += 1
-            if currfreq3[a] == m:
-                enough += 1 
-
-            while distinct1 > k:
-                currfreq1[nums[i1]] -= 1
-                if currfreq1[nums[i1]] == 0:
-                    del currfreq1[nums[i1]]
-                    distinct1 -= 1
-                i1 += 1
-
-            while enough >= k:
-                if currfreq3[nums[i3]] == m:
-                    enough -= 1
-                currfreq3[nums[i3]] -= 1
-                if currfreq3[nums[i3]] == 0:
-                    del currfreq3[nums[i3]]
-                i3 += 1
+        result, freq_1, freq_2, left_1, left_2, distinct, enough = 0, {}, {}, 0, 0, 0, 0
+        for num in nums:
+            if num not in freq_1:
+                freq_1[num] = 0
+                distinct += 1
             
-            if i3 > i1:
-                res += i3 - i1
-
-        return res
+            if num not in freq_2:
+                freq_2[num] = 0
+            
+            freq_1[num] += 1
+            freq_2[num] += 1
+            if freq_2[num] == m:
+                enough += 1
+            
+            while distinct > k:
+                freq_1[nums[left_1]] -= 1
+                if freq_1[nums[left_1]] == 0:
+                    del freq_1[nums[left_1]]
+                    distinct -= 1
+                
+                left_1 += 1
+            
+            while enough >= k:
+                if freq_2[nums[left_2]] == m:
+                    enough -= 1
+                
+                freq_2[nums[left_2]] -= 1
+                if freq_2[nums[left_2]] == 0:
+                    del freq_2[nums[left_2]]
+                
+                left_2 += 1
+            
+            result += max(0, left_2 - left_1)
+        
+        return result
