@@ -3,15 +3,13 @@ from typing import List
 class Solution:
     def canPartitionGrid(self, grid: List[List[int]]) -> bool:
         m, n = len(grid), len(grid[0])
-        row_sums = [sum(grid[i]) for i in range(m)]
-        col_sums = [sum(i) for i in zip(*grid)]
+        row_sums, col_sums = [sum(grid[i]) for i in range(m)], [sum(i) for i in zip(*grid)]
         total_sum = sum(row_sums)
 
         if total_sum % 2:
             return False
 
-        half_sum = total_sum // 2
-        curr_sum = 0
+        half_sum, curr_sum = total_sum // 2, 0
         for i in range(m):
             curr_sum += row_sums[i]
             if curr_sum == half_sum:
