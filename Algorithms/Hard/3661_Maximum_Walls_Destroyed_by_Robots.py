@@ -5,10 +5,7 @@ from math import inf
 class Solution:
     def maxWalls(self, robots: List[int], distance: List[int], walls: List[int]) -> int:
         def count(a, b):
-            if a > b:
-                return 0
-
-            return bisect_right(walls, b) - bisect_left(walls, a)
+            return bisect_right(walls, b) - bisect_left(walls, a) if a <= b else 0
 
         coords = sorted(zip(robots, distance)) + [[inf, 0]]
         walls.sort()
@@ -28,7 +25,5 @@ class Solution:
             new_used = max(avail+both, result+right)
             avail, result = new_avail, new_used
 
-        for x in set(x for x, _ in coords):
-            result += count(x, x)
-            
+        result += sum(count(x, x) for x in set(x for x, _ in coords))    
         return result
