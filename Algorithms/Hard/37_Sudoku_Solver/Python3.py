@@ -30,7 +30,7 @@ class Solution:
                     rows[i] |= m
                     cols[j] |= m
                     boxes[bi] |= m
-                    if backtrack(idx + 1):
+                    if backtrack(idx+1):
                         return True
                     
                     board[i][j] = "."
