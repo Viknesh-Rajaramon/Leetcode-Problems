@@ -17,3 +17,4 @@
 | # | Title | Solution |
 | :---: | :--- | :--- |
 | 2879 | [Display the First Three Rows](Pandas/Easy/2879_Display_the_First_Three_Rows) | [Pandas](Pandas/Easy/2879_Display_the_First_Three_Rows/Pandas.py) |
+| 2884 | [Modify Columns](Pandas/Easy/2884_Modify_Columns) | [Pandas](Pandas/Easy/2884_Modify_Columns/Pandas.py) |
