@@ -10,6 +10,14 @@
 | 23 | [Merge k Sorted Lists](Algorithms/Hard/23_Merge_k_Sorted_Lists) | [Python3](Algorithms/Hard/23_Merge_k_Sorted_Lists/Python3.py), Go, C++ |
 | 37 | [Sudoku Solver](Algorithms/Hard/37_Sudoku_Solver) | [Python3](Algorithms/Hard/37_Sudoku_Solver/Python3.py), Go, C++ |
 
+## Database
+
+### Easy
+
+| # | Title | Solution |
+| :---: | :--- | :--- |
+| 175 | [Combine Two Tables](Database/Easy/175_Combine_Two_Tables) | [MySQL](Database/Easy/175_Combine_Two_Tables/MySQL.sql) |
+
 ## Pandas
 
 ### Easy
