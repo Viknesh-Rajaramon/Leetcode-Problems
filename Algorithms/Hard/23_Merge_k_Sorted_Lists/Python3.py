@@ -9,27 +9,23 @@ class ListNode:
 
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        n = len(lists)
-        heap = []
-        
+        n, min_heap = len(lists), []
         ptrs = [None] * n
         for i in range(n):
             if lists[i]:
                 ptrs[i] = lists[i]
-                heappush(heap, (ptrs[i].val, i))
+                min_heap.append((ptrs[i].val, i))
         
-        result, ptr = None, None
-        while heap:
-            val, index = heappop(heap)
-            if not result:
-                result = ListNode(val)
-                ptr = result
-            else:
-                ptr.next = ListNode(val)
-                ptr = ptr.next
+        heapify(min_heap)
+        result = ListNode(0)
+        ptr = result
+        while min_heap:
+            val, index = heappop(min_heap)
+            ptr.next = ListNode(val)
+            ptr = ptr.next
             
             if ptrs[index].next:
                 ptrs[index] = ptrs[index].next
-                heappush(heap, (ptrs[index].val, index))
+                heappush(min_heap, (ptrs[index].val, index))
 
-        return result
+        return result.next
