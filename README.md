@@ -17,6 +17,7 @@
 | # | Title | Solution |
 | :---: | :--- | :--- |
 | 175 | [Combine Two Tables](Database/Easy/175_Combine_Two_Tables) | [MySQL](Database/Easy/175_Combine_Two_Tables/MySQL.sql) |
+| 181 | [Employees Earning More Than Their Managers](Database/Easy/181_Employees_Earning_More_Than_Their_Managers) | [MySQL](Database/Easy/181_Employees_Earning_More_Than_Their_Managers/MySQL.sql) |
 
 ## Pandas
 
