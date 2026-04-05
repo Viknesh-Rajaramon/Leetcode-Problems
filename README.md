@@ -30,6 +30,12 @@
 | 596 | [Classes With at Least 5 Students](Database/Easy/596_Classes_More_Than_5_Students) | [MySQL](Database/Easy/596_Classes_More_Than_5_Students/MySQL.sql) |
 | 3570 | [Find Books with No Available Copies](Database/Easy/3570_Find_Books_with_No_Available_Copies) | [MySQL](Database/Easy/3570_Find_Books_with_No_Available_Copies/MySQL.sql) |
 
+### Medium
+
+| # | Title | Solution |
+| :---: | :--- | :--- |
+| 176 | [Second Highest Salary](Database/Medium/176_Second_Highest_Salary) | [MySQL](Database/Medium/176_Second_Highest_Salary/MySQL.sql) |
+
 ## Pandas
 
 ### Easy
