@@ -24,6 +24,7 @@
 | 197 | [Rising Temperature](Database/Easy/197_Rising_Temperature) | [MySQL](Database/Easy/197_Rising_Temperature/MySQL.sql) |
 | 511 | [Game Play Analysis I](Database/Easy/511_Game_Play_Analysis_I) | [MySQL](Database/Easy/511_Game_Play_Analysis_I/MySQL.sql) |
 | 577 | [Employee Bonus](Database/Easy/577_Employee_Bonus) | [MySQL](Database/Easy/577_Employee_Bonus/MySQL.sql) |
+| 584 | [Find Customer Referee](Database/Easy/584_Find_Customer_Referee) | [MySQL](Database/Easy/584_Find_Customer_Referee/MySQL.sql) |
 
 ## Pandas
 
