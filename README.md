@@ -27,6 +27,7 @@
 | 584 | [Find Customer Referee](Database/Easy/584_Find_Customer_Referee) | [MySQL](Database/Easy/584_Find_Customer_Referee/MySQL.sql) |
 | 586 | [Customer Placing the Largest Number of Orders](Database/Easy/586_Customer_Placing_the_Largest_Number_of_Orders) | [MySQL](Database/Easy/586_Customer_Placing_the_Largest_Number_of_Orders/MySQL.sql) |
 | 595 | [Big Countries](Database/Easy/595_Big_Countries) | [MySQL](Database/Easy/595_Big_Countries/MySQL.sql) |
+| 596 | [Classes With at Least 5 Students](Database/Easy/596_Classes_More_Than_5_Students) | [MySQL](Database/Easy/596_Classes_More_Than_5_Students/MySQL.sql) |
 
 ## Pandas
 
