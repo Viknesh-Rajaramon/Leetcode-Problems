@@ -33,9 +33,11 @@ record_id is the unique identifier for this table.
 Each row represents a borrowing transaction and return_date is NULL if the book is currently borrowed and hasn't been returned yet.
 </pre>
 
-Write a solution to report the first name, last name, city, and state of each person in the `Person` table. If the address of a `personId` is not present in the `Address` table, report `null` instead.
+Write a solution to find **all books** that are **currently borrowed (not returned)** and have **zero copies available** in the library.
 
-Return the result table in **any order**.
+• A book is considered **currently borrowed** if there exists a borrowing record with a **NULL** `return_date`
+
+Return *the result table ordered by current borrowers in **descending** order, then by book title in **ascending** order*.
 
 The result format is in the following example.
 
