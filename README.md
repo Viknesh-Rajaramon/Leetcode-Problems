@@ -36,6 +36,7 @@
 | :---: | :--- | :--- |
 | 176 | [Second Highest Salary](Database/Medium/176_Second_Highest_Salary) | [MySQL](Database/Medium/176_Second_Highest_Salary/MySQL.sql) |
 | 177 | [Nth Highest Salary](Database/Medium/177_Nth_Highest_Salary) | [MySQL](Database/Medium/177_Nth_Highest_Salary/MySQL.sql) |
+| 178 | [Rank Scores](Database/Medium/178_Rank_Scores) | [MySQL](Database/Medium/178_Rank_Scores/MySQL.sql) |
 
 ## Pandas
 
