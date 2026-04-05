@@ -2,6 +2,14 @@
 
 ## Algorithms
 
+### Medium
+
+| # | Title | Solution |
+| :---: | :--- | :--- |
+| 3889 | [Mirror Frequency Distance](https://leetcode.com/problems/mirror-frequency-distance/description/) | [Python3](Algorithms/Medium/3889_Mirror_Frequency_Distance/Python3.py), Go, C++ |
+| 3890 | [Integers With Multiple Sum of Two Cubes](https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/description/) | [Python3](Algorithms/Medium/3890_Integers_With_Multiple_Sum_of_Two_Cubes/Python3.py), Go, C++ |
+| 3891 | [Minimum Increase to Maximize Special Indices](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/description/) | [Python3](Algorithms/Medium/3891_Minimum_Increase_to_Maximize_Special_Indices/Python3.py), Go, C++ |
+
 ### Hard
 
 | # | Title | Solution |
@@ -9,6 +17,7 @@
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python3](Algorithms/Hard/4_Median_of_Two_Sorted_Arrays/Python3.py), Go, C++ |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Python3](Algorithms/Hard/23_Merge_k_Sorted_Lists/Python3.py), Go, C++ |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python3](Algorithms/Hard/37_Sudoku_Solver/Python3.py), Go, C++ |
+| 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/description/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
 
