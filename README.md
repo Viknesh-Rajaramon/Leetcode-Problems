@@ -21,6 +21,7 @@
 | 182 | [Duplicate Emails](Database/Easy/182_Duplicate_Emails) | [MySQL](Database/Easy/182_Duplicate_Emails/MySQL.sql) |
 | 183 | [Customers Who Never Order](Database/Easy/183_Customers_Who_Never_Order) | [MySQL](Database/Easy/183_Customers_Who_Never_Order/MySQL.sql) |
 | 196 | [Delete Duplicate Emails](Database/Easy/196_Delete_Duplicate_Emails) | [MySQL](Database/Easy/196_Delete_Duplicate_Emails/MySQL.sql) |
+| 197 | [Rising Temperature](Database/Easy/197_Rising_Temperature) | [MySQL](Database/Easy/197_Rising_Temperature/MySQL.sql) |
 
 ## Pandas
 
