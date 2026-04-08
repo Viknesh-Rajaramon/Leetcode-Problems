@@ -8,6 +8,7 @@
 | :---: | :--- | :--- |
 | 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Python3](Algorithms/Medium/874_Walking_Robot_Simulation/Python3.py), Go, C++ |
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Python3](Algorithms/Medium/2069_Walking_Robot_Simulation_II/Python3.py), Go, C++ |
+| 3653 | [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Python3](Algorithms/Medium/3653_XOR_After_Range_Multiplication_Queries_I/Python3.py), Go, C++ |
 | 3889 | [Mirror Frequency Distance](https://leetcode.com/problems/mirror-frequency-distance/) | [Python3](Algorithms/Medium/3889_Mirror_Frequency_Distance/Python3.py), Go, C++ |
 | 3890 | [Integers With Multiple Sum of Two Cubes](https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/) | [Python3](Algorithms/Medium/3890_Integers_With_Multiple_Sum_of_Two_Cubes/Python3.py), Go, C++ |
 | 3891 | [Minimum Increase to Maximize Special Indices](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | [Python3](Algorithms/Medium/3891_Minimum_Increase_to_Maximize_Special_Indices/Python3.py), Go, C++ |
