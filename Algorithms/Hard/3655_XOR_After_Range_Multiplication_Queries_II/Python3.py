@@ -3,11 +3,8 @@ from collections import defaultdict
 
 class Solution:
     def xorAfterQueries(self, nums: List[int], queries: List[List[int]]) -> int:
-        MOD = 10**9 + 7
-        n = len(nums)
-        B = int(n**0.5) + 1
-        
-        groups, large = defaultdict(list), []
+        MOD, n = 10**9 + 7, len(nums)
+        B, groups, large = int(n**0.5) + 1, defaultdict(list), []
         for l, r, k, v in queries:
             if k <= B:
                 groups[(k, l % k)].append((l, r, v))
@@ -30,10 +27,8 @@ class Solution:
                 pos += k
             
         for l, r, k, v in large:
-            i = l
-            while i <= r:
+            for i in range(l, r+1, k):
                 nums[i] = (nums[i] * v) % MOD
-                i += k
         
         result = 0
         for num in nums:
