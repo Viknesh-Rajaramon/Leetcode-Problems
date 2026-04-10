@@ -2,6 +2,12 @@
 
 ## Algorithms
 
+### Easy
+
+| # | Title | Solution |
+| :---: | :--- | :--- |
+| 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Python3](Algorithms/Easy/3740_Minimum_Distance_Between_Three_Equal_Elements_I/Python3.py), Go, C++ |
+
 ### Medium
 
 | # | Title | Solution |
