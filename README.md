@@ -32,6 +32,7 @@
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Python3](Algorithms/Hard/85_Maximal_Rectangle/Python3.py), Go, C++ |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Python3](Algorithms/Hard/127_Word_Ladder/Python3.py), Go, C++ |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Python3](Algorithms/Hard/135_Candy/Python3.py), Go, C++ |
+| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Python3](Algorithms/Hard/407_Trapping_Rain_Water_II/Python3.py), Go, C++ |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Python3](Algorithms/Hard/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |

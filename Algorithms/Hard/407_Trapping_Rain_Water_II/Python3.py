@@ -3,9 +3,7 @@ from heapq import heappush, heappop
 
 class Solution:
     def trapRainWater(self, heightMap: List[List[int]]) -> int:
-        m, n = len(heightMap), len(heightMap[0])
-
-        visited, boundary = set(), []
+        m, n, visited, boundary = len(heightMap), len(heightMap[0]), set(), []
         for i in range(m):
             heappush(boundary, (heightMap[i][0], i, 0))
             visited.add((i, 0))
