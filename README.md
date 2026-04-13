@@ -6,6 +6,7 @@
 
 | # | Title | Solution |
 | :---: | :--- | :--- |
+| 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Python3](Algorithms/Easy/1848_Minimum_Distance_to_the_Target_Element/Python3.py), Go, C++ |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Python3](Algorithms/Easy/3740_Minimum_Distance_Between_Three_Equal_Elements_I/Python3.py), Go, C++ |
 
 ### Medium
