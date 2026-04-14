@@ -37,6 +37,7 @@
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | [Python3](Algorithms/Hard/679_24_Game/Python3.py), Go, C++ |
 | 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Python3](Algorithms/Hard/757_Set_Intersection_Size_At_Least_Two/Python3.py), Go, C++ |
 | 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [Python3](Algorithms/Hard/761_Special_Binary_String/Python3.py), Go, C++ |
+| 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Python3](Algorithms/Hard/778_Swim_in_Rising_Water/Python3.py), Go, C++ |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Python3](Algorithms/Hard/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers/Python3.py), Go, C++ |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Python3](Algorithms/Hard/2463_Minimum_Total_Distance_Traveled/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |

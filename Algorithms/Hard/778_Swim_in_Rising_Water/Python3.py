@@ -3,7 +3,6 @@ from typing import List
 class Solution:
     def swimInWater(self, grid: List[List[int]]) -> int:
         n = len(grid)
-
         def dfs(u: int, v: int, t: int, visited: set) -> bool:
             if u == n-1 and v == n-1:
                 return True
