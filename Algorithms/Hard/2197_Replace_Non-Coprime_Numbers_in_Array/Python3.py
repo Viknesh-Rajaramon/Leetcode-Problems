@@ -3,9 +3,7 @@ from math import gcd, lcm
 
 class Solution:
     def replaceNonCoprimes(self, nums: List[int]) -> List[int]:
-        result = []
-
-        curr = nums[0]
+        result, curr = [], nums[0]
         for num in nums[1 : ]:
             if gcd(curr, num) > 1:
                 curr = lcm(curr, num)
