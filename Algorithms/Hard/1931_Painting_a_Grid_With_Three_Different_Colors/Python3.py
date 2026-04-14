@@ -1,15 +1,11 @@
 from collections import defaultdict
 
-mod = 10**9 + 7
-
 class Solution:
     def colorTheGrid(self, m: int, n: int) -> int:
-        valid = {}
-
+        mod, valid = 10**9 + 7, {}
         for mask in range(3**m):
-            color = []
-            mm = mask
-            for i in range(m):
+            color, mm = [], mask
+            for _ in range(m):
                 color.append(mm % 3)
                 mm //= 3
             
