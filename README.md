@@ -51,6 +51,7 @@
 | 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Python3](Algorithms/Hard/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II/Python3.py), Go, C++ |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Python3](Algorithms/Hard/1857_Largest_Color_Value_in_a_Directed_Graph/Python3.py), Go, C++ |
 | 1900 | [The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | [Python3](Algorithms/Hard/1900_The_Earliest_and_Latest_Rounds_Where_Players_Compete/Python3.py), Go, C++ |
+| 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | [Python3](Algorithms/Hard/1912_Design_Movie_Rental_System/Python3.py), Go, C++ |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Python3](Algorithms/Hard/2463_Minimum_Total_Distance_Traveled/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
