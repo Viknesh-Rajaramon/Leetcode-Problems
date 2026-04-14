@@ -61,6 +61,7 @@
 | 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | [Python3](Algorithms/Hard/2081_Sum_of_k-Mirror_Numbers/Python3.py), Go, C++ |
 | 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | [Python3](Algorithms/Hard/2092_Find_All_People_With_Secret/Python3.py), Go, C++ |
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [Python3](Algorithms/Hard/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps/Python3.py), Go, C++ |
+| 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [Python3](Algorithms/Hard/2141_Maximum_Running_Time_of_N_Computers/Python3.py), Go, C++ |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Python3](Algorithms/Hard/2463_Minimum_Total_Distance_Traveled/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
