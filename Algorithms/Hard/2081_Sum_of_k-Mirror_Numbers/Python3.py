@@ -8,11 +8,9 @@ class Solution:
 
             return result == result[::-1]
         
-        result = 0
-        left = 1
+        result, left = 0, 1
         while n > 0:
             right = left * 10
-            
             for op in [0, 1]:
                 for i in range(left, right):
                     if n == 0:
