@@ -44,6 +44,7 @@
 | 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Python3](Algorithms/Hard/1298_Maximum_Candies_You_Can_Get_from_Boxes/Python3.py), Go, C++ |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Python3](Algorithms/Hard/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers/Python3.py), Go, C++ |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [Python3](Algorithms/Hard/1411_Number_of_Ways_to_Paint_N_x_3_Grid/Python3.py), Go, C++ |
+| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Python3](Algorithms/Hard/1458_Max_Dot_Product_of_Two_Subsequences/Python3.py), Go, C++ |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Python3](Algorithms/Hard/2463_Minimum_Total_Distance_Traveled/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
