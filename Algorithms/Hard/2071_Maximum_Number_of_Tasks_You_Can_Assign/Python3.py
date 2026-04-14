@@ -8,8 +8,7 @@ class Solution:
         workers.sort()
 
         def check(mid: int) -> bool:
-            p = pills
-            workers_sorted = SortedList(workers[m - mid : ])
+            p, workers_sorted = pills, SortedList(workers[m - mid : ])
             for i in range(mid - 1, -1, -1):
                 if workers_sorted[i] >= tasks[i]:
                     workers_sorted.pop()
@@ -26,13 +25,11 @@ class Solution:
             
             return True
 
-        result = 0
-        low, high = 1, min(n, m)
+        result, low, high = 0, 1, min(n, m)
         while low <= high:
             mid = (low + high) // 2
             if check(mid):
-                result = mid
-                low = mid + 1
+                result, low = mid, mid + 1
             else:
                 high = mid - 1
         
