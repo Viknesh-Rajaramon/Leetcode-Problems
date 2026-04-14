@@ -41,6 +41,7 @@
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Python3](Algorithms/Hard/960_Delete_Columns_to_Make_Sorted_III/Python3.py), Go, C++ |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Python3](Algorithms/Hard/1028_Recover_a_Tree_From_Preorder_Traversal/Python3.py), Go, C++ |
 | 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [Python3](Algorithms/Hard/1092_Shortest_Common_Supersequence_/Python3.py), Go, C++ |
+| 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Python3](Algorithms/Hard/1298_Maximum_Candies_You_Can_Get_from_Boxes/Python3.py), Go, C++ |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Python3](Algorithms/Hard/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers/Python3.py), Go, C++ |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Python3](Algorithms/Hard/2463_Minimum_Total_Distance_Traveled/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |

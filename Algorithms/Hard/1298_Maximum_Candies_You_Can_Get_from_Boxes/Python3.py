@@ -3,18 +3,17 @@ from collections import deque
 
 class Solution:
     def maxCandies(self, status: List[int], candies: List[int], keys: List[List[int]], containedBoxes: List[List[int]], initialBoxes: List[int]) -> int:
-        queue = deque()
-        have_boxes = set()
+        queue, have_boxes = deque(), set()
         for box in initialBoxes:
             if status[box] == 1:
                 queue.append(box)
             else:
                 have_boxes.add(box)
 
-        collected_candies = 0
+        result = 0
         while queue:
             box = queue.popleft()
-            collected_candies += candies[box]
+            result += candies[box]
             
             for key in keys[box]:
                 status[key] = 1
@@ -34,4 +33,4 @@ class Solution:
             for n in new:
                 have_boxes.remove(n)
         
-        return collected_candies
+        return result
