@@ -59,6 +59,7 @@
 | 2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) | [Python3](Algorithms/Hard/2040_Kth_Smallest_Product_of_Two_Sorted_Arrays/Python3.py), Go, C++ |
 | 2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | [Python3](Algorithms/Hard/2071_Maximum_Number_of_Tasks_You_Can_Assign/Python3.py), Go, C++ |
 | 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | [Python3](Algorithms/Hard/2081_Sum_of_k-Mirror_Numbers/Python3.py), Go, C++ |
+| 2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | [Python3](Algorithms/Hard/2092_Find_All_People_With_Secret/Python3.py), Go, C++ |
 | 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Python3](Algorithms/Hard/2463_Minimum_Total_Distance_Traveled/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
