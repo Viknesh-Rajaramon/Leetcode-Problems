@@ -2,8 +2,7 @@ from typing import List
 
 class Solution:
     def countSubarrays(self, nums: List[int], k: int) -> int:
-        i = 0
-        total, result = 0, 0
+        result, total, i = 0, 0, 0
         for j in range(len(nums)):
             total += nums[j]
             
