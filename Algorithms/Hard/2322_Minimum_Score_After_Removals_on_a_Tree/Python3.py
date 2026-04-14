@@ -4,18 +4,12 @@ from math import inf
 
 class Solution:
     def minimumScore(self, nums: List[int], edges: List[List[int]]) -> int:
-        n = len(nums)
-        
-        tree = defaultdict(list)
+        n, tree = len(nums), defaultdict(list)
         for u, v in edges:
             tree[u].append(v)
             tree[v].append(u)
 
-        xor = [0] * n
-        parent = [0] * n
-        in_time, out_time = [0] * n, [0] * n
-        time = 0
-        
+        xor, parent, in_time, out_time, time = [0] * n, [0] * n, [0] * n, [0] * n, 0
         stack = [(0, -1, False)]
         while stack:
             node, p, visited = stack.pop()
