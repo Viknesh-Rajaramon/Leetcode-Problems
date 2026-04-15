@@ -98,6 +98,7 @@
 | 3337 | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | [Python3](Algorithms/Hard/3337_Total_Characters_in_String_After_Transformations_II/Python3.py), Go, C++ |
 | 3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/) | [Python3](Algorithms/Hard/3343_Count_Number_of_Balanced_Permutations/Python3.py), Go, C++ |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [Python3](Algorithms/Hard/3347_Maximum_Frequency_of_an_Element_After_Performing_Operations_II/Python3.py), Go, C++ |
+| 3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | [Python3](Algorithms/Hard/3363_Find_the_Maximum_Number_of_Fruits_Collected/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
