@@ -109,6 +109,7 @@
 | 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Python3](Algorithms/Hard/3510_Minimum_Pair_Removal_to_Sort_Array_II/Python3.py), Go, C++ |
 | 3533 | [Concatenated Divisibility](https://leetcode.com/problems/concatenated-divisibility/) | [Python3](Algorithms/Hard/3533_Concatenated_Divisibility/Python3.py), Go, C++ |
 | 3539 | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [Python3](Algorithms/Hard/3539_Find_Sum_of_Array_Product_of_Magical_Sequences/Python3.py), Go, C++ |
+| 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Python3](Algorithms/Hard/3548_Equal_Sum_Grid_Partition_II/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
