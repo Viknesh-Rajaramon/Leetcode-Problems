@@ -20,10 +20,7 @@ class Solution:
                 self.parent[x] = y
                 return True
         
-        uf = UF(n)
-        must_edges, opt_edges = [], []
-        tree_edges = 0
-
+        uf, must_edges, opt_edges, tree_edges = UF(n), [], [], 0
         for u, v, s, m in edges:
             if m == 0:
                 opt_edges.append((u, v, s))
