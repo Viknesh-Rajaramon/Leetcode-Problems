@@ -4,8 +4,7 @@ class Solution:
     def maxPartitionsAfterOperations(self, s: str, k: int) -> int:
         set_bits = [1 << (ord(c) - ord("a")) for c in s]
         def make_prefix(set_bits: List[int]) -> Tuple[List[int], List[int]]:
-            prefix, prefix_mask = [0], [0]
-            mask, group = 0, 0
+            prefix, prefix_mask, mask, group = [0], [0], 0, 0
             for curr_bit_set_index in set_bits:
                 mask |= curr_bit_set_index
                 if mask.bit_count() > k:
