@@ -9,4 +9,4 @@ class Solution:
         pair_weights = [weights[i]+weights[i+1] for i in range(n-1)]
 
         pair_weights.sort()
-        return sum(pair_weights[n-k:]) - sum(pair_weights[:k-1])
+        return sum(pair_weights[n-k : ]) - sum(pair_weights[ : k-1])
