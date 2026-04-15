@@ -77,6 +77,7 @@
 | 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [Python3](Algorithms/Hard/2503_Maximum_Number_of_Points_From_Grid_Queries/Python3.py), Go, C++ |
 | 2528 | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Python3](Algorithms/Hard/2528_Maximize_the_Minimum_Powered_City/Python3.py), Go, C++ |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | [Python3](Algorithms/Hard/2551_Put_Marbles_in_Bags/Python3.py), Go, C++ |
+| 2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/) | [Python3](Algorithms/Hard/2561_Rearranging_Fruits/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
