@@ -14,9 +14,7 @@ class Solution:
                 return self.parent[x]
             
             def union(self, x: int, y: int):
-                x = self.find(x)
-                y = self.find(y)
-
+                x, y = self.find(x), self.find(y)
                 if x != y:
                     if self.size[x] < self.size[y]:
                         self.parent[x] = y
@@ -26,25 +24,17 @@ class Solution:
                         self.size[x] += self.size[y]
         
         uf = UF(n)
-
         for u, v, w in edges:
             uf.union(u, v)
         
         comp_cost = {}
         for u, v, w in edges:
             root = uf.find(u)
-            if root not in comp_cost:
-                comp_cost[root] = w
-            else:
-                comp_cost[root] &= w
+            comp_cost[root] = w if root not in comp_cost else comp_cost[root] & w
         
-        ans = []
+        result = []
         for u, v in query:
             r1, r2 = uf.find(u), uf.find(v)
-
-            if r1 != r2:
-                ans.append(-1)
-            else:
-                ans.append(comp_cost[r1])
+            result.append(-1 if r1 != r2 else comp_cost[r1])
         
-        return ans
+        return result
