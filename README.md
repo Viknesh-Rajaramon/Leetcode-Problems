@@ -103,6 +103,7 @@
 | 3445 | [Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Python3](Algorithms/Hard/3445_Maximum_Difference_Between_Even_and_Odd_Frequency_II/Python3.py), Go, C++ |
 | 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | [Python3](Algorithms/Hard/3454_Separate_Squares_II/Python3.py), Go, C++ |
 | 3459 | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [Python3](Algorithms/Hard/3459_Length_of_Longest_V-Shaped_Diagonal_Segment/Python3.py), Go, C++ |
+| 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [Python3](Algorithms/Hard/3474_Lexicographically_Smallest_Generated_String/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
