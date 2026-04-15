@@ -82,6 +82,7 @@
 | 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [Python3](Algorithms/Hard/2751_Robot_Collisions/Python3.py), Go, C++ |
 | 2818 | [Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/) | [Python3](Algorithms/Hard/2818_Apply_Operations_to_Maximize_Score/Python3.py), Go, C++ |
 | 2872 | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Python3](Algorithms/Hard/2872_Maximum_Number_of_K-Divisible_Components/Python3.py), Go, C++ |
+| 2977 | [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Python3](Algorithms/Hard/2977_Minimum_Cost_to_Convert_String_II/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
