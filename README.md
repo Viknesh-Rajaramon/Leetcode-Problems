@@ -85,6 +85,7 @@
 | 2977 | [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Python3](Algorithms/Hard/2977_Minimum_Cost_to_Convert_String_II/Python3.py), Go, C++ |
 | 2999 | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [Python3](Algorithms/Hard/2999_Count_the_Number_of_Powerful_Integers/Python3.py), Go, C++ |
 | 3003 | [Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | [Python3](Algorithms/Hard/3003_Maximize_the_Number_of_Partitions_After_Operations/Python3.py), Go, C++ |
+| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [Python3](Algorithms/Hard/3013_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_II/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
