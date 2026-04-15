@@ -101,6 +101,7 @@
 | 3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | [Python3](Algorithms/Hard/3363_Find_the_Maximum_Number_of_Fruits_Collected/Python3.py), Go, C++ |
 | 3405 | [Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [Python3](Algorithms/Hard/3405_Count_the_Number_of_Arrays_with_K_Matching_Adjacent_Elements/Python3.py), Go, C++ |
 | 3445 | [Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Python3](Algorithms/Hard/3445_Maximum_Difference_Between_Even_and_Odd_Frequency_II/Python3.py), Go, C++ |
+| 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | [Python3](Algorithms/Hard/3454_Separate_Squares_II/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
