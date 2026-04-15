@@ -89,6 +89,7 @@
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Python3](Algorithms/Hard/3027_Find_the_Number_of_Ways_to_Place_People_II/Python3.py), Go, C++ |
 | 3068 | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | [Python3](Algorithms/Hard/3068_Find_the_Maximum_Sum_of_Node_Values/Python3.py), Go, C++ |
 | 3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Python3](Algorithms/Hard/3108_Minimum_Cost_Walk_in_Weighted_Graph/Python3.py), Go, C++ |
+| 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [Python3](Algorithms/Hard/3130_Find_All_Possible_Stable_Binary_Arrays_II/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
