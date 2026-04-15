@@ -2,11 +2,9 @@ from typing import List
 
 class Solution:
     def countSubarrays(self, nums: List[int], minK: int, maxK: int) -> int:
-        result = 0
-        max_index, min_index, l = -1, -1, 0
-
+        result, max_index, min_index, l = 0, -1, -1, 0
         for r, num in enumerate(nums):
-            if not (minK < num < maxK):
+            if num < minK or num > maxK:
                 l = r + 1
                 continue
 
