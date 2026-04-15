@@ -1,7 +1,6 @@
 from typing import List
-from collections import deque
 from math import sqrt
-from heapq import heappush, heappop
+from heapq import heapify, heappop
 
 class Solution:
     def maximumScore(self, nums: List[int], k: int) -> int:
@@ -24,13 +23,9 @@ class Solution:
             
             return len(s)
         
-        n = len(nums)
-        mod = 10**9 + 7
+        n, mod = len(nums), 10**9 + 7
         prime_scores = [distinct_prime_factors(nums[i]) for i in range(n)]
-        left = [-1] * n
-        right = [n] * n
-        
-        stack = deque()
+        left, right, stack = [-1] * n, [n] * n, []
         for i in range(n):
             while stack and prime_scores[stack[-1]] < prime_scores[i]:
                 stack.pop()
@@ -40,7 +35,7 @@ class Solution:
             
             stack.append(i)
         
-        stack = deque()
+        stack = []
         for i in range(n-1, -1, -1):
             while stack and prime_scores[stack[-1]] <= prime_scores[i]:
                 stack.pop()
@@ -50,17 +45,14 @@ class Solution:
             
             stack.append(i)
         
-        ranges = [(i - left[i]) * (right[i] - i) for i in range(n)]
+        heap = [(-nums[i], (i-left[i]) * (right[i]-i)) for i in range(n)]
+        heapify(heap)
 
-        heap = []
-        for i in range(n):
-            heappush(heap, (-nums[i], ranges[i]))
-        
-        ans = 1
+        result = 1
         while k > 0:
             num, count = heappop(heap)
             use = min(count, k)
-            ans = (ans * pow(-num, use, mod)) % mod
+            result = (result * pow(-num, use, mod)) % mod
             k -= use
         
-        return ans
+        return result

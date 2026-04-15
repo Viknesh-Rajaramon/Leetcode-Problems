@@ -80,6 +80,7 @@
 | 2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/) | [Python3](Algorithms/Hard/2561_Rearranging_Fruits/Python3.py), Go, C++ |
 | 2573 | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/) | [Python3](Algorithms/Hard/2573_Find_the_String_with_LCP/Python3.py), Go, C++ |
 | 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [Python3](Algorithms/Hard/2751_Robot_Collisions/Python3.py), Go, C++ |
+| 2818 | [Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/) | [Python3](Algorithms/Hard/2818_Apply_Operations_to_Maximize_Score/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
