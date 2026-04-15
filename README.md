@@ -92,6 +92,7 @@
 | 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [Python3](Algorithms/Hard/3130_Find_All_Possible_Stable_Binary_Arrays_II/Python3.py), Go, C++ |
 | 3197 | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Python3](Algorithms/Hard/3197_Find_the_Minimum_Area_to_Cover_All_Ones_II/Python3.py), Go, C++ |
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Python3](Algorithms/Hard/3272_Find_the_Count_of_Good_Integers/Python3.py), Go, C++ |
+| 3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | [Python3](Algorithms/Hard/3307_Find_the_K-th_Character_in_String_Game_II/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
