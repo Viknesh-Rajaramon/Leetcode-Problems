@@ -3,8 +3,7 @@ from functools import lru_cache
 
 class Solution:
     def lenOfVDiagonal(self, grid: List[List[int]]) -> int:
-        n, m = len(grid), len(grid[0])
-        directions = [(1, 1), (1, -1), (-1, -1), (-1, 1)]
+        n, m, directions = len(grid), len(grid[0]), [(1, 1), (1, -1), (-1, -1), (-1, 1)]
         expected_value = [2, 2, 0]
 
         @lru_cache(None)
