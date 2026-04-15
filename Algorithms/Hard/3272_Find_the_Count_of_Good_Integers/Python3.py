@@ -9,10 +9,7 @@ class Solution:
             
             return f
 
-        s = set()
-        base = 10**((n-1) // 2)
-        skip = n & 1
-
+        s, base, skip = set(), 10**((n-1) // 2), n&1
         for i in range(base, 10*base):
             num_str = str(i)
             num_str = num_str + num_str[::-1][skip:]
@@ -20,8 +17,7 @@ class Solution:
             if int(num_str) % k == 0:
                 s.add("".join(sorted(num_str)))
             
-        f = factorial()
-        ans = 0
+        result, f = 0, factorial()
         for num in s:
             count = [0] * 10
             for c in num:
@@ -31,6 +27,6 @@ class Solution:
             for x in count:
                 total //= f[x]
             
-            ans += total
+            result += total
         
-        return ans
+        return result
