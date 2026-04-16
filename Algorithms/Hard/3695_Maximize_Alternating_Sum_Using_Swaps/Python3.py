@@ -13,8 +13,7 @@ class Solution:
             if i in visited:
                 continue
             
-            idx, val = [], []
-            st = [i]
+            idx, val, st = [], [], [i]
             visited.add(i)
 
             while st:
