@@ -133,6 +133,7 @@
 | 3671 | [Sum of Beautiful Subsequences](https://leetcode.com/problems/sum-of-beautiful-subsequences/) | [Python3](Algorithms/Hard/3671_Sum_of_Beautiful_Subsequences/Python3.py), Go, C++ |
 | 3677 | [Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/) | [Python3](Algorithms/Hard/3677_Count_Binary_Palindromic_Numbers/Python3.py), Go, C++ |
 | 3681 | [Maximum XOR of Subsequences](https://leetcode.com/problems/maximum-xor-of-subsequences/) | [Python3](Algorithms/Hard/3681_Maximum_XOR_of_Subsequences/Python3.py), Go, C++ |
+| 3686 | [Number of Stable Subsequences](https://leetcode.com/problems/number-of-stable-subsequences/) | [Python3](Algorithms/Hard/3686_Number_of_Stable_Subsequences/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
