@@ -40,10 +40,7 @@ class Solution:
             
             return depth_cache[x]
         
-        n = len(nums)
-        max_depth = 6
-        depths = [get_depth(num) for num in nums]
-
+        n, max_depth, depths = len(nums), 6, [get_depth(num) for num in nums]
         trees = [Fenwick_Tree(n) for _ in range(max_depth + 1)]
         for i, d in enumerate(depths):
             trees[d].update(i, 1)
@@ -56,8 +53,7 @@ class Solution:
                 result.append(count)
             else:
                 _, idx, val = q
-                old_depth = depths[idx]
-                new_depth = get_depth(val)
+                old_depth, new_depth = depths[idx], get_depth(val)
                 if old_depth != new_depth:
                     trees[old_depth].update(idx, -1)
                     trees[new_depth].update(idx, 1)
