@@ -16,6 +16,7 @@
 | :---: | :--- | :--- |
 | 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Python3](Algorithms/Medium/874_Walking_Robot_Simulation/Python3.py), Go, C++ |
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Python3](Algorithms/Medium/2069_Walking_Robot_Simulation_II/Python3.py), Go, C++ |
+| 3488 | [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) | [Python3](Algorithms/Medium/3488_Closest_Equal_Element_Queries/Python3.py), Go, C++ |
 | 3653 | [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Python3](Algorithms/Medium/3653_XOR_After_Range_Multiplication_Queries_I/Python3.py), Go, C++ |
 | 3741 | [Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | [Python3](Algorithms/Medium/3741_Minimum_Distance_Between_Three_Equal_Elements_II/Python3.py), Go, C++ |
 | 3889 | [Mirror Frequency Distance](https://leetcode.com/problems/mirror-frequency-distance/) | [Python3](Algorithms/Medium/3889_Mirror_Frequency_Distance/Python3.py), Go, C++ |
