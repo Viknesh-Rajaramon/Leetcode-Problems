@@ -1,8 +1,6 @@
 class Solution:
     def minMoves(self, sx: int, sy: int, tx: int, ty: int) -> int:
-        result = 0
-
-        x, y = tx, ty
+        result, x, y = 0, tx, ty
         while x > sx or y > sy:
             result += 1
 

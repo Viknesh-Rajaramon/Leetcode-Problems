@@ -115,6 +115,7 @@
 | 3590 | [Kth Smallest Path XOR Sum](https://leetcode.com/problems/kth-smallest-path-xor-sum/) | [Python3](Algorithms/Hard/3590_Kth_Smallest_Path_XOR_Sum/Python3.py), Go, C++ |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Python3](Algorithms/Hard/3600_Maximize_Spanning_Tree_Stability_with_Upgrades/Python3.py), Go, C++ |
 | 3605 | [Minimum Stability Factor of Array](https://leetcode.com/problems/minimum-stability-factor-of-array/) | [Python3](Algorithms/Hard/3605_Minimum_Stability_Factor_of_Array/Python3.py), Go, C++ |
+| 3609 | [Minimum Moves to Reach Target in Grid](https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/) | [Python3](Algorithms/Hard/3609_Minimum_Moves_to_Reach_Target_in_Grid/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
