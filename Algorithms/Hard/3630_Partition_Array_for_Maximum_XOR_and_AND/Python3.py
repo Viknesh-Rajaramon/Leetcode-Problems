@@ -3,10 +3,7 @@ from itertools import combinations
 
 class Solution:
     def maximizeXorAndXor(self, nums: List[int]) -> int:
-        n = len(nums)
-        total_mask = (1 << 31) - 1
-        result = 0
-
+        result, n, total_mask = 0, len(nums), (1 << 31) - 1
         def f(x: List[int]) -> int:
             b = []
             for v in x:
