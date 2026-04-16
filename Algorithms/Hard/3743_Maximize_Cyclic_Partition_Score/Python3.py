@@ -3,7 +3,6 @@ from math import inf
 
 class Solution:
     def maximumScore(self, nums: List[int], k: int) -> int:
-        n = len(nums)
         def solve(arr: List[int]) -> int:
             dp = [[-inf] * 3 for _ in range(k+2)]
             for i in range(1, k+2):
