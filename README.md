@@ -144,6 +144,7 @@
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | [Python3](Algorithms/Hard/3721_Longest_Balanced_Subarray_II/Python3.py), Go, C++ |
 | 3725 | [Count Ways to Choose Coprime Integers from Rows](https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/) | [Python3](Algorithms/Hard/3725_Count_Ways_to_Choose_Coprime_Integers_from_Rows/Python3.py), Go, C++ |
 | 3729 | [Count Distinct Subarrays Divisible by K in Sorted Array](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/) | [Python3](Algorithms/Hard/3729_Count_Distinct_Subarrays_Divisible_by_K_in_Sorted_Array/Python3.py), Go, C++ |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Python3](Algorithms/Hard/3734_Lexicographically_Smallest_Palindromic_Permutation_Greater_Than_Target/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
