@@ -123,6 +123,7 @@
 | 3624 | [Number of Integers With Popcount-Depth Equal to K II](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii/) | [Python3](Algorithms/Hard/3624_Number_of_Integers_With_Popcount-Depth_Equal_to_K_II/Python3.py), Go, C++ |
 | 3625 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | [Python3](Algorithms/Hard/3625_Count_Number_of_Trapezoids_II/Python3.py), Go, C++ |
 | 3630 | [Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/) | [Python3](Algorithms/Hard/3630_Partition_Array_for_Maximum_XOR_and_AND/Python3.py), Go, C++ |
+| 3636 | [Threshold Majority Queries](https://leetcode.com/problems/threshold-majority-queries/) | [Python3](Algorithms/Hard/3636_Threshold_Majority_Queries/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 

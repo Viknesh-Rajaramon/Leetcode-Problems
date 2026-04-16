@@ -9,8 +9,7 @@ class Solution:
             indices[num].append(i)
         
         new = sorted((len(l), k) for k, l in indices.items())
-        n = len(new)
-        result = []
+        result, n = [], len(new)
         for l, r, threshold in queries:
             x = bisect_left(new, (threshold, -1))
             if x == n:
