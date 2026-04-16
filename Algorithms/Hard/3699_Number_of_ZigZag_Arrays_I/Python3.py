@@ -1,8 +1,6 @@
 class Solution:
     def zigZagArrays(self, n: int, l: int, r: int) -> int:
-        mod = 10**9 + 7
-        
-        m = r - l + 1
+        mod, m = 10**9 + 7, r-l+1
         dp = [[0] * m for _ in range(n)]
         dp[0] = [1] * m
         for i in range(1, n):
