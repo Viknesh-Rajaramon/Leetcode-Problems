@@ -139,6 +139,7 @@
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Python3](Algorithms/Hard/3699_Number_of_ZigZag_Arrays_I/Python3.py), Go, C++ |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Python3](Algorithms/Hard/3700_Number_of_ZigZag_Arrays_II/Python3.py), Go, C++ |
 | 3704 | [Count No-Zero Pairs That Sum to N](https://leetcode.com/problems/count-no-zero-pairs-that-sum-to-n/) | [Python3](Algorithms/Hard/3704_Count_No-Zero_Pairs_That_Sum_to_N/Python3.py), Go, C++ |
+| 3710 | [Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | [Python3](Algorithms/Hard/3710_Maximum_Partition_Factor/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
