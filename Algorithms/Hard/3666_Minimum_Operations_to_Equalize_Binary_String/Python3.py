@@ -10,9 +10,7 @@ class Solution:
             return -1
 
         n = len(s)
-        last = [n-1, n] if n%2 == 1 else [n, n-1]
-        nxt = [{}, {}]
-
+        last, nxt = [n-1, n] if n%2 == 1 else [n, n-1], [{}, {}]
         def find(p: int, x: int) -> int:
             if x > last[p]:
                 return x
@@ -25,9 +23,7 @@ class Solution:
             return r
         
         dist = [-1] * (n+1)
-        dist[z_cnt] = 0
-
-        queue = deque([z_cnt])
+        dist[z_cnt], queue = 0, deque([z_cnt])
         while queue:
             u = queue.popleft()
             if u == 0:
