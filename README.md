@@ -142,6 +142,7 @@
 | 3710 | [Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | [Python3](Algorithms/Hard/3710_Maximum_Partition_Factor/Python3.py), Go, C++ |
 | 3715 | [Sum of Perfect Square Ancestors](https://leetcode.com/problems/sum-of-perfect-square-ancestors/) | [Python3](Algorithms/Hard/3715_Sum_of_Perfect_Square_Ancestors/Python3.py), Go, C++ |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | [Python3](Algorithms/Hard/3721_Longest_Balanced_Subarray_II/Python3.py), Go, C++ |
+| 3725 | [Count Ways to Choose Coprime Integers from Rows](https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/) | [Python3](Algorithms/Hard/3725_Count_Ways_to_Choose_Coprime_Integers_from_Rows/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
