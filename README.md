@@ -119,6 +119,7 @@
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Python3](Algorithms/Hard/3614_Process_String_with_Special_Operations_II/Python3.py), Go, C++ |
 | 3615 | [Longest Palindromic Path in Graph](https://leetcode.com/problems/longest-palindromic-path-in-graph/) | [Python3](Algorithms/Hard/3615_Longest_Palindromic_Path_in_Graph/Python3.py), Go, C++ |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | [Python3](Algorithms/Hard/3620_Network_Recovery_Pathways/Python3.py), Go, C++ |
+| 3621 | [Number of Integers With Popcount-Depth Equal to K I](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/) | [Python3](Algorithms/Hard/3621_Number_of_Integers_With_Popcount-Depth_Equal_to_K_I/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 

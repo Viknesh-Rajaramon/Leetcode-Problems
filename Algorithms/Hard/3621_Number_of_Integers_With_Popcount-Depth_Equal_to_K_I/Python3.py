@@ -16,7 +16,6 @@ class Solution:
 
         def count_ones_upto(n: int, c: int) -> int:
             result, used = 0, 0
-
             for i in reversed(range(n.bit_length())):
                 if n >> i & 1:
                     needed = c - used
@@ -32,10 +31,7 @@ class Solution:
             
             return result
         
-        result = 0
-        for c in S:
-            result += count_ones_upto(n, c)
-        
+        result = sum(count_ones_upto(n, c) for c in S)
         if 1 in S and n >= 1:
             result -= 1
 
