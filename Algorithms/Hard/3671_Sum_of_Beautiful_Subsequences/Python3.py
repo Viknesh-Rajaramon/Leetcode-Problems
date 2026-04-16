@@ -20,24 +20,19 @@ class Fenwick:
 
 class Solution:
     def totalBeauty(self, nums: List[int]) -> int:
-        mod = 10**9 + 7
-        max_ = max(nums) + 1
-        
-        locs = defaultdict(list)
+        mod, max_, locs = 10**9 + 7, max(nums) + 1, defaultdict(list)
         for i, num in enumerate(nums):
             locs[num].append(i)
         
         F = [0] * max_
         for d in range(1, max_):
             indices = sorted(i for v in range(d, max_, d) for i in locs[v])
-            
             n = len(indices)
             if n <= 1:
                 F[d] = n
                 continue
             
-            rank = {pos: r for r, pos in enumerate(indices, 1)}
-            fen = Fenwick(n)
+            rank, fen = {pos: r for r, pos in enumerate(indices, 1)}, Fenwick(n)
             for v in range(d, max_, d):
                 for pos in reversed(locs[v]):
                     r = rank[pos]
