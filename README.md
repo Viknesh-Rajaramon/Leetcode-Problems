@@ -125,6 +125,7 @@
 | 3630 | [Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/) | [Python3](Algorithms/Hard/3630_Partition_Array_for_Maximum_XOR_and_AND/Python3.py), Go, C++ |
 | 3636 | [Threshold Majority Queries](https://leetcode.com/problems/threshold-majority-queries/) | [Python3](Algorithms/Hard/3636_Threshold_Majority_Queries/Python3.py), Go, C++ |
 | 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) | [Python3](Algorithms/Hard/3640_Trionic_Array_II/Python3.py), Go, C++ |
+| 3646 | [Next Special Palindrome Number](https://leetcode.com/problems/next-special-palindrome-number/) | [Python3](Algorithms/Hard/3646_Next_Special_Palindrome_Number/Python3.py), Go, C++ |
 | 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii) | [Python3](Algorithms/Hard/3655_XOR_After_Range_Multiplication_Queries_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
