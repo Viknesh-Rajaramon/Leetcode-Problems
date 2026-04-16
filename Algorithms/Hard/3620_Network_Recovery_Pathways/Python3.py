@@ -5,16 +5,12 @@ from heapq import heappop, heappush
 
 class Solution:
     def findMaxPathScore(self, edges: List[List[int]], online: List[bool], k: int) -> int:
-        n = len(online)
-
-        graph = defaultdict(list)
+        n, graph = len(online), defaultdict(list)
         for u, v, cost in edges:
             if online[u] and online[v]:
                 graph[u].append((v, cost))
         
-        to_visit = [(-inf, 0, 0)]
-        visited = [-1] * n
-
+        to_visit, visited = [(-inf, 0, 0)], [-1] * n
         while to_visit:
             min_edge, curr_cost, node = heappop(to_visit)
             min_edge = -min_edge
