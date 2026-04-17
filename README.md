@@ -149,6 +149,7 @@
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [Python3](Algorithms/Hard/3739_Count_Subarrays_With_Majority_Element_II/Python3.py), Go, C++ |
 | 3743 | [Maximize Cyclic Partition Score](https://leetcode.com/problems/maximize-cyclic-partition-score/) | [Python3](Algorithms/Hard/3743_Maximize_Cyclic_Partition_Score/Python3.py), Go, C++ |
 | 3748 | [Count Stable Subarrays](https://leetcode.com/problems/count-stable-subarrays/) | [Python3](Algorithms/Hard/3748_Count_Stable_Subarrays/Python3.py), Go, C++ |
+| 3753 | [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Python3](Algorithms/Hard/3753_Total_Waviness_of_Numbers_in_Range_II/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
