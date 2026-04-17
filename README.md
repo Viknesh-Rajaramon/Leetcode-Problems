@@ -151,6 +151,7 @@
 | 3748 | [Count Stable Subarrays](https://leetcode.com/problems/count-stable-subarrays/) | [Python3](Algorithms/Hard/3748_Count_Stable_Subarrays/Python3.py), Go, C++ |
 | 3753 | [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Python3](Algorithms/Hard/3753_Total_Waviness_of_Numbers_in_Range_II/Python3.py), Go, C++ |
 | 3757 | [Number of Effective Subsequences](https://leetcode.com/problems/number-of-effective-subsequences/) | [Python3](Algorithms/Hard/3757_Number_of_Effective_Subsequences/Python3.py), Go, C++ |
+| 3762 | [Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | [Python3](Algorithms/Hard/3762_Minimum_Operations_to_Equalize_Subarrays/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database

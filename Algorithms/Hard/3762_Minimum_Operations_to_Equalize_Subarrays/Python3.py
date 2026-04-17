@@ -4,9 +4,7 @@ from itertools import accumulate
 class Solution:
     def minOperations(self, nums: List[int], k: int, queries: List[List[int]]) -> List[int]:
         CNT, SUM, LE, RI = range(4)
-        new = lambda: [0, 0, None, None]
-
-        n, pv, p, bad = len(nums), -1, 0, [0]
+        new, pv, p, bad = lambda: [0, 0, None, None], -1, 0, [0]
         for i, v in enumerate(nums):
             v %= k
             p += v != pv
