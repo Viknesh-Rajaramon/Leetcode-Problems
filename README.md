@@ -154,6 +154,7 @@
 | 3762 | [Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | [Python3](Algorithms/Hard/3762_Minimum_Operations_to_Equalize_Subarrays/Python3.py), Go, C++ |
 | 3768 | [Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | [Python3](Algorithms/Hard/3768_Minimum_Inversion_Count_in_Subarrays_of_Fixed_Length/Python3.py), Go, C++ |
 | 3772 | [Maximum Subgraph Score in a Tree](https://leetcode.com/problems/maximum-subgraph-score-in-a-tree/) | [Python3](Algorithms/Hard/3772_Maximum_Subgraph_Score_in_a_Tree/Python3.py), Go, C++ |
+| 3777 | [Minimum Deletions to Make Alternating Substring](https://leetcode.com/problems/minimum-deletions-to-make-alternating-substring/) | [Python3](Algorithms/Hard/3777_Minimum_Deletions_to_Make_Alternating_Substring/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
