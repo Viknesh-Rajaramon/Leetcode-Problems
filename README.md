@@ -153,6 +153,7 @@
 | 3757 | [Number of Effective Subsequences](https://leetcode.com/problems/number-of-effective-subsequences/) | [Python3](Algorithms/Hard/3757_Number_of_Effective_Subsequences/Python3.py), Go, C++ |
 | 3762 | [Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | [Python3](Algorithms/Hard/3762_Minimum_Operations_to_Equalize_Subarrays/Python3.py), Go, C++ |
 | 3768 | [Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | [Python3](Algorithms/Hard/3768_Minimum_Inversion_Count_in_Subarrays_of_Fixed_Length/Python3.py), Go, C++ |
+| 3772 | [Maximum Subgraph Score in a Tree](https://leetcode.com/problems/maximum-subgraph-score-in-a-tree/) | [Python3](Algorithms/Hard/3772_Maximum_Subgraph_Score_in_a_Tree/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
