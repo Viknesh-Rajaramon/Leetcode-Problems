@@ -164,6 +164,7 @@
 | 3801 | [Minimum Cost to Merge Sorted Lists](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | [Python3](Algorithms/Hard/3801_Minimum_Cost_to_Merge_Sorted_Lists/Python3.py), Go, C++ |
 | 3806 | [Maximum Bitwise AND After Increment Operations](https://leetcode.com/problems/maximum-bitwise-and-after-increment-operations/) | [Python3](Algorithms/Hard/3806_Maximum_Bitwise_AND_After_Increment_Operations/Python3.py), Go, C++ |
 | 3812 | [Minimum Edge Toggles on a Tree](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) | [Python3](Algorithms/Hard/3812_Minimum_Edge_Toggles_on_a_Tree/Python3.py), Go, C++ |
+| 3816 | [Lexicographically Smallest String After Deleting Duplicate Characters](https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters/) | [Python3](Algorithms/Hard/3816_Lexicographically_Smallest_String_After_Deleting_Duplicate_Characters/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
