@@ -174,6 +174,7 @@
 | 3850 | [Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | [Python3](Algorithms/Hard/3850_Count_Sequences_to_K/Python3.py), Go, C++ |
 | 3855 | [Sum of K-Digit Numbers in a Range](https://leetcode.com/problems/sum-of-k-digit-numbers-in-a-range/) | [Python3](Algorithms/Hard/3855_Sum_of_K-Digit_Numbers_in_a_Range/Python3.py), Go, C++ |
 | 3859 | [Count Subarrays With K Distinct Integers](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Python3](Algorithms/Hard/3859_Count_Subarrays_With_K_Distinct_Integers/Python3.py), Go, C++ |
+| 3864 | [Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Python3](Algorithms/Hard/3864_Minimum_Cost_to_Partition_a_Binary_String/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
