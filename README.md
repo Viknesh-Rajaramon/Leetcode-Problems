@@ -177,6 +177,7 @@
 | 3864 | [Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Python3](Algorithms/Hard/3864_Minimum_Cost_to_Partition_a_Binary_String/Python3.py), Go, C++ |
 | 3869 | [Count Fancy Numbers in a Range](https://leetcode.com/problems/count-fancy-numbers-in-a-range/) | [Python3](Algorithms/Hard/3869_Count_Fancy_Numbers_in_a_Range/Python3.py), Go, C++ |
 | 3873 | [Maximum Points Activated with One Addition](https://leetcode.com/problems/maximum-points-activated-with-one-addition/) | [Python3](Algorithms/Hard/3873_Maximum_Points_Activated_with_One_Addition/Python3.py), Go, C++ |
+| 3878 | [Count Good Subarrays](https://leetcode.com/problems/count-good-subarrays/) | [Python3](Algorithms/Hard/3878_Count_Good_Subarrays/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
