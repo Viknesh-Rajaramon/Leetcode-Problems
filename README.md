@@ -162,6 +162,7 @@
 | 3791 | [Number of Balanced Integers in a Range](https://leetcode.com/problems/number-of-balanced-integers-in-a-range/) | [Python3](Algorithms/Hard/3791_Number_of_Balanced_Integers_in_a_Range/Python3.py), Go, C++ |
 | 3797 | [Count Routes to Climb a Rectangular Grid](https://leetcode.com/problems/count-routes-to-climb-a-rectangular-grid/) | [Python3](Algorithms/Hard/3797_Count_Routes_to_Climb_a_Rectangular_Grid/Python3.py), Go, C++ |
 | 3801 | [Minimum Cost to Merge Sorted Lists](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | [Python3](Algorithms/Hard/3801_Minimum_Cost_to_Merge_Sorted_Lists/Python3.py), Go, C++ |
+| 3806 | [Maximum Bitwise AND After Increment Operations](https://leetcode.com/problems/maximum-bitwise-and-after-increment-operations/) | [Python3](Algorithms/Hard/3806_Maximum_Bitwise_AND_After_Increment_Operations/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
