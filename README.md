@@ -172,6 +172,7 @@
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Python3](Algorithms/Hard/3841_Palindromic_Path_Queries_in_a_Tree/Python3.py), Go, C++ |
 | 3845 | [Maximum Subarray XOR with Bounded Range](https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/) | [Python3](Algorithms/Hard/3845_Maximum_Subarray_XOR_with_Bounded_Range/Python3.py), Go, C++ |
 | 3850 | [Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | [Python3](Algorithms/Hard/3850_Count_Sequences_to_K/Python3.py), Go, C++ |
+| 3855 | [Sum of K-Digit Numbers in a Range](https://leetcode.com/problems/sum-of-k-digit-numbers-in-a-range/) | [Python3](Algorithms/Hard/3855_Sum_of_K-Digit_Numbers_in_a_Range/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
