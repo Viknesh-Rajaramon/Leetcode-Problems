@@ -170,6 +170,7 @@
 | 3830 | [Longest Alternating Subarray After Removing At Most One Element](https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/) | [Python3](Algorithms/Hard/3830_Longest_Alternating_Subarray_After_Removing_At_Most_One_Element/Python3.py), Go, C++ |
 | 3836 | [Maximum Score Using Exactly K Pairs](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/) | [Python3](Algorithms/Hard/3836_Maximum_Score_Using_Exactly_K_Pairs/Python3.py), Go, C++ |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Python3](Algorithms/Hard/3841_Palindromic_Path_Queries_in_a_Tree/Python3.py), Go, C++ |
+| 3845 | [Maximum Subarray XOR with Bounded Range](https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/) | [Python3](Algorithms/Hard/3845_Maximum_Subarray_XOR_with_Bounded_Range/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
