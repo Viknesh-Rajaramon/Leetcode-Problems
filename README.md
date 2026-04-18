@@ -180,6 +180,7 @@
 | 3878 | [Count Good Subarrays](https://leetcode.com/problems/count-good-subarrays/) | [Python3](Algorithms/Hard/3878_Count_Good_Subarrays/Python3.py), Go, C++ |
 | 3883 | [Count Non Decreasing Arrays With Given Digit Sums](https://leetcode.com/problems/count-non-decreasing-arrays-with-given-digit-sums/) | [Python3](Algorithms/Hard/3883_Count_Non_Decreasing_Arrays_With_Given_Digit_Sums/Python3.py), Go, C++ |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | [Python3](Algorithms/Hard/3886_Sum_of_Sortable_Integers/Python3.py), Go, C++ |
+| 3887 | [Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | [Python3](Algorithms/Hard/3887_Incremental_Even-Weighted_Cycle_Queries/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 
 ## Database
