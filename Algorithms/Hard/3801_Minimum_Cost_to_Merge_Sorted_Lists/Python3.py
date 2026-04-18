@@ -27,9 +27,7 @@ class Solution:
             if dp[mask] == 0:
                 continue
     
-            first_bit = mask & -mask
-            sub = (mask - 1) & mask
-    
+            first_bit, sub = mask & -mask, (mask - 1) & mask
             while sub:
                 if sub & first_bit:
                     other = mask ^ sub
