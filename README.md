@@ -16,6 +16,7 @@
 | # | Title | Solution |
 | :---: | :--- | :--- |
 | 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Python3](Algorithms/Medium/874_Walking_Robot_Simulation/Python3.py), Go, C++ |
+| 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Python3](Algorithms/Medium/1855_Maximum_Distance_Between_a_Pair_of_Values/Python3.py), Go, C++ |
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Python3](Algorithms/Medium/2069_Walking_Robot_Simulation_II/Python3.py), Go, C++ |
 | 3488 | [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) | [Python3](Algorithms/Medium/3488_Closest_Equal_Element_Queries/Python3.py), Go, C++ |
 | 3653 | [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Python3](Algorithms/Medium/3653_XOR_After_Range_Multiplication_Queries_I/Python3.py), Go, C++ |
