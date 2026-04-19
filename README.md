@@ -19,6 +19,7 @@
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python3](Algorithms/Easy/58_Length_of_Last_Word/Python3.py), Go, C++ |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python3](Algorithms/Easy/66_Plus_One/Python3.py), Go, C++ |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python3](Algorithms/Easy/67_Add_Binary/Python3.py), Go, C++ |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python3](Algorithms/Easy/69_Sqrt(x)/Python3.py), Go, C++ |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python3](Algorithms/Easy/70_Climbing_Stairs/Python3.py), Go, C++ |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python3](Algorithms/Easy/83_Remove_Duplicates_from_Sorted_List/Python3.py), Go, C++ |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python3](Algorithms/Easy/88_Merge_Sorted_Array/Python3.py), Go, C++ |
@@ -30,6 +31,8 @@
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python3](Algorithms/Easy/110_Balanced_Binary_Tree/Python3.py), Go, C++ |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python3](Algorithms/Easy/111_Minimum_Depth_of_Binary_Tree/Python3.py), Go, C++ |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python3](Algorithms/Easy/112_Path_Sum/Python3.py), Go, C++ |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python3](Algorithms/Easy/118_Pascal's_Triangle/Python3.py), Go, C++ |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python3](Algorithms/Easy/119_Pascal's_Triangle_II/Python3.py), Go, C++ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](Algorithms/Easy/121_Best_Time_to_Buy_and_Sell_Stock/Python3.py), Go, C++ |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python3](Algorithms/Easy/125_Valid_Palindrome/Python3.py), Go, C++ |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python3](Algorithms/Easy/136_Single_Number/Python3.py), Go, C++ |
@@ -216,6 +219,7 @@
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python3](Algorithms/Easy/1422_Maximum_Score_After_Splitting_a_String/Python3.py), Go, C++ |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Python3](Algorithms/Easy/1431_Kids_With_the_Greatest_Number_of_Candies/Python3.py), Go, C++ |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [Python3](Algorithms/Easy/1436_Destination_City/Python3.py), Go, C++ |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Python3](Algorithms/Easy/1437_Check_If_All_1's_Are_at_Least_Length_K_Places_Away/Python3.py), Go, C++ |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python3](Algorithms/Easy/1464_Maximum_Product_of_Two_Elements_in_an_Array/Python3.py), Go, C++ |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python3](Algorithms/Easy/1470_Shuffle_the_Array/Python3.py), Go, C++ |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Python3](Algorithms/Easy/1475_Final_Prices_With_a_Special_Discount_in_a_Shop/Python3.py), Go, C++ |
@@ -340,8 +344,150 @@
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Python3](Algorithms/Easy/2578_Split_With_Minimum_Sum/Python3.py), Go, C++ |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [Python3](Algorithms/Easy/2643_Row_With_Maximum_Ones/Python3.py), Go, C++ |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [Python3](Algorithms/Easy/2652_Sum_Multiples/Python3.py), Go, C++ |
+| 2656 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Python3](Algorithms/Easy/2656_Maximum_Sum_With_Exactly_K_Elements/Python3.py), Go, C++ |
+| 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [Python3](Algorithms/Easy/2678_Number_of_Senior_Citizens/Python3.py), Go, C++ |
+| 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Python3](Algorithms/Easy/2696_Minimum_String_Length_After_Removing_Substrings/Python3.py), Go, C++ |
+| 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Python3](Algorithms/Easy/2697_Lexicographically_Smallest_Palindrome/Python3.py), Go, C++ |
+| 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [Python3](Algorithms/Easy/2710_Remove_Trailing_Zeros_From_a_String/Python3.py), Go, C++ |
+| 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [Python3](Algorithms/Easy/2744_Find_Maximum_Number_of_String_Pairs/Python3.py), Go, C++ |
+| 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Python3](Algorithms/Easy/2769_Find_the_Maximum_Achievable_Number/Python3.py), Go, C++ |
+| 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Python3](Algorithms/Easy/2778_Sum_of_Squares_of_Special_Elements/Python3.py), Go, C++ |
+| 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Python3](Algorithms/Easy/2798_Number_of_Employees_Who_Met_the_Target/Python3.py), Go, C++ |
+| 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Python3](Algorithms/Easy/2810_Faulty_Keyboard/Python3.py), Go, C++ |
+| 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Python3](Algorithms/Easy/2824_Count_Pairs_Whose_Sum_is_Less_than_Target/Python3.py), Go, C++ |
+| 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | [Python3](Algorithms/Easy/2828_Check_if_a_String_Is_an_Acronym_of_Words/Python3.py), Go, C++ |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Python3](Algorithms/Easy/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I/Python3.py), Go, C++ |
+| 2843 | [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [Python3](Algorithms/Easy/2843_Count_Symmetric_Integers/Python3.py), Go, C++ |
+| 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | [Python3](Algorithms/Easy/2859_Sum_of_Values_at_Indices_With_K_Set_Bits/Python3.py), Go, C++ |
+| 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [Python3](Algorithms/Easy/2864_Maximum_Odd_Binary_Number/Python3.py), Go, C++ |
+| 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [Python3](Algorithms/Easy/2873_Maximum_Value_of_an_Ordered_Triplet_I/Python3.py), Go, C++ |
+| 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Python3](Algorithms/Easy/2894_Divisible_and_Non-divisible_Sums_Difference/Python3.py), Go, C++ |
+| 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [Python3](Algorithms/Easy/2900_Longest_Unequal_Adjacent_Groups_Subsequence_I/Python3.py), Go, C++ |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Python3](Algorithms/Easy/2913_Subarrays_Distinct_Element_Sum_of_Squares_I/Python3.py), Go, C++ |
+| 2917 | [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [Python3](Algorithms/Easy/2917_Find_the_K-or_of_an_Array/Python3.py), Go, C++ |
+| 2923 | [Find Champion I](https://leetcode.com/problems/find-champion-i/) | [Python3](Algorithms/Easy/2923_Find_Champion_I/Python3.py), Go, C++ |
+| 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [Python3](Algorithms/Easy/2942_Find_Words_Containing_Character/Python3.py), Go, C++ |
+| 2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Python3](Algorithms/Easy/2946_Matrix_Similarity_After_Cyclic_Shifts/Python3.py), Go, C++ |
+| 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [Python3](Algorithms/Easy/2956_Find_Common_Elements_Between_Two_Arrays/Python3.py), Go, C++ |
+| 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [Python3](Algorithms/Easy/2960_Count_Tested_Devices_After_Test_Operations/Python3.py), Go, C++ |
+| 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Python3](Algorithms/Easy/2965_Find_Missing_and_Repeated_Values/Python3.py), Go, C++ |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | [Python3](Algorithms/Easy/2974_Minimum_Number_Game/Python3.py), Go, C++ |
+| 2980 | [Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | [Python3](Algorithms/Easy/2980_Check_if_Bitwise_OR_Has_Trailing_Zeros/Python3.py), Go, C++ |
+| 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Python3](Algorithms/Easy/3000_Maximum_Area_of_Longest_Diagonal_Rectangle/Python3.py), Go, C++ |
+| 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Python3](Algorithms/Easy/3005_Count_Elements_With_Maximum_Frequency/Python3.py), Go, C++ |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Python3](Algorithms/Easy/3010_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I/Python3.py), Go, C++ |
+| 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [Python3](Algorithms/Easy/3019_Number_of_Changing_Keys/Python3.py), Go, C++ |
+| 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | [Python3](Algorithms/Easy/3024_Type_of_Triangle/Python3.py), Go, C++ |
+| 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [Python3](Algorithms/Easy/3042_Count_Prefix_and_Suffix_Pairs_I/Python3.py), Go, C++ |
+| 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [Python3](Algorithms/Easy/3065_Minimum_Operations_to_Exceed_Threshold_Value_I/Python3.py), Go, C++ |
+| 3074 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | [Python3](Algorithms/Easy/3074_Apple_Redistribution_into_Boxes/Python3.py), Go, C++ |
+| 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | [Python3](Algorithms/Easy/3099_Harshad_Number/Python3.py), Go, C++ |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Python3](Algorithms/Easy/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray/Python3.py), Go, C++ |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [Python3](Algorithms/Easy/3110_Score_of_a_String/Python3.py), Go, C++ |
+| 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [Python3](Algorithms/Easy/3131_Find_the_Integer_Added_to_Array_I/Python3.py), Go, C++ |
+| 3136 | [Valid Word](https://leetcode.com/problems/valid-word/) | [Python3](Algorithms/Easy/3136_Valid_Word/Python3.py), Go, C++ |
+| 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [Python3](Algorithms/Easy/3146_Permutation_Difference_between_Two_Strings/Python3.py), Go, C++ |
+| 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | [Python3](Algorithms/Easy/3151_Special_Array_I/Python3.py), Go, C++ |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [Python3](Algorithms/Easy/3158_Find_the_XOR_of_Numbers_Which_Appear_Twice/Python3.py), Go, C++ |
+| 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | [Python3](Algorithms/Easy/3162_Find_the_Number_of_Good_Pairs_I/Python3.py), Go, C++ |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | [Python3](Algorithms/Easy/3168_Minimum_Number_of_Chairs_in_a_Waiting_Room/Python3.py), Go, C++ |
+| 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/) | [Python3](Algorithms/Easy/3174_Clear_Digits/Python3.py), Go, C++ |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Python3](Algorithms/Easy/3190_Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three/Python3.py), Go, C++ |
+| 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Python3](Algorithms/Easy/3194_Minimum_Average_of_Smallest_and_Largest_Elements/Python3.py), Go, C++ |
+| 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Python3](Algorithms/Easy/3232_Find_if_Digit_Game_Can_Be_Won/Python3.py), Go, C++ |
+| 3242 | [Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) | [Python3](Algorithms/Easy/3242_Design_Neighbor_Sum_Service/Python3.py), Go, C++ |
+| 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | [Python3](Algorithms/Easy/3248_Snake_in_Matrix/Python3.py), Go, C++ |
+| 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [Python3](Algorithms/Easy/3264_Final_Array_State_After_K_Multiplication_Operations_I/Python3.py), Go, C++ |
+| 3270 | [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/) | [Python3](Algorithms/Easy/3270_Find_the_Key_of_the_Numbers/Python3.py), Go, C++ |
+| 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | [Python3](Algorithms/Easy/3280_Convert_Date_to_Binary/Python3.py), Go, C++ |
+| 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | [Python3](Algorithms/Easy/3285_Find_Indices_of_Stable_Mountains/Python3.py), Go, C++ |
+| 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [Python3](Algorithms/Easy/3289_The_Two_Sneaky_Numbers_of_Digitville/Python3.py), Go, C++ |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Python3](Algorithms/Easy/3300_Minimum_Element_After_Replacement_With_Digit_Sum/Python3.py), Go, C++ |
+| 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Python3](Algorithms/Easy/3304_Find_the_K-th_Character_in_String_Game_I/Python3.py), Go, C++ |
+| 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Python3](Algorithms/Easy/3314_Construct_the_Minimum_Bitwise_Array_I/Python3.py), Go, C++ |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Python3](Algorithms/Easy/3318_Find_X-Sum_of_All_K-Long_Subarrays_I/Python3.py), Go, C++ |
+| 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [Python3](Algorithms/Easy/3330_Find_the_Original_Typed_String_I/Python3.py), Go, C++ |
+| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | [Python3](Algorithms/Easy/3340_Check_Balanced_String/Python3.py), Go, C++ |
+| 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Python3](Algorithms/Easy/3349_Adjacent_Increasing_Subarrays_Detection_I/Python3.py), Go, C++ |
+| 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [Python3](Algorithms/Easy/3354_Make_Array_Elements_Equal_to_Zero/Python3.py), Go, C++ |
+| 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [Python3](Algorithms/Easy/3370_Smallest_Number_With_All_Set_Bits/Python3.py), Go, C++ |
+| 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [Python3](Algorithms/Easy/3375_Minimum_Operations_to_Make_Array_Values_Equal_to_K/Python3.py), Go, C++ |
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | [Python3](Algorithms/Easy/3379_Transformed_Array/Python3.py), Go, C++ |
+| 3386 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/) | [Python3](Algorithms/Easy/3386_Button_with_Longest_Push_Time/Python3.py), Go, C++ |
+| 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Python3](Algorithms/Easy/3392_Count_Subarrays_of_Length_Three_With_a_Condition/Python3.py), Go, C++ |
+| 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | [Python3](Algorithms/Easy/3396_Minimum_Number_of_Operations_to_Make_Elements_in_Array_Distinct/Python3.py), Go, C++ |
+| 3417 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Python3](Algorithms/Easy/3417_Zigzag_Grid_Traversal_With_Skip/Python3.py), Go, C++ |
+| 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Python3](Algorithms/Easy/3423_Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array/Python3.py), Go, C++ |
+| 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [Python3](Algorithms/Easy/3427_Sum_of_Variable_Length_Subarrays/Python3.py), Go, C++ |
+| 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Python3](Algorithms/Easy/3432_Count_Partitions_with_Even_Sum_Difference/Python3.py), Go, C++ |
+| 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Python3](Algorithms/Easy/3442_Maximum_Difference_Between_Even_and_Odd_Frequency_I/Python3.py), Go, C++ |
+| 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers/) | [Python3](Algorithms/Easy/3452_Sum_of_Good_Numbers/Python3.py), Go, C++ |
+| 3456 | [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/) | [Python3](Algorithms/Easy/3456_Find_Special_Substring_of_Length_K/Python3.py), Go, C++ |
+| 3461 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | [Python3](Algorithms/Easy/3461_Check_If_Digits_Are_Equal_in_String_After_Operations_I/Python3.py), Go, C++ |
+| 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [Python3](Algorithms/Easy/3467_Transform_Array_by_Parity/Python3.py), Go, C++ |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [Python3](Algorithms/Easy/3471_Find_the_Largest_Almost_Missing_Integer/Python3.py), Go, C++ |
+| 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [Python3](Algorithms/Easy/3477_Fruits_Into_Baskets_II/Python3.py), Go, C++ |
+| 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Python3](Algorithms/Easy/3487_Maximum_Unique_Subarray_Sum_After_Deletion/Python3.py), Go, C++ |
+| 3492 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [Python3](Algorithms/Easy/3492_Maximum_Containers_on_a_Ship/Python3.py), Go, C++ |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Python3](Algorithms/Easy/3498_Reverse_Degree_of_a_String/Python3.py), Go, C++ |
+| 3502 | [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/) | [Python3](Algorithms/Easy/3502_Minimum_Cost_to_Reach_Every_Position/Python3.py), Go, C++ |
+| 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Python3](Algorithms/Easy/3507_Minimum_Pair_Removal_to_Sort_Array_I/Python3.py), Go, C++ |
+| 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | [Python3](Algorithms/Easy/3512_Minimum_Operations_to_Make_Array_Sum_Divisible_by_K/Python3.py), Go, C++ |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | [Python3](Algorithms/Easy/3516_Find_Closest_Person/Python3.py), Go, C++ |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Python3](Algorithms/Easy/3536_Maximum_Product_of_Two_Digits/Python3.py), Go, C++ |
+| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Python3](Algorithms/Easy/3541_Find_Most_Frequent_Vowel_and_Consonant/Python3.py), Go, C++ |
+| 3545 | [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | [Python3](Algorithms/Easy/3545_Minimum_Deletions_for_At_Most_K_Distinct_Characters/Python3.py), Go, C++ |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Python3](Algorithms/Easy/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index/Python3.py), Go, C++ |
+| 3560 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [Python3](Algorithms/Easy/3560_Find_Minimum_Log_Transportation_Cost/Python3.py), Go, C++ |
+| 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Python3](Algorithms/Easy/3582_Generate_Tag_for_Video_Caption/Python3.py), Go, C++ |
+| 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Python3](Algorithms/Easy/3591_Check_if_Any_Element_Has_Prime_Frequency/Python3.py), Go, C++ |
+| 3602 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [Python3](Algorithms/Easy/3602_Hexadecimal_and_Hexatrigesimal_Conversion/Python3.py), Go, C++ |
+| 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | [Python3](Algorithms/Easy/3606_Coupon_Code_Validator/Python3.py), Go, C++ |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [Python3](Algorithms/Easy/3622_Check_Divisibility_by_Digit_Sum_and_Product/Python3.py), Go, C++ |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Python3](Algorithms/Easy/3633_Earliest_Finish_Time_for_Land_and_Water_Rides_I/Python3.py), Go, C++ |
+| 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [Python3](Algorithms/Easy/3637_Trionic_Array_I/Python3.py), Go, C++ |
+| 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Python3](Algorithms/Easy/3643_Flip_Square_Submatrix_Vertically/Python3.py), Go, C++ |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Python3](Algorithms/Easy/3658_GCD_of_Odd_and_Even_Sums/Python3.py), Go, C++ |
+| 3663 | [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/) | [Python3](Algorithms/Easy/3663_Find_The_Least_Frequent_Digit/Python3.py), Go, C++ |
+| 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | [Python3](Algorithms/Easy/3668_Restore_Finishing_Order/Python3.py), Go, C++ |
+| 3674 | [Minimum Operations to Equalize Array](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | [Python3](Algorithms/Easy/3674_Minimum_Operations_to_Equalize_Array/Python3.py), Go, C++ |
+| 3678 | [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Python3](Algorithms/Easy/3678_Smallest_Absent_Positive_Greater_Than_Average/Python3.py), Go, C++ |
+| 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) | [Python3](Algorithms/Easy/3683_Earliest_Time_to_Finish_One_Task/Python3.py), Go, C++ |
+| 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | [Python3](Algorithms/Easy/3684_Maximize_Sum_of_At_Most_K_Distinct_Elements/Python3.py), Go, C++ |
+| 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [Python3](Algorithms/Easy/3688_Bitwise_OR_of_Even_Numbers_in_an_Array/Python3.py), Go, C++ |
+| 3692 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | [Python3](Algorithms/Easy/3692_Majority_Frequency_Characters/Python3.py), Go, C++ |
+| 3697 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation/) | [Python3](Algorithms/Easy/3697_Compute_Decimal_Representation/Python3.py), Go, C++ |
+| 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [Python3](Algorithms/Easy/3701_Compute_Alternating_Sum/Python3.py), Go, C++ |
+| 3707 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | [Python3](Algorithms/Easy/3707_Equal_Score_Substrings/Python3.py), Go, C++ |
+| 3712 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | [Python3](Algorithms/Easy/3712_Sum_of_Elements_With_Frequency_Divisible_by_K/Python3.py), Go, C++ |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Python3](Algorithms/Easy/3718_Smallest_Missing_Multiple_of_K/Python3.py), Go, C++ |
+| 3726 | [Remove Zeros in Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | [Python3](Algorithms/Easy/3726_Remove_Zeros_in_Decimal_Representation/Python3.py), Go, C++ |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Python3](Algorithms/Easy/3731_Find_Missing_Elements/Python3.py), Go, C++ |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Python3](Algorithms/Easy/3736_Minimum_Moves_to_Equal_Array_Elements_III/Python3.py), Go, C++ |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Python3](Algorithms/Easy/3740_Minimum_Distance_Between_Three_Equal_Elements_I/Python3.py), Go, C++ |
+| 3745 | [Maximize Expression of Three Elements](https://leetcode.com/problems/maximize-expression-of-three-elements/) | [Python3](Algorithms/Easy/3745_Maximize_Expression_of_Three_Elements/Python3.py), Go, C++ |
+| 3750 | [Minimum Number of Flips to Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [Python3](Algorithms/Easy/3750_Minimum_Number_of_Flips_to_Reverse_Binary_String/Python3.py), Go, C++ |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Python3](Algorithms/Easy/3754_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I/Python3.py), Go, C++ |
+| 3769 | [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Python3](Algorithms/Easy/3769_Sort_Integers_by_Binary_Reflection/Python3.py), Go, C++ |
+| 3774 | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Python3](Algorithms/Easy/3774_Absolute_Difference_Between_Maximum_and_Minimum_K_Elements/Python3.py), Go, C++ |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Python3](Algorithms/Easy/3783_Mirror_Distance_of_an_Integer/Python3.py), Go, C++ |
+| 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | [Python3](Algorithms/Easy/3794_Reverse_String_Prefix/Python3.py), Go, C++ |
+| 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | [Python3](Algorithms/Easy/3798_Largest_Even_Number/Python3.py), Go, C++ |
+| 3803 | [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | [Python3](Algorithms/Easy/3803_Count_Residue_Prefixes/Python3.py), Go, C++ |
+| 3813 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [Python3](Algorithms/Easy/3813_Vowel-Consonant_Score/Python3.py), Go, C++ |
+| 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Python3](Algorithms/Easy/3823_Reverse_Letters_Then_Special_Characters_in_a_String/Python3.py), Go, C++ |
+| 3827 | [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [Python3](Algorithms/Easy/3827_Count_Monobit_Integers/Python3.py), Go, C++ |
+| 3833 | [Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | [Python3](Algorithms/Easy/3833_Count_Dominant_Indices/Python3.py), Go, C++ |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | [Python3](Algorithms/Easy/3838_Weighted_Word_Mapping/Python3.py), Go, C++ |
+| 3842 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Python3](Algorithms/Easy/3842_Toggle_Light_Bulbs/Python3.py), Go, C++ |
+| 3852 | [Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | [Python3](Algorithms/Easy/3852_Smallest_Pair_With_Different_Frequencies/Python3.py), Go, C++ |
+| 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | [Python3](Algorithms/Easy/3856_Trim_Trailing_Vowels/Python3.py), Go, C++ |
+| 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | [Python3](Algorithms/Easy/3861_Minimum_Capacity_Box/Python3.py), Go, C++ |
+| 3866 | [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/) | [Python3](Algorithms/Easy/3866_First_Unique_Even_Element/Python3.py), Go, C++ |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | [Python3](Algorithms/Easy/3870_Count_Commas_in_Range/Python3.py), Go, C++ |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Python3](Algorithms/Easy/3875_Construct_Uniform_Parity_Array_I/Python3.py), Go, C++ |
+| 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | [Python3](Algorithms/Easy/3880_Minimum_Absolute_Difference_Between_Two_Values/Python3.py), Go, C++ |
+| 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [Python3](Algorithms/Easy/3884_First_Matching_Character_From_Both_Ends/Python3.py), Go, C++ |
 
 ### Medium
 
