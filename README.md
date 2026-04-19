@@ -488,6 +488,7 @@
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Python3](Algorithms/Easy/3875_Construct_Uniform_Parity_Array_I/Python3.py), Go, C++ |
 | 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | [Python3](Algorithms/Easy/3880_Minimum_Absolute_Difference_Between_Two_Values/Python3.py), Go, C++ |
 | 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [Python3](Algorithms/Easy/3884_First_Matching_Character_From_Both_Ends/Python3.py), Go, C++ |
+| 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [Python3](Algorithms/Easy/3894_Traffic_Signal_Color/Python3.py), Go, C++ |
 
 ### Medium
 
@@ -1049,6 +1050,8 @@
 | 3889 | [Mirror Frequency Distance](https://leetcode.com/problems/mirror-frequency-distance/) | [Python3](Algorithms/Medium/3889_Mirror_Frequency_Distance/Python3.py), Go, C++ |
 | 3890 | [Integers With Multiple Sum of Two Cubes](https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/) | [Python3](Algorithms/Medium/3890_Integers_With_Multiple_Sum_of_Two_Cubes/Python3.py), Go, C++ |
 | 3891 | [Minimum Increase to Maximize Special Indices](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | [Python3](Algorithms/Medium/3891_Minimum_Increase_to_Maximize_Special_Indices/Python3.py), Go, C++ |
+| 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | [Python3](Algorithms/Medium/3895_Count_Digit_Appearances/Python3.py), Go, C++ |
+| 3896 | [Minimum Operations to Transform Array into Alternating Prime](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | [Python3](Algorithms/Medium/3896_Minimum_Operations_to_Transform_Array_into_Alternating_Prime/Python3.py), Go, C++ |
 
 ### Hard
 
@@ -1207,6 +1210,7 @@
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | [Python3](Algorithms/Hard/3886_Sum_of_Sortable_Integers/Python3.py), Go, C++ |
 | 3887 | [Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | [Python3](Algorithms/Hard/3887_Incremental_Even-Weighted_Cycle_Queries/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
+| 3897 | [Maximum Value of Concatenated Binary Segments](https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/) | [Python3](Algorithms/Hard/3897_Maximum_Value_of_Concatenated_Binary_Segments/Python3.py), Go, C++ |
 
 ## Database
 
