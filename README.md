@@ -292,6 +292,7 @@
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [Python3](Algorithms/Easy/2032_Two_Out_of_Three/Python3.py), Go, C++ |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Python3](Algorithms/Easy/2037_Minimum_Number_of_Moves_to_Seat_Everyone/Python3.py), Go, C++ |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [Python3](Algorithms/Easy/2053_Kth_Distinct_String_in_an_Array/Python3.py), Go, C++ |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Python3](Algorithms/Easy/2078_Two_Furthest_Houses_With_Different_Colors/Python3.py), Go, C++ |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Python3](Algorithms/Easy/2085_Count_Common_Words_With_One_Occurrence/Python3.py), Go, C++ |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Python3](Algorithms/Easy/2089_Find_Target_Indices_After_Sorting_Array/Python3.py), Go, C++ |
 | 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Python3](Algorithms/Easy/2094_Finding_3-Digit_Even_Numbers/Python3.py), Go, C++ |
