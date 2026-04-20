@@ -489,6 +489,7 @@
 | 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | [Python3](Algorithms/Easy/3880_Minimum_Absolute_Difference_Between_Two_Values/Python3.py), Go, C++ |
 | 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [Python3](Algorithms/Easy/3884_First_Matching_Character_From_Both_Ends/Python3.py), Go, C++ |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [Python3](Algorithms/Easy/3894_Traffic_Signal_Color/Python3.py), Go, C++ |
+| 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [Python3](Algorithms/Easy/3898_Find_the_Degree_of_Each_Vertex/Python3.py), Go, C++ |
 
 ### Medium
 
@@ -1052,6 +1053,8 @@
 | 3891 | [Minimum Increase to Maximize Special Indices](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | [Python3](Algorithms/Medium/3891_Minimum_Increase_to_Maximize_Special_Indices/Python3.py), Go, C++ |
 | 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | [Python3](Algorithms/Medium/3895_Count_Digit_Appearances/Python3.py), Go, C++ |
 | 3896 | [Minimum Operations to Transform Array into Alternating Prime](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | [Python3](Algorithms/Medium/3896_Minimum_Operations_to_Transform_Array_into_Alternating_Prime/Python3.py), Go, C++ |
+| 3899 | [Angles of a Triangle](https://leetcode.com/problems/angles-of-a-triangle/) | [Python3](Algorithms/Medium/3899_Angles_of_a_Triangle/Python3.py), Go, C++ |
+| 3900 | [Longest Balanced Substring After One Swap](https://leetcode.com/problems/longest-balanced-substring-after-one-swap/) | [Python3](Algorithms/Medium/3900_Longest_Balanced_Substring_After_One_Swap/Python3.py), Go, C++ |
 
 ### Hard
 
@@ -1211,6 +1214,7 @@
 | 3887 | [Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | [Python3](Algorithms/Hard/3887_Incremental_Even-Weighted_Cycle_Queries/Python3.py), Go, C++ |
 | 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Python3](Algorithms/Hard/3892_Minimum_Operations_to_Achieve_At_Least_K_Peaks/Python3.py), Go, C++ |
 | 3897 | [Maximum Value of Concatenated Binary Segments](https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/) | [Python3](Algorithms/Hard/3897_Maximum_Value_of_Concatenated_Binary_Segments/Python3.py), Go, C++ |
+| 3901 | [Good Subsequence Queries](https://leetcode.com/problems/good-subsequence-queries/) | [Python3](Algorithms/Hard/3901_Good_Subsequence_Queries/Python3.py), Go, C++ |
 
 ## Database
 
