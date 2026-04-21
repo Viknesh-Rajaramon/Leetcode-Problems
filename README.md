@@ -714,6 +714,7 @@
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [Python3](Algorithms/Medium/1717_Maximum_Score_From_Removing_Substrings/Python3.py), Go, C++ |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [Python3](Algorithms/Medium/1718_Construct_the_Lexicographically_Largest_Valid_Sequence/Python3.py), Go, C++ |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Python3](Algorithms/Medium/1721_Swapping_Nodes_in_a_Linked_List/Python3.py), Go, C++ |
+| 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Python3](Algorithms/Medium/1722_Minimize_Hamming_Distance_After_Swap_Operations/Python3.py), Go, C++ |
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | [Python3](Algorithms/Medium/1726_Tuple_with_Same_Product/Python3.py), Go, C++ |
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Python3](Algorithms/Medium/1727_Largest_Submatrix_With_Rearrangements/Python3.py), Go, C++ |
 | 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | [Python3](Algorithms/Medium/1733_Minimum_Number_of_People_to_Teach/Python3.py), Go, C++ |
