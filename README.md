@@ -1071,6 +1071,7 @@
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python3](Algorithms/Hard/23_Merge_k_Sorted_Lists/Python3.py), Go, C++ |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python3](Algorithms/Hard/37_Sudoku_Solver/Python3.py), Go, C++ |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python3](Algorithms/Hard/41_First_Missing_Positive/Python3.py), Go, C++ |
+| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python3](Algorithms/Hard/60_Permutation_Sequence/Python3.py), Go, C++ |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Python3](Algorithms/Hard/85_Maximal_Rectangle/Python3.py), Go, C++ |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Python3](Algorithms/Hard/127_Word_Ladder/Python3.py), Go, C++ |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Python3](Algorithms/Hard/135_Candy/Python3.py), Go, C++ |
