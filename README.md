@@ -225,6 +225,7 @@
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Python3](Algorithms/Easy/1475_Final_Prices_With_a_Special_Discount_in_a_Shop/Python3.py), Go, C++ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python3](Algorithms/Easy/1480_Running_Sum_of_1d_Array/Python3.py), Go, C++ |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Python3](Algorithms/Easy/1486_XOR_Operation_in_an_Array/Python3.py), Go, C++ |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Python3](Algorithms/Easy/1502_Can_Make_Arithmetic_Progression_From_Sequence/Python3.py), Go, C++ |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python3](Algorithms/Easy/1512_Number_of_Good_Pairs/Python3.py), Go, C++ |
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Python3](Algorithms/Easy/1518_Water_Bottles/Python3.py), Go, C++ |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Python3](Algorithms/Easy/1523_Count_Odd_Numbers_in_an_Interval_Range/Python3.py), Go, C++ |
