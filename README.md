@@ -1093,6 +1093,7 @@
 | 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [Python3](Algorithms/Hard/1622_Fancy_Sequence/Python3.py), Go, C++ |
 | 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Python3](Algorithms/Hard/1751_Maximum_Number_of_Events_That_Can_Be_Attended_II/Python3.py), Go, C++ |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Python3](Algorithms/Hard/1857_Largest_Color_Value_in_a_Directed_Graph/Python3.py), Go, C++ |
+| 1866 | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [Python3](Algorithms/Hard/1866_Number_of_Ways_to_Rearrange_Sticks_With_K_Sticks_Visible/Python3.py), Go, C++ |
 | 1900 | [The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | [Python3](Algorithms/Hard/1900_The_Earliest_and_Latest_Rounds_Where_Players_Compete/Python3.py), Go, C++ |
 | 1912 | [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/) | [Python3](Algorithms/Hard/1912_Design_Movie_Rental_System/Python3.py), Go, C++ |
 | 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [Python3](Algorithms/Hard/1931_Painting_a_Grid_With_Three_Different_Colors/Python3.py), Go, C++ |
