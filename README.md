@@ -358,6 +358,7 @@
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Python3](Algorithms/Easy/2810_Faulty_Keyboard/Python3.py), Go, C++ |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Python3](Algorithms/Easy/2824_Count_Pairs_Whose_Sum_is_Less_than_Target/Python3.py), Go, C++ |
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | [Python3](Algorithms/Easy/2828_Check_if_a_String_Is_an_Acronym_of_Words/Python3.py), Go, C++ |
+| 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [Python3](Algorithms/Easy/2833_Furthest_Point_From_Origin/Python3.py), Go, C++ |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Python3](Algorithms/Easy/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I/Python3.py), Go, C++ |
 | 2843 | [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [Python3](Algorithms/Easy/2843_Count_Symmetric_Integers/Python3.py), Go, C++ |
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | [Python3](Algorithms/Easy/2859_Sum_of_Values_at_Indices_With_K_Set_Bits/Python3.py), Go, C++ |
