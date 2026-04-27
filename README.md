@@ -677,6 +677,7 @@
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Python3](Algorithms/Medium/1381_Design_a_Stack_With_Increment_Operation/Python3.py), Go, C++ |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Python3](Algorithms/Medium/1382_Balance_a_Binary_Search_Tree/Python3.py), Go, C++ |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [Python3](Algorithms/Medium/1390_Four_Divisors/Python3.py), Go, C++ |
+| 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Python3](Algorithms/Medium/1391_Check_if_There_is_a_Valid_Path_in_a_Grid/Python3.py), Go, C++ |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Python3](Algorithms/Medium/1395_Count_Number_of_Teams/Python3.py), Go, C++ |
 | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Python3](Algorithms/Medium/1396_Design_Underground_System/Python3.py), Go, C++ |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [Python3](Algorithms/Medium/1400_Construct_K_Palindrome_Strings/Python3.py), Go, C++ |
