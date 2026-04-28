@@ -3,11 +3,9 @@ from typing import List
 class Solution:
     def minOperations(self, grid: List[List[int]], x: int) -> int:
         m, n = len(grid), len(grid[0])        
-        nums = [grid[i][j] for i in range(m) for j in range(n)]
-        nums.sort()
+        nums = sorted(grid[i][j] for i in range(m) for j in range(n))
 
-        common = nums[0] % x
-        mid = len(nums)//2
+        common, mid = nums[0] % x, len(nums)//2
         if not all(ele%x == common for ele in nums):
             return -1
         
