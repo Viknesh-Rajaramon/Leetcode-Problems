@@ -1137,6 +1137,7 @@
 | 3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Python3](Algorithms/Hard/3108_Minimum_Cost_Walk_in_Weighted_Graph/Python3.py), Go, C++ |
 | 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [Python3](Algorithms/Hard/3130_Find_All_Possible_Stable_Binary_Arrays_II/Python3.py), Go, C++ |
 | 3197 | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Python3](Algorithms/Hard/3197_Find_the_Minimum_Area_to_Cover_All_Ones_II/Python3.py), Go, C++ |
+| 3225 | [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Python3](Algorithms/Hard/3225_Maximum_Score_From_Grid_Operations/Python3.py), Go, C++ |
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Python3](Algorithms/Hard/3272_Find_the_Count_of_Good_Integers/Python3.py), Go, C++ |
 | 3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | [Python3](Algorithms/Hard/3307_Find_the_K-th_Character_in_String_Game_II/Python3.py), Go, C++ |
 | 3321 | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [Python3](Algorithms/Hard/3321_Find_X-Sum_of_All_K-Long_Subarrays_II/Python3.py), Go, C++ |
