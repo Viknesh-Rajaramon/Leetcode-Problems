@@ -494,6 +494,7 @@
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [Python3](Algorithms/Easy/3894_Traffic_Signal_Color/Python3.py), Go, C++ |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [Python3](Algorithms/Easy/3898_Find_the_Degree_of_Each_Vertex/Python3.py), Go, C++ |
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | [Python3](Algorithms/Easy/3903_Smallest_Stable_Index_I/Python3.py), Go, C++ |
+| 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | [Python3](Algorithms/Easy/3908_Valid_Digit_Number/Python3.py), Go, C++ |
 
 ### Medium
 
@@ -1065,6 +1066,7 @@
 | 3900 | [Longest Balanced Substring After One Swap](https://leetcode.com/problems/longest-balanced-substring-after-one-swap/) | [Python3](Algorithms/Medium/3900_Longest_Balanced_Substring_After_One_Swap/Python3.py), Go, C++ |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | [Python3](Algorithms/Medium/3904_Smallest_Stable_Index_II/Python3.py), Go, C++ |
 | 3905 | [Multi Source Flood Fill](https://leetcode.com/problems/multi-source-flood-fill/) | [Python3](Algorithms/Medium/3905_Multi_Source_Flood_Fill/Python3.py), Go, C++ |
+| 3909 | [Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Python3](Algorithms/Medium/3909_Compare_Sums_of_Bitonic_Parts/Python3.py), Go, C++ |
 
 ### Hard
 
@@ -1230,6 +1232,8 @@
 | 3897 | [Maximum Value of Concatenated Binary Segments](https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/) | [Python3](Algorithms/Hard/3897_Maximum_Value_of_Concatenated_Binary_Segments/Python3.py), Go, C++ |
 | 3901 | [Good Subsequence Queries](https://leetcode.com/problems/good-subsequence-queries/) | [Python3](Algorithms/Hard/3901_Good_Subsequence_Queries/Python3.py), Go, C++ |
 | 3906 | [Count Good Integers on a Grid Path](https://leetcode.com/problems/count-good-integers-on-a-grid-path/) | [Python3](Algorithms/Hard/3906_Count_Good_Integers_on_a_Grid_Path/Python3.py), Go, C++ |
+| 3910 | [Count Connected Subgraphs with Even Node Sum](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | [Python3](Algorithms/Hard/3910_Count_Connected_Subgraphs_with_Even_Node_Sum/Python3.py), Go, C++ |
+| 3911 | [K-th Smallest Remaining Even Integer in Subarray Queries](https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries/) | [Python3](Algorithms/Hard/3911_K-th_Smallest_Remaining_Even_Integer_in_Subarray_Queries/Python3.py), Go, C++ |
 
 ## Database
 
