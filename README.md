@@ -704,6 +704,7 @@
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [Python3](Algorithms/Medium/1536_Minimum_Swaps_to_Arrange_a_Binary_Grid/Python3.py), Go, C++ |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Python3](Algorithms/Medium/1545_Find_Kth_Bit_in_Nth_Binary_String/Python3.py), Go, C++ |
 | 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Python3](Algorithms/Medium/1551_Minimum_Operations_to_Make_Array_Equal/Python3.py), Go, C++ |
+| 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Python3](Algorithms/Medium/1559_Detect_Cycles_in_2D_Grid/Python3.py), Go, C++ |
 | 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [Python3](Algorithms/Medium/1561_Maximum_Number_of_Coins_You_Can_Get/Python3.py), Go, C++ |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Python3](Algorithms/Medium/1578_Minimum_Time_to_Make_Rope_Colorful/Python3.py), Go, C++ |
 | 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [Python3](Algorithms/Medium/1590_Make_Sum_Divisible_by_P/Python3.py), Go, C++ |
