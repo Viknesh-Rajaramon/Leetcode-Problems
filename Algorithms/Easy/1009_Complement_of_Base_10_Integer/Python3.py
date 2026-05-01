@@ -3,10 +3,9 @@ class Solution:
         if n == 0:
             return 1
         
-        no_of_bits = 0
-        x = n
+        no_of_bits, x = 0, n
         while x > 0:
             no_of_bits += 1
             x //= 2
         
-        return pow(2, no_of_bits) - 1 - n
+        return (1 << no_of_bits) - n - 1
