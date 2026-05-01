@@ -587,6 +587,7 @@
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python3](Algorithms/Medium/380_Insert_Delete_GetRandom_O(1)/Python3.py), Go, C++ |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Python3](Algorithms/Medium/382_Linked_List_Random_Node/Python3.py), Go, C++ |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Python3](Algorithms/Medium/386_Lexicographical_Numbers/Python3.py), Go, C++ |
+| 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Python3](Algorithms/Medium/396_Rotate_Function/Python3.py), Go, C++ |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [Python3](Algorithms/Medium/398_Random_Pick_Index/Python3.py), Go, C++ |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](Algorithms/Medium/416_Partition_Equal_Subset_Sum/Python3.py), Go, C++ |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python3](Algorithms/Medium/417_Pacific_Atlantic_Water_Flow/Python3.py), Go, C++ |
