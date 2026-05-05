@@ -8,28 +8,18 @@ class ListNode:
 
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        n = 0
-        
-        ptr = head
+        if not head:
+            return None
+
+        n, ptr, tail = 0, head, None
         while ptr:
+            tail, ptr = ptr, ptr.next
             n += 1
-            ptr = ptr.next
+
+        k, tail.next, result = k%n, head, None
+        while n-k != 0:
+            result, head = head, head.next
+            n -= 1
         
-        if n == 0 or k == 0:
-            return head
-
-        k = k % n
-
-        ptr1, ptr2 = head, head
-        while ptr1.next and k > 0:
-            ptr1 = ptr1.next
-            k -= 1
-
-        while ptr1.next:
-            ptr1 = ptr1.next
-            ptr2 = ptr2.next
-        
-        ptr1.next = head
-        head = ptr2.next
-        ptr2.next = None
+        result.next = None
         return head
