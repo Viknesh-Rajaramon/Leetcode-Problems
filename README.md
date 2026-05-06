@@ -737,6 +737,7 @@
 | 1829 | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | [Python3](Algorithms/Medium/1829_Maximum_XOR_for_Each_Query/Python3.py), Go, C++ |
 | 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [Python3](Algorithms/Medium/1845_Seat_Reservation_Manager/Python3.py), Go, C++ |
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Python3](Algorithms/Medium/1855_Maximum_Distance_Between_a_Pair_of_Values/Python3.py), Go, C++ |
+| 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Python3](Algorithms/Medium/1861_Rotating_the_Box/Python3.py), Go, C++ |
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [Python3](Algorithms/Medium/1865_Finding_Pairs_With_a_Certain_Sum/Python3.py), Go, C++ |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Python3](Algorithms/Medium/1877_Minimize_Maximum_Pair_Sum_in_Array/Python3.py), Go, C++ |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Python3](Algorithms/Medium/1878_Get_Biggest_Three_Rhombus_Sums_in_a_Grid/Python3.py), Go, C++ |
