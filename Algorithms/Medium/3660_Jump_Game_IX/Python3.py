@@ -2,13 +2,9 @@ from typing import List
 
 class Solution:
     def maxValue(self, nums: List[int]) -> List[int]:
-        result = []
-        curr = 0
-
-        n = len(nums)
-        for i in range(n):
-            curr = max(curr, nums[i])
-            result.append(curr)
+        result, n = [nums[0]], len(nums)
+        for i in range(1, n):
+            result.append(max(result[-1], nums[i]))
         
         curr = n-1
         for i in range(n-2, -1, -1):
