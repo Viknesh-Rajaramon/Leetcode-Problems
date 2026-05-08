@@ -3,6 +3,7 @@ from collections import defaultdict, deque
 
 MAX = 10**6 + 1
 prime_factors = defaultdict(list)
+
 prime = [True] * MAX
 for i in range(2, MAX):
     if not prime[i]:
@@ -16,11 +17,7 @@ for i in range(2, MAX):
 class Solution:
     def minJumps(self, nums: List[int]) -> int:
         n = len(nums)
-
-        queue = deque([n-1])
-        visited = set([n-1])
-        
-        indexes = defaultdict(list)
+        queue, visited, indexes = deque([n-1]), set([n-1]), defaultdict(list)
         for i in range(n):
             if nums[i] != 1 and prime[nums[i]]:
                 indexes[nums[i]].append(i)
@@ -53,4 +50,3 @@ class Solution:
                             visited.add(idxes)
                         
         return -1
-    
