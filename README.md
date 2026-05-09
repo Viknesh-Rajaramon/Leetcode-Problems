@@ -745,6 +745,7 @@
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [Python3](Algorithms/Medium/1888_Minimum_Number_of_Flips_to_Make_the_Binary_String_Alternating/Python3.py), Go, C++ |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | [Python3](Algorithms/Medium/1895_Largest_Magic_Square/Python3.py), Go, C++ |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [Python3](Algorithms/Medium/1910_Remove_All_Occurrences_of_a_Substring/Python3.py), Go, C++ |
+| 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Python3](Algorithms/Medium/1914_Cyclically_Rotating_a_Grid/Python3.py), Go, C++ |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [Python3](Algorithms/Medium/1922_Count_Good_Numbers/Python3.py), Go, C++ |
 | 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Python3](Algorithms/Medium/1930_Unique_Length-3_Palindromic_Subsequences/Python3.py), Go, C++ |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Python3](Algorithms/Medium/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced/Python3.py), Go, C++ |
