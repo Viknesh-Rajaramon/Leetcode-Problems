@@ -830,6 +830,7 @@
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/) | [Python3](Algorithms/Medium/2685_Count_the_Number_of_Complete_Components/Python3.py), Go, C++ |
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [Python3](Algorithms/Medium/2698_Find_the_Punishment_Number_of_an_Integer/Python3.py), Go, C++ |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [Python3](Algorithms/Medium/2749_Minimum_Operations_to_Make_the_Integer_Zero/Python3.py), Go, C++ |
+| 2770 | [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Python3](Algorithms/Medium/2770_Maximum_Number_of_Jumps_to_Reach_the_Last_Index/Python3.py), Go, C++ |
 | 2780 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Python3](Algorithms/Medium/2780_Minimum_Index_of_a_Valid_Split/Python3.py), Go, C++ |
 | 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | [Python3](Algorithms/Medium/2785_Sort_Vowels_in_a_String/Python3.py), Go, C++ |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Python3](Algorithms/Medium/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers/Python3.py), Go, C++ |
