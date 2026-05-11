@@ -497,6 +497,7 @@
 | 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | [Python3](Algorithms/Easy/3908_Valid_Digit_Number/Python3.py), Go, C++ |
 | 3912 | [Valid Elements in an Array](https://leetcode.com/problems/valid-elements-in-an-array/) | [Python3](Algorithms/Easy/3912_Valid_Elements_in_an_Array/Python3.py), Go, C++ |
 | 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [Python3](Algorithms/Easy/3917_Count_Indices_With_Opposite_Parity/Python3.py), Go, C++ |
+| 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | [Python3](Algorithms/Easy/3921_Score_Validator/Python3.py), Go, C++ |
 
 ### Medium
 
@@ -1078,6 +1079,8 @@
 | 3914 | [Minimum Operations to Make Array Non Decreasing](https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing/) | [Python3](Algorithms/Medium/3914_Minimum_Operations_to_Make_Array_Non_Decreasing/Python3.py), Go, C++ |
 | 3918 | [Sum of Primes Between Number and Its Reverse](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | [Python3](Algorithms/Medium/3918_Sum_of_Primes_Between_Number_and_Its_Reverse/Python3.py), Go, C++ |
 | 3919 | [Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | [Python3](Algorithms/Medium/3919_Minimum_Cost_to_Move_Between_Indices/Python3.py), Go, C++ |
+| 3922 | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Python3](Algorithms/Medium/3922_Minimum_Flips_to_Make_Binary_String_Coherent/Python3.py), Go, C++ |
+| 3923 | [Minimum Generations to Target Point](https://leetcode.com/problems/minimum-generations-to-target-point/) | [Python3](Algorithms/Medium/3923_Minimum_Generations_to_Target_Point/Python3.py), Go, C++ |
 
 ### Hard
 
@@ -1247,6 +1250,7 @@
 | 3911 | [K-th Smallest Remaining Even Integer in Subarray Queries](https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries/) | [Python3](Algorithms/Hard/3911_K-th_Smallest_Remaining_Even_Integer_in_Subarray_Queries/Python3.py), Go, C++ |
 | 3915 | [Maximum Sum of Alternating Subsequence With Distance at Least K](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Python3](Algorithms/Hard/3915_Maximum_Sum_of_Alternating_Subsequence_With_Distance_at_Least_K/Python3.py), Go, C++ |
 | 3920 | [Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Python3](Algorithms/Hard/3920_Maximize_Fixed_Points_After_Deletions/Python3.py), Go, C++ |
+| 3924 | [Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | [Python3](Algorithms/Hard/3924_Minimum_Threshold_Path_With_Limited_Heavy_Edges/Python3.py), Go, C++ |
 
 ## Database
 
