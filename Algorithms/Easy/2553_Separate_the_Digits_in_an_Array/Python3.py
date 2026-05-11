@@ -2,16 +2,8 @@ from typing import List
 
 class Solution:
     def separateDigits(self, nums: List[int]) -> List[int]:
-        def get_digits(num: int) -> List[int]:
-            result = []
-            while num > 0:
-                result.append(num % 10)
-                num //= 10
-            
-            return result[::-1]
-        
         result = []
         for num in nums:
-            result.extend(get_digits(num))
+            result.extend(map(int, str(num)))
         
         return result
