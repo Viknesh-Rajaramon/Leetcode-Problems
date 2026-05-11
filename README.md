@@ -498,6 +498,7 @@
 | 3912 | [Valid Elements in an Array](https://leetcode.com/problems/valid-elements-in-an-array/) | [Python3](Algorithms/Easy/3912_Valid_Elements_in_an_Array/Python3.py), Go, C++ |
 | 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [Python3](Algorithms/Easy/3917_Count_Indices_With_Opposite_Parity/Python3.py), Go, C++ |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | [Python3](Algorithms/Easy/3921_Score_Validator/Python3.py), Go, C++ |
+| 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Python3](Algorithms/Easy/3925_Concatenate_Array_With_Reverse/Python3.py), Go, C++ |
 
 ### Medium
 
@@ -1081,6 +1082,8 @@
 | 3919 | [Minimum Cost to Move Between Indices](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | [Python3](Algorithms/Medium/3919_Minimum_Cost_to_Move_Between_Indices/Python3.py), Go, C++ |
 | 3922 | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Python3](Algorithms/Medium/3922_Minimum_Flips_to_Make_Binary_String_Coherent/Python3.py), Go, C++ |
 | 3923 | [Minimum Generations to Target Point](https://leetcode.com/problems/minimum-generations-to-target-point/) | [Python3](Algorithms/Medium/3923_Minimum_Generations_to_Target_Point/Python3.py), Go, C++ |
+| 3926 | [Count Valid Word Occurrences](https://leetcode.com/problems/count-valid-word-occurrences/) | [Python3](Algorithms/Medium/3926_Count_Valid_Word_Occurrences/Python3.py), Go, C++ |
+| 3927 | [Minimize Array Sum Using Divisible Replacements](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | [Python3](Algorithms/Medium/3927_Minimize_Array_Sum_Using_Divisible_Replacements/Python3.py), Go, C++ |
 
 ### Hard
 
@@ -1251,6 +1254,7 @@
 | 3915 | [Maximum Sum of Alternating Subsequence With Distance at Least K](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Python3](Algorithms/Hard/3915_Maximum_Sum_of_Alternating_Subsequence_With_Distance_at_Least_K/Python3.py), Go, C++ |
 | 3920 | [Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Python3](Algorithms/Hard/3920_Maximize_Fixed_Points_After_Deletions/Python3.py), Go, C++ |
 | 3924 | [Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | [Python3](Algorithms/Hard/3924_Minimum_Threshold_Path_With_Limited_Heavy_Edges/Python3.py), Go, C++ |
+| 3928 | [Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | [Python3](Algorithms/Hard/3928_Minimum_Cost_to_Buy_Apples_II/Python3.py), Go, C++ |
 
 ## Database
 
