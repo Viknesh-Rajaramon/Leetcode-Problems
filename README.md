@@ -718,6 +718,7 @@
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Python3](Algorithms/Medium/1641_Count_Sorted_Vowel_Strings/Python3.py), Go, C++ |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Python3](Algorithms/Medium/1653_Minimum_Deletions_to_Make_String_Balanced/Python3.py), Go, C++ |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Python3](Algorithms/Medium/1669_Merge_In_Between_Linked_Lists/Python3.py), Go, C++ |
+| 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Python3](Algorithms/Medium/1674_Minimum_Moves_to_Make_Array_Complementary/Python3.py), Go, C++ |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Python3](Algorithms/Medium/1680_Concatenation_of_Consecutive_Binary_Numbers/Python3.py), Go, C++ |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Python3](Algorithms/Medium/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers/Python3.py), Go, C++ |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Python3](Algorithms/Medium/1695_Maximum_Erasure_Value/Python3.py), Go, C++ |
