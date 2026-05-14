@@ -354,6 +354,7 @@
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [Python3](Algorithms/Easy/2744_Find_Maximum_Number_of_String_Pairs/Python3.py), Go, C++ |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Python3](Algorithms/Easy/2769_Find_the_Maximum_Achievable_Number/Python3.py), Go, C++ |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Python3](Algorithms/Easy/2778_Sum_of_Squares_of_Special_Elements/Python3.py), Go, C++ |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [Python3](Algorithms/Easy/2784_Check_if_Array_is_Good/Python3.py), Go, C++ |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Python3](Algorithms/Easy/2798_Number_of_Employees_Who_Met_the_Target/Python3.py), Go, C++ |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Python3](Algorithms/Easy/2810_Faulty_Keyboard/Python3.py), Go, C++ |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Python3](Algorithms/Easy/2824_Count_Pairs_Whose_Sum_is_Less_than_Target/Python3.py), Go, C++ |
