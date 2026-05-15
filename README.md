@@ -566,6 +566,7 @@
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python3](Algorithms/Medium/138_Copy_List_with_Random_Pointer/Python3.py), Go, C++ |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python3](Algorithms/Medium/146_LRU_Cache/Python3.py), Go, C++ |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python3](Algorithms/Medium/151_Reverse_Words_in_a_String/Python3.py), Go, C++ |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python3](Algorithms/Medium/153_Find_Minimum_in_Rotated_Sorted_Array/Python3.py), Go, C++ |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python3](Algorithms/Medium/155_Min_Stack/Python3.py), Go, C++ |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](Algorithms/Medium/162_Find_Peak_Element/Python3.py), Go, C++ |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python3](Algorithms/Medium/165_Compare_Version_Numbers/Python3.py), Go, C++ |
