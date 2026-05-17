@@ -672,6 +672,7 @@
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Python3](Algorithms/Medium/1292_Maximum_Side_Length_of_a_Square_with_Sum_Less_than_or_Equal_to_Threshold/Python3.py), Go, C++ |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python3](Algorithms/Medium/1302_Deepest_Leaves_Sum/Python3.py), Go, C++ |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Python3](Algorithms/Medium/1305_All_Elements_in_Two_Binary_Search_Trees/Python3.py), Go, C++ |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/submissions/2005729703/) | [Python3](Algorithms/Medium/1306_Jump_Game_III/Python3.py), Go, C++ |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [Python3](Algorithms/Medium/1310_XOR_Queries_of_a_Subarray/Python3.py), Go, C++ |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Python3](Algorithms/Medium/1315_Sum_of_Nodes_with_Even-Valued_Grandparent/Python3.py), Go, C++ |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python3](Algorithms/Medium/1329_Sort_the_Matrix_Diagonally/Python3.py), Go, C++ |
