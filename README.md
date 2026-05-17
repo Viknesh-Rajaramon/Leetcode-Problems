@@ -500,6 +500,7 @@
 | 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [Python3](Algorithms/Easy/3917_Count_Indices_With_Opposite_Parity/Python3.py), Go, C++ |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | [Python3](Algorithms/Easy/3921_Score_Validator/Python3.py), Go, C++ |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Python3](Algorithms/Easy/3925_Concatenate_Array_With_Reverse/Python3.py), Go, C++ |
+| 3931 | [Check Adjacent Digit Differences](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Python3](Algorithms/Easy/3931_Check_Adjacent_Digit_Differences/Python3.py), Go, C++ |
 
 ### Medium
 
@@ -1088,6 +1089,8 @@
 | 3923 | [Minimum Generations to Target Point](https://leetcode.com/problems/minimum-generations-to-target-point/) | [Python3](Algorithms/Medium/3923_Minimum_Generations_to_Target_Point/Python3.py), Go, C++ |
 | 3926 | [Count Valid Word Occurrences](https://leetcode.com/problems/count-valid-word-occurrences/) | [Python3](Algorithms/Medium/3926_Count_Valid_Word_Occurrences/Python3.py), Go, C++ |
 | 3927 | [Minimize Array Sum Using Divisible Replacements](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | [Python3](Algorithms/Medium/3927_Minimize_Array_Sum_Using_Divisible_Replacements/Python3.py), Go, C++ |
+| 3932 | [Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Python3](Algorithms/Medium/3932_Count_K-th_Roots_in_a_Range/Python3.py), Go, C++ |
+| 3933 | [Largest Local Values in a Matrix II](https://leetcode.com/problems/largest-local-values-in-a-matrix-ii/) | [Python3](Algorithms/Medium/3933_Largest_Local_Values_in_a_Matrix_II/Python3.py), Go, C++ |
 
 ### Hard
 
@@ -1260,6 +1263,7 @@
 | 3920 | [Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Python3](Algorithms/Hard/3920_Maximize_Fixed_Points_After_Deletions/Python3.py), Go, C++ |
 | 3924 | [Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | [Python3](Algorithms/Hard/3924_Minimum_Threshold_Path_With_Limited_Heavy_Edges/Python3.py), Go, C++ |
 | 3928 | [Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | [Python3](Algorithms/Hard/3928_Minimum_Cost_to_Buy_Apples_II/Python3.py), Go, C++ |
+| 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [Python3](Algorithms/Hard/3934_Smallest_Unique_Subarray/Python3.py), Go, C++ |
 
 ## Database
 
