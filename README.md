@@ -339,6 +339,7 @@
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Python3](Algorithms/Easy/2520_Count_the_Digits_That_Divide_a_Number/Python3.py), Go, C++ |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Python3](Algorithms/Easy/2529_Maximum_Count_of_Positive_Integer_and_Negative_Integer/Python3.py), Go, C++ |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Python3](Algorithms/Easy/2535_Difference_Between_Element_Sum_and_Digit_Sum_of_an_Array/Python3.py), Go, C++ |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Python3](Algorithms/Easy/2540_Minimum_Common_Value/Python3.py), Go, C++ |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Python3](Algorithms/Easy/2553_Separate_the_Digits_in_an_Array/Python3.py), Go, C++ |
 | 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Python3](Algorithms/Easy/2566_Maximum_Difference_by_Remapping_a_Digit/Python3.py), Go, C++ |
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Python3](Algorithms/Easy/2570_Merge_Two_2D_Arrays_by_Summing_Values/Python3.py), Go, C++ |
