@@ -522,7 +522,7 @@
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](Algorithms/Medium/24_Swap_Nodes_in_Pairs/Python3.py), Go, C++ |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python3](Algorithms/Medium/29_Divide_Two_Integers/Python3.py), Go, C++ |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](Algorithms/Medium/31_Next_Permutation/Python3.py), Go, C++ |
-| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python3](Algorithms/Medium/33_Search_in_Rotated_Sorted_Array/Python3.py), Go, C++ |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python3](Algorithms/Medium/33_Search_in_Rotated_Sorted_Array/Python3.py), [Go](Algorithms/Medium/33_Search_in_Rotated_Sorted_Array/Go.go), [C++](Algorithms/Medium/33_Search_in_Rotated_Sorted_Array/C++.cpp) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python3](Algorithms/Medium/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Python3.py), Go, C++ |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python3](Algorithms/Medium/36_Valid_Sudoku/Python3.py), Go, C++ |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python3](Algorithms/Medium/38_Count_and_Say/Python3.py), Go, C++ |

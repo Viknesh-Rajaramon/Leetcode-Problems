@@ -6,7 +6,6 @@ class Solution:
             low, high = 0, n-1
             while low < high:
                 mid = (low+high) // 2
-                
                 if nums[0] <= nums[mid]:
                     low = mid + 1
                 else:
@@ -28,7 +27,6 @@ class Solution:
 
         n = len(nums)
         pivot_index = find_pivot()
-
         if nums[pivot_index] <= target <= nums[-1]:
             return binary_search(pivot_index, n-1)
         
