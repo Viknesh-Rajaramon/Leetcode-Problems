@@ -256,7 +256,7 @@
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [Python3](Algorithms/Easy/1725_Number_Of_Rectangles_That_Can_Form_The_Largest_Square/Python3.py), Go, C++ |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Python3](Algorithms/Easy/1732_Find_the_Highest_Altitude/Python3.py), Go, C++ |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [Python3](Algorithms/Easy/1748_Sum_of_Unique_Elements/Python3.py), Go, C++ |
-| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Python3](Algorithms/Easy/1752_Check_if_Array_Is_Sorted_and_Rotated/Python3.py), Go, C++ |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Python3](Algorithms/Easy/1752_Check_if_Array_Is_Sorted_and_Rotated/Python3.py), [Go](Algorithms/Easy/1752_Check_if_Array_Is_Sorted_and_Rotated/Go.go), [C++](Algorithms/Easy/1752_Check_if_Array_Is_Sorted_and_Rotated/C++.cpp) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Python3](Algorithms/Easy/1758_Minimum_Changes_To_Make_Alternating_Binary_String/Python3.py), Go, C++ |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python3](Algorithms/Easy/1768_Merge_Strings_Alternately/Python3.py), Go, C++ |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Python3](Algorithms/Easy/1773_Count_Items_Matching_a_Rule/Python3.py), Go, C++ |
