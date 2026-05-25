@@ -748,6 +748,7 @@
 | 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Python3](Algorithms/Medium/1855_Maximum_Distance_Between_a_Pair_of_Values/Python3.py), Go, C++ |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [Python3](Algorithms/Medium/1861_Rotating_the_Box/Python3.py), Go, C++ |
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [Python3](Algorithms/Medium/1865_Finding_Pairs_With_a_Certain_Sum/Python3.py), Go, C++ |
+| 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [Python3](Algorithms/Medium/1871_Jump_Game_VII/Python3.py), [Go](Algorithms/Medium/1871_Jump_Game_VII/Go.go), [C++](Algorithms/Medium/1871_Jump_Game_VII/C++.cpp) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Python3](Algorithms/Medium/1877_Minimize_Maximum_Pair_Sum_in_Array/Python3.py), Go, C++ |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Python3](Algorithms/Medium/1878_Get_Biggest_Three_Rhombus_Sums_in_a_Grid/Python3.py), Go, C++ |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [Python3](Algorithms/Medium/1888_Minimum_Number_of_Flips_to_Make_the_Binary_String_Alternating/Python3.py), Go, C++ |
