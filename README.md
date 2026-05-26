@@ -389,6 +389,7 @@
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | [Python3](Algorithms/Easy/3099_Harshad_Number/Python3.py), Go, C++ |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Python3](Algorithms/Easy/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray/Python3.py), Go, C++ |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [Python3](Algorithms/Easy/3110_Score_of_a_String/Python3.py), Go, C++ |
+| 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Python3](Algorithms/Easy/3120_Count_the_Number_of_Special_Characters_I/Python3.py), [Go](Algorithms/Easy/3120_Count_the_Number_of_Special_Characters_I/Go.go), [C++](Algorithms/Easy/3120_Count_the_Number_of_Special_Characters_I/C++.cpp) |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [Python3](Algorithms/Easy/3131_Find_the_Integer_Added_to_Array_I/Python3.py), Go, C++ |
 | 3136 | [Valid Word](https://leetcode.com/problems/valid-word/) | [Python3](Algorithms/Easy/3136_Valid_Word/Python3.py), Go, C++ |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [Python3](Algorithms/Easy/3146_Permutation_Difference_between_Two_Strings/Python3.py), Go, C++ |
