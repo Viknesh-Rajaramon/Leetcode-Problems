@@ -1111,6 +1111,7 @@
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Python3](Algorithms/Hard/85_Maximal_Rectangle/Python3.py), Go, C++ |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Python3](Algorithms/Hard/127_Word_Ladder/Python3.py), Go, C++ |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Python3](Algorithms/Hard/135_Candy/Python3.py), Go, C++ |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python3](Algorithms/Hard/154_Find_Minimum_in_Rotated_Sorted_Array_II/Python3.py), [Go](Algorithms/Hard/154_Find_Minimum_in_Rotated_Sorted_Array_II/Go.go), [C++](Algorithms/Hard/154_Find_Minimum_in_Rotated_Sorted_Array_II/C++.cpp) |
 | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) | [Python3](Algorithms/Hard/407_Trapping_Rain_Water_II/Python3.py), Go, C++ |
 | 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [Python3](Algorithms/Hard/440_K-th_Smallest_in_Lexicographical_Order/Python3.py), Go, C++ |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | [Python3](Algorithms/Hard/679_24_Game/Python3.py), Go, C++ |
