@@ -504,6 +504,7 @@
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | [Python3](Algorithms/Easy/3921_Score_Validator/Python3.py), Go, C++ |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Python3](Algorithms/Easy/3925_Concatenate_Array_With_Reverse/Python3.py), Go, C++ |
 | 3931 | [Check Adjacent Digit Differences](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Python3](Algorithms/Easy/3931_Check_Adjacent_Digit_Differences/Python3.py), Go, C++ |
+| 3936 | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Python3](Algorithms/Easy/3936_Minimum_Swaps_to_Move_Zeros_to_End/Python3.py), [Go](Algorithms/Easy/3936_Minimum_Swaps_to_Move_Zeros_to_End/Go.go), [C++](Algorithms/Easy/3936_Minimum_Swaps_to_Move_Zeros_to_End/C++.cpp) |
 
 ### Medium
 
@@ -1098,6 +1099,8 @@
 | 3927 | [Minimize Array Sum Using Divisible Replacements](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | [Python3](Algorithms/Medium/3927_Minimize_Array_Sum_Using_Divisible_Replacements/Python3.py), Go, C++ |
 | 3932 | [Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Python3](Algorithms/Medium/3932_Count_K-th_Roots_in_a_Range/Python3.py), Go, C++ |
 | 3933 | [Largest Local Values in a Matrix II](https://leetcode.com/problems/largest-local-values-in-a-matrix-ii/) | [Python3](Algorithms/Medium/3933_Largest_Local_Values_in_a_Matrix_II/Python3.py), Go, C++ |
+| 3937 | [Minimum Operations to Make Array Modulo Alternating I](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | [Python3](Algorithms/Medium/3937_Minimum_Operations_to_Make_Array_Modulo_Alternating_I/Python3.py), [Go](Algorithms/Medium/3937_Minimum_Operations_to_Make_Array_Modulo_Alternating_I/Go.go), [C++](Algorithms/Medium/3937_Minimum_Operations_to_Make_Array_Modulo_Alternating_I/C++.cpp) |
+| 3938 | [Maximum Path Intersection Sum in a Grid](https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/) | [Python3](Algorithms/Medium/3938_Maximum_Path_Intersection_Sum_in_a_Grid/Python3.py), [Go](Algorithms/Medium/3938_Maximum_Path_Intersection_Sum_in_a_Grid/Go.go), [C++](Algorithms/Medium/3938_Maximum_Path_Intersection_Sum_in_a_Grid/C++.cpp) |
 
 ### Hard
 
@@ -1276,6 +1279,7 @@
 | 3924 | [Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | [Python3](Algorithms/Hard/3924_Minimum_Threshold_Path_With_Limited_Heavy_Edges/Python3.py), Go, C++ |
 | 3928 | [Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | [Python3](Algorithms/Hard/3928_Minimum_Cost_to_Buy_Apples_II/Python3.py), Go, C++ |
 | 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [Python3](Algorithms/Hard/3934_Smallest_Unique_Subarray/Python3.py), Go, C++ |
+| 3939 | [Count Non Adjacent Subsets in a Rooted Tree](https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/) | [Python3](Algorithms/Hard/3939_Count_Non_Adjacent_Subsets_in_a_Rooted_Tree/Python3.py), [Go](Algorithms/Hard/3939_Count_Non_Adjacent_Subsets_in_a_Rooted_Tree/Go.go), [C++](Algorithms/Hard/3939_Count_Non_Adjacent_Subsets_in_a_Rooted_Tree/C++.cpp) |
 
 ## Database
 
