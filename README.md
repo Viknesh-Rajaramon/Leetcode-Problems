@@ -506,6 +506,7 @@
 | 3931 | [Check Adjacent Digit Differences](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Python3](Algorithms/Easy/3931_Check_Adjacent_Digit_Differences/Python3.py), Go, C++ |
 | 3936 | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Python3](Algorithms/Easy/3936_Minimum_Swaps_to_Move_Zeros_to_End/Python3.py), [Go](Algorithms/Easy/3936_Minimum_Swaps_to_Move_Zeros_to_End/Go.go), [C++](Algorithms/Easy/3936_Minimum_Swaps_to_Move_Zeros_to_End/C++.cpp) |
 | 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | [Python3](Algorithms/Easy/3940_Limit_Occurrences_in_Sorted_Array/Python3.py), [Go](Algorithms/Easy/3940_Limit_Occurrences_in_Sorted_Array/Go.go), [C++](Algorithms/Easy/3940_Limit_Occurrences_in_Sorted_Array/C++.cpp) |
+| 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | [Python3](Algorithms/Easy/3945_Digit_Frequency_Score/Python3.py), [Go](Algorithms/Easy/3945_Digit_Frequency_Score/Go.go), [C++](Algorithms/Easy/3945_Digit_Frequency_Score/C++.cpp) |
 
 ### Medium
 
@@ -1104,6 +1105,8 @@
 | 3938 | [Maximum Path Intersection Sum in a Grid](https://leetcode.com/problems/maximum-path-intersection-sum-in-a-grid/) | [Python3](Algorithms/Medium/3938_Maximum_Path_Intersection_Sum_in_a_Grid/Python3.py), [Go](Algorithms/Medium/3938_Maximum_Path_Intersection_Sum_in_a_Grid/Go.go), [C++](Algorithms/Medium/3938_Maximum_Path_Intersection_Sum_in_a_Grid/C++.cpp) |
 | 3941 | [Password Strength](https://leetcode.com/problems/password-strength/) | [Python3](Algorithms/Medium/3941_Password_Strength/Python3.py), [Go](Algorithms/Medium/3941_Password_Strength/Go.go), [C++](Algorithms/Medium/3941_Password_Strength/C++.cpp) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Python3](Algorithms/Medium/3942_Minimum_Operations_to_Sort_a_Permutation/Python3.py), [Go](Algorithms/Medium/3942_Minimum_Operations_to_Sort_a_Permutation/Go.go), [C++](Algorithms/Medium/3942_Minimum_Operations_to_Sort_a_Permutation/C++.cpp) |
+| 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | [Python3](Algorithms/Medium/3946_Maximum_Number_of_Items_From_Sale_I/Python3.py), [Go](Algorithms/Medium/3946_Maximum_Number_of_Items_From_Sale_I/Go.go), [C++](Algorithms/Medium/3946_Maximum_Number_of_Items_From_Sale_I/C++.cpp) |
+| 3947 | [Maximum Number of Items From Sale II](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | [Python3](Algorithms/Medium/3947_Maximum_Number_of_Items_From_Sale_II/Python3.py), [Go](Algorithms/Medium/3947_Maximum_Number_of_Items_From_Sale_II/Go.go), [C++](Algorithms/Medium/3947_Maximum_Number_of_Items_From_Sale_II/C++.cpp) |
 
 ### Hard
 
@@ -1284,6 +1287,7 @@
 | 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [Python3](Algorithms/Hard/3934_Smallest_Unique_Subarray/Python3.py), Go, C++ |
 | 3939 | [Count Non Adjacent Subsets in a Rooted Tree](https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/) | [Python3](Algorithms/Hard/3939_Count_Non_Adjacent_Subsets_in_a_Rooted_Tree/Python3.py), [Go](Algorithms/Hard/3939_Count_Non_Adjacent_Subsets_in_a_Rooted_Tree/Go.go), [C++](Algorithms/Hard/3939_Count_Non_Adjacent_Subsets_in_a_Rooted_Tree/C++.cpp) |
 | 3943 | [Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/) | [Python3](Algorithms/Hard/3943_Number_of_Pairs_After_Increment/Python3.py), [Go](Algorithms/Hard/3943_Number_of_Pairs_After_Increment/Go.go), [C++](Algorithms/Hard/3943_Number_of_Pairs_After_Increment/C++.cpp) |
+| 3948 | [Lexicographically Maximum MEX Array](https://leetcode.com/problems/lexicographically-maximum-mex-array/) | [Python3](Algorithms/Hard/3948_Lexicographically_Maximum_MEX_Array/Python3.py), [Go](Algorithms/Hard/3948_Lexicographically_Maximum_MEX_Array/Go.go), [C++](Algorithms/Hard/3948_Lexicographically_Maximum_MEX_Array/C++.cpp) |
 
 ## Database
 
