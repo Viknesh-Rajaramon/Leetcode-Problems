@@ -6,38 +6,26 @@ class Solution:
         def total_waviness_upto(num: int) -> int:
             digits = list(map(int, str(num)))
             n = len(digits)
+            if n < 2:
+                return 0
 
             @lru_cache(None)
-            def dfs(
-                pos: int,
-                p1: Optional[int],
-                p2: Optional[int],
-                tight: bool,
-                has_started: bool
-            ) -> Tuple[int, int]:
-                if pos == n:
-                    return 0, 1
+            def dfs(i: int, tight: bool, length: int, l: Optional[int], m: Optional[int]) -> Tuple[int, int]:
+                if i == n:
+                    return 1, 0
 
-                max_d, waviness, count = digits[pos] if tight else 9, 0, 0
-                for d in range(max_d+1):
-                    next_started = has_started or (d != 0)
-                    if not next_started:
-                        nd1, nd2 = None, None
-                    elif not has_started:
-                        nd1, nd2 = d, None
-                    else:
-                        nd1, nd2 = d, p1
+                limit, ways, cnt = digits[i] if tight else 9, 0, 0
+                for r in range(limit+1):
+                    next_tight = tight and r == limit
+                    next_length, next_m = (2, m) if length > 0 else (int(r != 0), 0)
+                    nways, ncnt = dfs(i+1, next_tight, next_length, next_m, r)
+                    ways += nways
+                    cnt += ncnt
+                    if length > 1 and ((m > l and m > r) or (m < l and m < r)):
+                        cnt += nways
 
-                    w, c = dfs(pos+1, nd1, nd2, tight and d == digits[pos], next_started)
-                    waviness += w
-                    count += c
-
-                    if has_started and next_started and p1 is not None and p2 is not None:
-                        if (p2 < p1 > d) or (p2 > p1 < d):
-                            waviness += c
-
-                return waviness, count
+                return ways, cnt
             
-            return dfs(0, None, None, True, False)[0]
+            return dfs(0, True, 0, 0, 0)[1]
 
-        return total_waviness_upto(num2) - total_waviness_upto(num1 - 1)
+        return total_waviness_upto(num2) - total_waviness_upto(num1-1)
