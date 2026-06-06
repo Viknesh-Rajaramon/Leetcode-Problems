@@ -1,41 +1,47 @@
+package main
+
+import (
+	"math"
+)
+
 func minOperations(nums []int, k int) int {
-    absInt := func (n int) int {
-        if n < 0 {
-            return -n
-        }
+	absInt := func(n int) int {
+		if n < 0 {
+			return -n
+		}
 
-        return n
-    }
-    
-    for i := range nums {
-        nums[i] %= k
-    }
-            
-    cost_odd := make([]int, k)
-    cost_even := make([]int, k)
-    for i, num := range nums {
-        for target := 0; target < k; target++ {
-            d := absInt(num-target)
-            c := min(d, k-d)
+		return n
+	}
 
-            if i%2 == 0 {
-                cost_even[target] += c
-            } else {
-                cost_odd[target] += c
-            }
-        }
-    }
+	for i := range nums {
+		nums[i] %= k
+	}
 
-    result := math.MaxInt
-    for x := 0; x < k; x++ {
-        for y := 0; y < k; y++ {
-            if x == y {
-                continue
-            }
+	cost_odd := make([]int, k)
+	cost_even := make([]int, k)
+	for i, num := range nums {
+		for target := 0; target < k; target++ {
+			d := absInt(num - target)
+			c := min(d, k-d)
 
-            result = min(result, cost_even[x]+cost_odd[y])
-        }
-    }
+			if i%2 == 0 {
+				cost_even[target] += c
+			} else {
+				cost_odd[target] += c
+			}
+		}
+	}
 
-    return result
+	result := math.MaxInt
+	for x := 0; x < k; x++ {
+		for y := 0; y < k; y++ {
+			if x == y {
+				continue
+			}
+
+			result = min(result, cost_even[x]+cost_odd[y])
+		}
+	}
+
+	return result
 }
