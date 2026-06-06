@@ -344,7 +344,7 @@
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Python3](Algorithms/Easy/2553_Separate_the_Digits_in_an_Array/Python3.py), Go, C++ |
 | 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Python3](Algorithms/Easy/2566_Maximum_Difference_by_Remapping_a_Digit/Python3.py), Go, C++ |
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Python3](Algorithms/Easy/2570_Merge_Two_2D_Arrays_by_Summing_Values/Python3.py), Go, C++ |
-| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Python3](Algorithms/Easy/2574_Left_and_Right_Sum_Differences/Python3.py), Go, C++ |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Python3](Algorithms/Easy/2574_Left_and_Right_Sum_Differences/Python3.py), [Go](Algorithms/Easy/2574_Left_and_Right_Sum_Differences/Go.go), [C++](Algorithms/Easy/2574_Left_and_Right_Sum_Differences/C++.cpp) |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Python3](Algorithms/Easy/2578_Split_With_Minimum_Sum/Python3.py), Go, C++ |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [Python3](Algorithms/Easy/2643_Row_With_Maximum_Ones/Python3.py), Go, C++ |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [Python3](Algorithms/Easy/2652_Sum_Multiples/Python3.py), Go, C++ |
