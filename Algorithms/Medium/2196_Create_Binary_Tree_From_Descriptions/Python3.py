@@ -10,7 +10,6 @@ class TreeNode:
 class Solution:
     def createBinaryTree(self, descriptions: List[List[int]]) -> Optional[TreeNode]:
         nodes = {}
-
         for _, child, _ in descriptions:
             if child not in nodes:
                 nodes[child] = TreeNode(child)
