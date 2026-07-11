@@ -993,7 +993,7 @@
 | 3679 | [ Minimum Discards to Balance Inventory](https://leetcode.com/problems/minimum-discards-to-balance-inventory/) | [Python3](Algorithms/Medium/3679_Minimum_Discards_to_Balance_Inventory/Python3.py), Go, C++ |
 | 3680 | [Generate Schedule](https://leetcode.com/problems/generate-schedule/) | [Python3](Algorithms/Medium/3680_Generate_Schedule/Python3.py), Go, C++ |
 | 3685 | [Subsequence Sum After Capping Elements](https://leetcode.com/problems/subsequence-sum-after-capping-elements/) | [Python3](Algorithms/Medium/3685_Subsequence_Sum_After_Capping_Elements/Python3.py), Go, C++ |
-| 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Python3](Algorithms/Medium/3689_Maximum_Total_Subarray_Value_I/Python3.py), Go, C++ |
+| 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Python3](Algorithms/Medium/3689_Maximum_Total_Subarray_Value_I/Python3.py), [Go](Algorithms/Medium/3689_Maximum_Total_Subarray_Value_I/Go.go), [C++](Algorithms/Medium/3689_Maximum_Total_Subarray_Value_I/C++.cpp) |
 | 3690 | [Split and Merge Array Transformation](https://leetcode.com/problems/split-and-merge-array-transformation/) | [Python3](Algorithms/Medium/3690_Split_and_Merge_Array_Transformation/Python3.py), Go, C++ |
 | 3693 | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | [Python3](Algorithms/Medium/3693_Climbing_Stairs_II/Python3.py), Go, C++ |
 | 3694 | [Distinct Points Reachable After Substring Removal](https://leetcode.com/problems/distinct-points-reachable-after-substring-removal/) | [Python3](Algorithms/Medium/3694_Distinct_Points_Reachable_After_Substring_Removal/Python3.py), Go, C++ |
