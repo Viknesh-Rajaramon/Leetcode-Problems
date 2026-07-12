@@ -204,6 +204,7 @@
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Python3](Algorithms/Easy/1313_Decompress_Run-Length_Encoded_List/Python3.py), Go, C++ |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Python3](Algorithms/Easy/1317_Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers/Python3.py), Go, C++ |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Python3](Algorithms/Easy/1323_Maximum_69_Number/Python3.py), Go, C++ |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Python3](Algorithms/Easy/1331_Rank_Transform_of_an_Array/Python3.py), [Go](Algorithms/Easy/1331_Rank_Transform_of_an_Array/Go.go), [C++](Algorithms/Easy/1331_Rank_Transform_of_an_Array/C++.cpp) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Python3](Algorithms/Easy/1342_Number_of_Steps_to_Reduce_a_Number_to_Zero/Python3.py), Go, C++ |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Python3](Algorithms/Easy/1346_Check_If_N_and_Its_Double_Exist/Python3.py), Go, C++ |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python3](Algorithms/Easy/1351_Count_Negative_Numbers_in_a_Sorted_Matrix/Python3.py), Go, C++ |
