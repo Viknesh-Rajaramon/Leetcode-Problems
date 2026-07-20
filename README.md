@@ -194,6 +194,7 @@
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Python3](Algorithms/Easy/1207_Unique_Number_of_Occurrences/Python3.py), Go, C++ |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python3](Algorithms/Easy/1221_Split_a_String_in_Balanced_Strings/Python3.py), Go, C++ |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python3](Algorithms/Easy/1232_Check_If_It_Is_a_Straight_Line/Python3.py), Go, C++ |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [Python3](Algorithms/Easy/1260_Shift_2D_Grid/Python3.py), [Go](Algorithms/Easy/1260_Shift_2D_Grid/Go.go), [C++](Algorithms/Easy/1260_Shift_2D_Grid/C++.cpp) |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python3](Algorithms/Easy/1266_Minimum_Time_Visiting_All_Points/Python3.py), Go, C++ |
 | 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Python3](Algorithms/Easy/1275_Find_Winner_on_a_Tic_Tac_Toe_Game/Python3.py), Go, C++ |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Python3](Algorithms/Easy/1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer/Python3.py), Go, C++ |
