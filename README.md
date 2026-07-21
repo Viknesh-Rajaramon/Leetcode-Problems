@@ -931,6 +931,7 @@
 | 3488 | [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/) | [Python3](Algorithms/Medium/3488_Closest_Equal_Element_Queries/Python3.py), Go, C++ |
 | 3493 | [Properties Graph](https://leetcode.com/problems/properties-graph/) | [Python3](Algorithms/Medium/3493_Properties_Graph/Python3.py), Go, C++ |
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | [Python3](Algorithms/Medium/3494_Find_the_Minimum_Amount_of_Time_to_Brew_Potions/Python3.py), Go, C++ |
+| 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | [Python3](Algorithms/Medium/3499_Maximize_Active_Section_with_Trade_I/Python3.py), [Go](Algorithms/Medium/3499_Maximize_Active_Section_with_Trade_I/Go.go), [C++](Algorithms/Medium/3499_Maximize_Active_Section_with_Trade_I/C++.cpp) |
 | 3508 | [Implement Router](https://leetcode.com/problems/implement-router/) | [Python3](Algorithms/Medium/3508_Implement_Router/Python3.py), Go, C++ |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | [Python3](Algorithms/Medium/3517_Smallest_Palindromic_Rearrangement_I/Python3.py), Go, C++ |
 | 3522 | [Calculate Score After Performing Instructions](https://leetcode.com/problems/calculate-score-after-performing-instructions/) | [Python3](Algorithms/Medium/3522_Calculate_Score_After_Performing_Instructions/Python3.py), Go, C++ |
