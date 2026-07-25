@@ -1,10 +1,12 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        digits = [0]
+        first, second = 0, 0
         while n > 0:
-            digits.append(n % 10)
+            digit = n % 10
             n //= 10
+            if digit > first:
+                first, second = digit, first
+            elif digit > second:
+                second = digit
         
-        digits.sort()
-
-        return digits[-1] * digits[-2]
+        return first * second
