@@ -2,19 +2,15 @@ from collections import Counter
 
 class Solution:
     def smallestPalindrome(self, s: str) -> str:
-        letters = Counter(s)
-        letters = dict(sorted(letters.items()))
+        result, n = [], len(s)
+        mid, counter = "" if n%2 == 0 else s[n//2], Counter(s[ : n//2])
+        for i in range(26):
+            c = chr(ord('a') + i)
+            result.extend([c] * counter[c])
         
-        small_str = []
-        middle = ""
-        for letter, count in letters.items():
-            temp = count
-            if temp % 2:
-                middle = letter
-                temp -= 1
-
-            if temp > 0:
-                small_str.append(letter * (temp // 2))
-
-        small_str = "".join(small_str)
-        return small_str + middle + small_str[::-1]
+        result.append(mid)
+        for i in range(25, -1, -1):
+            c = chr(ord('a') + i)
+            result.extend([c] * counter[c])
+        
+        return "".join(result)
