@@ -385,6 +385,7 @@
 | 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Python3](Algorithms/Easy/3000_Maximum_Area_of_Longest_Diagonal_Rectangle/Python3.py), Go, C++ |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Python3](Algorithms/Easy/3005_Count_Elements_With_Maximum_Frequency/Python3.py), Go, C++ |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Python3](Algorithms/Easy/3010_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I/Python3.py), Go, C++ |
+| 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Python3](Algorithms/Easy/3014_Minimum_Number_of_Pushes_to_Type_Word_I/Python3.py), [Go](Algorithms/Easy/3014_Minimum_Number_of_Pushes_to_Type_Word_I/Go.go), [C++](Algorithms/Easy/3014_Minimum_Number_of_Pushes_to_Type_Word_I/C++.cpp) |
 | 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [Python3](Algorithms/Easy/3019_Number_of_Changing_Keys/Python3.py), Go, C++ |
 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | [Python3](Algorithms/Easy/3024_Type_of_Triangle/Python3.py), Go, C++ |
 | 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [Python3](Algorithms/Easy/3042_Count_Prefix_and_Suffix_Pairs_I/Python3.py), Go, C++ |
