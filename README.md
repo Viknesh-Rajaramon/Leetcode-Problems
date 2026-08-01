@@ -610,6 +610,7 @@
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python3](Algorithms/Medium/417_Pacific_Atlantic_Water_Flow/Python3.py), Go, C++ |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python3](Algorithms/Medium/445_Add_Two_Numbers_II/Python3.py), Go, C++ |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Python3](Algorithms/Medium/474_Ones_and_Zeroes/Python3.py), Go, C++ |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Python3](Algorithms/Medium/486_Predict_the_Winner/Python3.py), [Go](Algorithms/Medium/486_Predict_the_Winner/Go.go), [C++](Algorithms/Medium/486_Predict_the_Winner/C++.cpp) |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Python3](Algorithms/Medium/494_Target_Sum/Python3.py), Go, C++ |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Python3](Algorithms/Medium/498_Diagonal_Traverse/Python3.py), Go, C++ |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Python3](Algorithms/Medium/515_Find_Largest_Value_in_Each_Tree_Row/Python3.py), Go, C++ |
