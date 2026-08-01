@@ -782,6 +782,7 @@
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Python3](Algorithms/Medium/2069_Walking_Robot_Simulation_II/Python3.py), Go, C++ |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [Python3](Algorithms/Medium/2075_Decode_the_Slanted_Ciphertext/Python3.py), Go, C++ |
 | 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants/) | [Python3](Algorithms/Medium/2079_Watering_Plants/Python3.py), Go, C++ |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Python3](Algorithms/Medium/2095_Delete_the_Middle_Node_of_a_Linked_List/Python3.py), [Go](Algorithms/Medium/2095_Delete_the_Middle_Node_of_a_Linked_List/Go.go), [C++](Algorithms/Medium/2095_Delete_the_Middle_Node_of_a_Linked_List/C++.cpp) |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Python3](Algorithms/Medium/2110_Number_of_Smooth_Descent_Periods_of_a_Stock/Python3.py), Go, C++ |
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Python3](Algorithms/Medium/2115_Find_All_Possible_Recipes_from_Given_Supplies/Python3.py), Go, C++ |
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python3](Algorithms/Medium/2125_Number_of_Laser_Beams_in_a_Bank/Python3.py), Go, C++ |
