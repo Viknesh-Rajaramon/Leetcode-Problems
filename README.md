@@ -649,6 +649,7 @@
 | 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Python3](Algorithms/Medium/873_Length_of_Longest_Fibonacci_Subsequence/Python3.py), Go, C++ |
 | 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [Python3](Algorithms/Medium/874_Walking_Robot_Simulation/Python3.py), Go, C++ |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python3](Algorithms/Medium/875_Koko_Eating_Bananas/Python3.py), Go, C++ |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [Python3](Algorithms/Medium/877_Stone_Game/Python3.py), [Go](Algorithms/Medium/877_Stone_Game/Go.go), [C++](Algorithms/Medium/877_Stone_Game/C++.cpp) |
 | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python3](Algorithms/Medium/889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal/Python3.py), Go, C++ |
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Python3](Algorithms/Medium/901_Online_Stock_Span/Python3.py), Go, C++ |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python3](Algorithms/Medium/904_Fruit_Into_Baskets/Python3.py), Go, C++ |
