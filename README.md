@@ -473,7 +473,7 @@
 | 3712 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | [Python3](Algorithms/Easy/3712_Sum_of_Elements_With_Frequency_Divisible_by_K/Python3.py), Go, C++ |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Python3](Algorithms/Easy/3718_Smallest_Missing_Multiple_of_K/Python3.py), Go, C++ |
 | 3726 | [Remove Zeros in Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | [Python3](Algorithms/Easy/3726_Remove_Zeros_in_Decimal_Representation/Python3.py), Go, C++ |
-| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Python3](Algorithms/Easy/3731_Find_Missing_Elements/Python3.py), Go, C++ |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Python3](Algorithms/Easy/3731_Find_Missing_Elements/Python3.py), [Go](Algorithms/Easy/3731_Find_Missing_Elements/Go.go), [C++](Algorithms/Easy/3731_Find_Missing_Elements/C++.cpp) |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Python3](Algorithms/Easy/3736_Minimum_Moves_to_Equal_Array_Elements_III/Python3.py), Go, C++ |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Python3](Algorithms/Easy/3740_Minimum_Distance_Between_Three_Equal_Elements_I/Python3.py), Go, C++ |
 | 3745 | [Maximize Expression of Three Elements](https://leetcode.com/problems/maximize-expression-of-three-elements/) | [Python3](Algorithms/Easy/3745_Maximize_Expression_of_Three_Elements/Python3.py), Go, C++ |
