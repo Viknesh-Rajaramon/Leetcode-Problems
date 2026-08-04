@@ -1150,6 +1150,7 @@
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Python3](Algorithms/Hard/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers/Python3.py), Go, C++ |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [Python3](Algorithms/Hard/1340_Jump_Game_V/Python3.py), [Go](Algorithms/Hard/1340_Jump_Game_V/Go.go), [C++](Algorithms/Hard/1340_Jump_Game_V/C++.cpp) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Python3](Algorithms/Hard/1345_Jump_Game_IV/Python3.py), Go, C++ |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Python3](Algorithms/Hard/1406_Stone_Game_III/Python3.py), [Go](Algorithms/Hard/1406_Stone_Game_III/Go.go), [C++](Algorithms/Hard/1406_Stone_Game_III/C++.cpp) |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [Python3](Algorithms/Hard/1411_Number_of_Ways_to_Paint_N_x_3_Grid/Python3.py), Go, C++ |
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Python3](Algorithms/Hard/1458_Max_Dot_Product_of_Two_Subsequences/Python3.py), Go, C++ |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Python3](Algorithms/Hard/1526_Minimum_Number_of_Increments_on_Subarrays_to_Form_a_Target_Array/Python3.py), Go, C++ |
