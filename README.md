@@ -419,6 +419,7 @@
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Python3](Algorithms/Easy/3318_Find_X-Sum_of_All_K-Long_Subarrays_I/Python3.py), Go, C++ |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [Python3](Algorithms/Easy/3330_Find_the_Original_Typed_String_I/Python3.py), Go, C++ |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | [Python3](Algorithms/Easy/3340_Check_Balanced_String/Python3.py), Go, C++ |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Python3](Algorithms/Easy/3345_Smallest_Divisible_Digit_Product_I/Python3.py), [Go](Algorithms/Easy/3345_Smallest_Divisible_Digit_Product_I/Go.go), [C++](Algorithms/Easy/3345_Smallest_Divisible_Digit_Product_I/C++.cpp) |
 | 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Python3](Algorithms/Easy/3349_Adjacent_Increasing_Subarrays_Detection_I/Python3.py), Go, C++ |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [Python3](Algorithms/Easy/3354_Make_Array_Elements_Equal_to_Zero/Python3.py), Go, C++ |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [Python3](Algorithms/Easy/3370_Smallest_Number_With_All_Set_Bits/Python3.py), Go, C++ |
