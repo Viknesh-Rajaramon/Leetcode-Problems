@@ -780,6 +780,7 @@
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Python3](Algorithms/Medium/1976_Number_of_Ways_to_Arrive_at_Destination/Python3.py), Go, C++ |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [Python3](Algorithms/Medium/1980_Find_Unique_Binary_String/Python3.py), Go, C++ |
 | 2012 | [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | [Python3](Algorithms/Medium/2012_Sum_of_Beauty_in_the_Array/Python3.py), Go, C++ |
+| 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | [Python3](Algorithms/Medium/2029_Stone_Game_IX/Python3.py), [Go](Algorithms/Medium/2029_Stone_Game_IX/Go.go), [C++](Algorithms/Medium/2029_Stone_Game_IX/C++.cpp) |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Python3](Algorithms/Medium/2033_Minimum_Operations_to_Make_a_Uni-Value_Grid/Python3.py), Go, C++ |
 | 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [Python3](Algorithms/Medium/2043_Simple_Bank_System/Python3.py), Go, C++ |
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Python3](Algorithms/Medium/2044_Count_Number_of_Maximum_Bitwise-OR_Subsets/Python3.py), Go, C++ |
