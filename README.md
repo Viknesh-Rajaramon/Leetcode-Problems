@@ -705,6 +705,7 @@
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Python3](Algorithms/Medium/1358_Number_of_Substrings_Containing_All_Three_Characters/Python3.py), Go, C++ |
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Python3](Algorithms/Medium/1381_Design_a_Stack_With_Increment_Operation/Python3.py), Go, C++ |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Python3](Algorithms/Medium/1382_Balance_a_Binary_Search_Tree/Python3.py), Go, C++ |
+| 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | [Python3](Algorithms/Medium/1386_Cinema_Seat_Allocation/Python3.py), [Go](Algorithms/Medium/1386_Cinema_Seat_Allocation/Go.go), [C++](Algorithms/Medium/1386_Cinema_Seat_Allocation/C++.cpp) |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [Python3](Algorithms/Medium/1390_Four_Divisors/Python3.py), Go, C++ |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Python3](Algorithms/Medium/1391_Check_if_There_is_a_Valid_Path_in_a_Grid/Python3.py), Go, C++ |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Python3](Algorithms/Medium/1395_Count_Number_of_Teams/Python3.py), Go, C++ |
