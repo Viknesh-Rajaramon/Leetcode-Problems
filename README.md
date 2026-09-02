@@ -500,7 +500,7 @@
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | [Python3](Algorithms/Easy/3861_Minimum_Capacity_Box/Python3.py), Go, C++ |
 | 3866 | [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/) | [Python3](Algorithms/Easy/3866_First_Unique_Even_Element/Python3.py), Go, C++ |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | [Python3](Algorithms/Easy/3870_Count_Commas_in_Range/Python3.py), Go, C++ |
-| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Python3](Algorithms/Easy/3875_Construct_Uniform_Parity_Array_I/Python3.py), Go, C++ |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Python3](Algorithms/Easy/3875_Construct_Uniform_Parity_Array_I/Python3.py), [Go](Algorithms/Easy/3875_Construct_Uniform_Parity_Array_I/Go.go), [C++](Algorithms/Easy/3875_Construct_Uniform_Parity_Array_I/C++.cpp) |
 | 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | [Python3](Algorithms/Easy/3880_Minimum_Absolute_Difference_Between_Two_Values/Python3.py), Go, C++ |
 | 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [Python3](Algorithms/Easy/3884_First_Matching_Character_From_Both_Ends/Python3.py), Go, C++ |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [Python3](Algorithms/Easy/3894_Traffic_Signal_Color/Python3.py), Go, C++ |
