@@ -505,7 +505,7 @@
 | 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [Python3](Algorithms/Easy/3884_First_Matching_Character_From_Both_Ends/Python3.py), Go, C++ |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [Python3](Algorithms/Easy/3894_Traffic_Signal_Color/Python3.py), Go, C++ |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [Python3](Algorithms/Easy/3898_Find_the_Degree_of_Each_Vertex/Python3.py), Go, C++ |
-| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | [Python3](Algorithms/Easy/3903_Smallest_Stable_Index_I/Python3.py), Go, C++ |
+| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | [Python3](Algorithms/Easy/3903_Smallest_Stable_Index_I/Python3.py), [Go](Algorithms/Easy/3903_Smallest_Stable_Index_I/Go.go), [C++](Algorithms/Easy/3903_Smallest_Stable_Index_I/C++.cpp) |
 | 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | [Python3](Algorithms/Easy/3908_Valid_Digit_Number/Python3.py), Go, C++ |
 | 3912 | [Valid Elements in an Array](https://leetcode.com/problems/valid-elements-in-an-array/) | [Python3](Algorithms/Easy/3912_Valid_Elements_in_an_Array/Python3.py), Go, C++ |
 | 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [Python3](Algorithms/Easy/3917_Count_Indices_With_Opposite_Parity/Python3.py), Go, C++ |
