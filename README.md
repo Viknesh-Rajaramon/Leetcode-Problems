@@ -1118,7 +1118,7 @@
 | 3896 | [Minimum Operations to Transform Array into Alternating Prime](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | [Python3](Algorithms/Medium/3896_Minimum_Operations_to_Transform_Array_into_Alternating_Prime/Python3.py), Go, C++ |
 | 3899 | [Angles of a Triangle](https://leetcode.com/problems/angles-of-a-triangle/) | [Python3](Algorithms/Medium/3899_Angles_of_a_Triangle/Python3.py), Go, C++ |
 | 3900 | [Longest Balanced Substring After One Swap](https://leetcode.com/problems/longest-balanced-substring-after-one-swap/) | [Python3](Algorithms/Medium/3900_Longest_Balanced_Substring_After_One_Swap/Python3.py), Go, C++ |
-| 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | [Python3](Algorithms/Medium/3904_Smallest_Stable_Index_II/Python3.py), Go, C++ |
+| 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/) | [Python3](Algorithms/Medium/3904_Smallest_Stable_Index_II/Python3.py), [Go](Algorithms/Medium/3904_Smallest_Stable_Index_II/Go.go), [C++](Algorithms/Medium/3904_Smallest_Stable_Index_II/C++.cpp) |
 | 3905 | [Multi Source Flood Fill](https://leetcode.com/problems/multi-source-flood-fill/) | [Python3](Algorithms/Medium/3905_Multi_Source_Flood_Fill/Python3.py), Go, C++ |
 | 3909 | [Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Python3](Algorithms/Medium/3909_Compare_Sums_of_Bitonic_Parts/Python3.py), Go, C++ |
 | 3913 | [Sort Vowels by Frequency](https://leetcode.com/problems/sort-vowels-by-frequency/) | [Python3](Algorithms/Medium/3913_Sort_Vowels_by_Frequency/Python3.py), Go, C++ |
