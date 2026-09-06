@@ -1150,6 +1150,7 @@
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python3](Algorithms/Hard/41_First_Missing_Positive/Python3.py), Go, C++ |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python3](Algorithms/Hard/60_Permutation_Sequence/Python3.py), Go, C++ |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Python3](Algorithms/Hard/85_Maximal_Rectangle/Python3.py), Go, C++ |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Python3](Algorithms/Hard/115_Distinct_Subsequences/Python3.py), [Go](Algorithms/Hard/115_Distinct_Subsequences/Go.go), [C++](Algorithms/Hard/115_Distinct_Subsequences/C++.cpp) |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Python3](Algorithms/Hard/127_Word_Ladder/Python3.py), Go, C++ |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [Python3](Algorithms/Hard/135_Candy/Python3.py), Go, C++ |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python3](Algorithms/Hard/154_Find_Minimum_in_Rotated_Sorted_Array_II/Python3.py), [Go](Algorithms/Hard/154_Find_Minimum_in_Rotated_Sorted_Array_II/Go.go), [C++](Algorithms/Hard/154_Find_Minimum_in_Rotated_Sorted_Array_II/C++.cpp) |
