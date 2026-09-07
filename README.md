@@ -1160,6 +1160,7 @@
 | 757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Python3](Algorithms/Hard/757_Set_Intersection_Size_At_Least_Two/Python3.py), Go, C++ |
 | 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [Python3](Algorithms/Hard/761_Special_Binary_String/Python3.py), Go, C++ |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Python3](Algorithms/Hard/778_Swim_in_Rising_Water/Python3.py), Go, C++ |
+| 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [Python3](Algorithms/Hard/940_Distinct_Subsequences_II/Python3.py), [Go](Algorithms/Hard/940_Distinct_Subsequences_II/Go.go), [C++](Algorithms/Hard/940_Distinct_Subsequences_II/C++.cpp) |
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Python3](Algorithms/Hard/960_Delete_Columns_to_Make_Sorted_III/Python3.py), Go, C++ |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Python3](Algorithms/Hard/1028_Recover_a_Tree_From_Preorder_Traversal/Python3.py), Go, C++ |
 | 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [Python3](Algorithms/Hard/1092_Shortest_Common_Supersequence/Python3.py), Go, C++ |
