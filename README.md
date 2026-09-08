@@ -517,6 +517,7 @@
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | [Python3](Algorithms/Easy/3945_Digit_Frequency_Score/Python3.py), [Go](Algorithms/Easy/3945_Digit_Frequency_Score/Go.go), [C++](Algorithms/Easy/3945_Digit_Frequency_Score/C++.cpp) |
 | 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [Python3](Algorithms/Easy/3950_Exactly_One_Consecutive_Set_Bits_Pair/Python3.py), [Go](Algorithms/Easy/3950_Exactly_One_Consecutive_Set_Bits_Pair/Go.go), [C++](Algorithms/Easy/3950_Exactly_One_Consecutive_Set_Bits_Pair/C++.cpp) |
 | 3954 | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Python3](Algorithms/Easy/3954_Sum_of_Compatible_Numbers_in_Range_I/Python3.py), [Go](Algorithms/Easy/3954_Sum_of_Compatible_Numbers_in_Range_I/Go.go), [C++](Algorithms/Easy/3954_Sum_of_Compatible_Numbers_in_Range_I/C++.cpp) |
+| 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | [Python3](Algorithms/Easy/3959_Check_Good_Integer/Python3.py), [Go](Algorithms/Easy/3959_Check_Good_Integer/Go.go), [C++](Algorithms/Easy/3959_Check_Good_Integer/C++.cpp) |
 
 ### Medium
 
@@ -1141,6 +1142,8 @@
 | 3951 | [Minimum Energy to Maintain Brightness](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | [Python3](Algorithms/Medium/3951_Minimum_Energy_to_Maintain_Brightness/Python3.py), [Go](Algorithms/Medium/3951_Minimum_Energy_to_Maintain_Brightness/Go.go), [C++](Algorithms/Medium/3951_Minimum_Energy_to_Maintain_Brightness/C++.cpp) |
 | 3952 | [Maximum Total Value of Covered Indices](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | [Python3](Algorithms/Medium/3952_Maximum_Total_Value_of_Covered_Indices/Python3.py), [Go](Algorithms/Medium/3952_Maximum_Total_Value_of_Covered_Indices/Go.go), [C++](Algorithms/Medium/3952_Maximum_Total_Value_of_Covered_Indices/C++.cpp) |
 | 3955 | [Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | [Python3](Algorithms/Medium/3955_Valid_Binary_Strings_With_Cost_Limit/Python3.py), [Go](Algorithms/Medium/3955_Valid_Binary_Strings_With_Cost_Limit/Go.go), [C++](Algorithms/Medium/3955_Valid_Binary_Strings_With_Cost_Limit/C++.cpp) |
+| 3960 | [Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray/) | [Python3](Algorithms/Medium/3960_Frequency_Balance_Subarray/Python3.py), [Go](Algorithms/Medium/3960_Frequency_Balance_Subarray/Go.go), [C++](Algorithms/Medium/3960_Frequency_Balance_Subarray/C++.cpp) |
+| 3961 | [Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | [Python3](Algorithms/Medium/3961_Maximize_Sum_of_Device_Ratings/Python3.py), [Go](Algorithms/Medium/3961_Maximize_Sum_of_Device_Ratings/Go.go), [C++](Algorithms/Medium/3961_Maximize_Sum_of_Device_Ratings/C++.cpp) |
 
 ### Hard
 
@@ -1338,6 +1341,7 @@
 | 3953 | [Maximum Score with Co-Prime Element](https://leetcode.com/problems/maximum-score-with-co-prime-element/) | [Python3](Algorithms/Hard/3953_Maximum_Score_with_Co-Prime_Element/Python3.py), [Go](Algorithms/Hard/3953_Maximum_Score_with_Co-Prime_Element/Go.go), [C++](Algorithms/Hard/3953_Maximum_Score_with_Co-Prime_Element/C++.cpp) |
 | 3956 | [Maximum Sum of M Non-Overlapping Subarrays I](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/) | [Python3](Algorithms/Hard/3956_Maximum_Sum_of_M_Non-Overlapping_Subarrays_I/Python3.py), [Go](Algorithms/Hard/3956_Maximum_Sum_of_M_Non-Overlapping_Subarrays_I/Go.go), [C++](Algorithms/Hard/3956_Maximum_Sum_of_M_Non-Overlapping_Subarrays_I/C++.cpp) |
 | 3957 | [Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | [Python3](Algorithms/Hard/3957_Maximum_Sum_of_M_Non-Overlapping_Subarrays_II/Python3.py), [Go](Algorithms/Hard/3957_Maximum_Sum_of_M_Non-Overlapping_Subarrays_II/Go.go), [C++](Algorithms/Hard/3957_Maximum_Sum_of_M_Non-Overlapping_Subarrays_II/C++.cpp) |
+| 3962 | [Maximum Subarray Sum After at Most K Swaps](https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps/) | [Python3](Algorithms/Hard/3962_Maximum_Subarray_Sum_After_at_Most_K_Swaps/Python3.py), [Go](Algorithms/Hard/3962_Maximum_Subarray_Sum_After_at_Most_K_Swaps/Go.go), [C++](Algorithms/Hard/3962_Maximum_Subarray_Sum_After_at_Most_K_Swaps/C++.cpp) |
 
 ## Database
 
