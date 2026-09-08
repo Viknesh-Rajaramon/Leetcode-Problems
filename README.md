@@ -518,6 +518,7 @@
 | 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [Python3](Algorithms/Easy/3950_Exactly_One_Consecutive_Set_Bits_Pair/Python3.py), [Go](Algorithms/Easy/3950_Exactly_One_Consecutive_Set_Bits_Pair/Go.go), [C++](Algorithms/Easy/3950_Exactly_One_Consecutive_Set_Bits_Pair/C++.cpp) |
 | 3954 | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Python3](Algorithms/Easy/3954_Sum_of_Compatible_Numbers_in_Range_I/Python3.py), [Go](Algorithms/Easy/3954_Sum_of_Compatible_Numbers_in_Range_I/Go.go), [C++](Algorithms/Easy/3954_Sum_of_Compatible_Numbers_in_Range_I/C++.cpp) |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | [Python3](Algorithms/Easy/3959_Check_Good_Integer/Python3.py), [Go](Algorithms/Easy/3959_Check_Good_Integer/Go.go), [C++](Algorithms/Easy/3959_Check_Good_Integer/C++.cpp) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Python3](Algorithms/Easy/3963_Create_Grid_With_Exactly_One_Path/Python3.py), [Go](Algorithms/Easy/3963_Create_Grid_With_Exactly_One_Path/Go.go), [C++](Algorithms/Easy/3963_Create_Grid_With_Exactly_One_Path/C++.cpp) |
 
 ### Medium
 
@@ -1144,6 +1145,8 @@
 | 3955 | [Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | [Python3](Algorithms/Medium/3955_Valid_Binary_Strings_With_Cost_Limit/Python3.py), [Go](Algorithms/Medium/3955_Valid_Binary_Strings_With_Cost_Limit/Go.go), [C++](Algorithms/Medium/3955_Valid_Binary_Strings_With_Cost_Limit/C++.cpp) |
 | 3960 | [Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray/) | [Python3](Algorithms/Medium/3960_Frequency_Balance_Subarray/Python3.py), [Go](Algorithms/Medium/3960_Frequency_Balance_Subarray/Go.go), [C++](Algorithms/Medium/3960_Frequency_Balance_Subarray/C++.cpp) |
 | 3961 | [Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | [Python3](Algorithms/Medium/3961_Maximize_Sum_of_Device_Ratings/Python3.py), [Go](Algorithms/Medium/3961_Maximize_Sum_of_Device_Ratings/Go.go), [C++](Algorithms/Medium/3961_Maximize_Sum_of_Device_Ratings/C++.cpp) |
+| 3964 | [Minimum Lights to Illuminate a Road](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) | [Python3](Algorithms/Medium/3964_Minimum_Lights_to_Illuminate_a_Road/Python3.py), [Go](Algorithms/Medium/3964_Minimum_Lights_to_Illuminate_a_Road/Go.go), [C++](Algorithms/Medium/3964_Minimum_Lights_to_Illuminate_a_Road/C++.cpp) |
+| 3965 | [Finish Time of Tasks I](https://leetcode.com/problems/finish-time-of-tasks-i/) | [Python3](Algorithms/Medium/3965_Finish_Time_of_Tasks_I/Python3.py), [Go](Algorithms/Medium/3965_Finish_Time_of_Tasks_I/Go.go), [C++](Algorithms/Medium/3965_Finish_Time_of_Tasks_I/C++.cpp) |
 
 ### Hard
 
@@ -1342,6 +1345,7 @@
 | 3956 | [Maximum Sum of M Non-Overlapping Subarrays I](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/) | [Python3](Algorithms/Hard/3956_Maximum_Sum_of_M_Non-Overlapping_Subarrays_I/Python3.py), [Go](Algorithms/Hard/3956_Maximum_Sum_of_M_Non-Overlapping_Subarrays_I/Go.go), [C++](Algorithms/Hard/3956_Maximum_Sum_of_M_Non-Overlapping_Subarrays_I/C++.cpp) |
 | 3957 | [Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | [Python3](Algorithms/Hard/3957_Maximum_Sum_of_M_Non-Overlapping_Subarrays_II/Python3.py), [Go](Algorithms/Hard/3957_Maximum_Sum_of_M_Non-Overlapping_Subarrays_II/Go.go), [C++](Algorithms/Hard/3957_Maximum_Sum_of_M_Non-Overlapping_Subarrays_II/C++.cpp) |
 | 3962 | [Maximum Subarray Sum After at Most K Swaps](https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps/) | [Python3](Algorithms/Hard/3962_Maximum_Subarray_Sum_After_at_Most_K_Swaps/Python3.py), [Go](Algorithms/Hard/3962_Maximum_Subarray_Sum_After_at_Most_K_Swaps/Go.go), [C++](Algorithms/Hard/3962_Maximum_Subarray_Sum_After_at_Most_K_Swaps/C++.cpp) |
+| 3966 | [Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/) | [Python3](Algorithms/Hard/3966_Count_Good_Integers_in_a_Range/Python3.py), [Go](Algorithms/Hard/3966_Count_Good_Integers_in_a_Range/Go.go), [C++](Algorithms/Hard/3966_Count_Good_Integers_in_a_Range/C++.cpp) |
 
 ## Database
 
