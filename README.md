@@ -520,6 +520,7 @@
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | [Python3](Algorithms/Easy/3959_Check_Good_Integer/Python3.py), [Go](Algorithms/Easy/3959_Check_Good_Integer/Go.go), [C++](Algorithms/Easy/3959_Check_Good_Integer/C++.cpp) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Python3](Algorithms/Easy/3963_Create_Grid_With_Exactly_One_Path/Python3.py), [Go](Algorithms/Easy/3963_Create_Grid_With_Exactly_One_Path/Go.go), [C++](Algorithms/Easy/3963_Create_Grid_With_Exactly_One_Path/C++.cpp) |
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | [Python3](Algorithms/Easy/3978_Unique_Middle_Element/Python3.py), [Go](Algorithms/Easy/3978_Unique_Middle_Element/Go.go), [C++](Algorithms/Easy/3978_Unique_Middle_Element/C++.cpp) |
+| 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | [Python3](Algorithms/Easy/3982_Sum_of_Integers_with_Maximum_Digit_Range/Python3.py), [Go](Algorithms/Easy/3982_Sum_of_Integers_with_Maximum_Digit_Range/Go.go), [C++](Algorithms/Easy/3982_Sum_of_Integers_with_Maximum_Digit_Range/C++.cpp) |
 
 ### Medium
 
@@ -1156,6 +1157,8 @@
 | 3976 | [Maximum Subarray Sum After Multiplier](https://leetcode.com/problems/maximum-subarray-sum-after-multiplier/) | [Python3](Algorithms/Medium/3976_Maximum_Subarray_Sum_After_Multiplier/Python3.py), [Go](Algorithms/Medium/3976_Maximum_Subarray_Sum_After_Multiplier/Go.go), [C++](Algorithms/Medium/3976_Maximum_Subarray_Sum_After_Multiplier/C++.cpp) |
 | 3979 | [Maximum Valid Pair Sum](https://leetcode.com/problems/maximum-valid-pair-sum/) | [Python3](Algorithms/Medium/3979_Maximum_Valid_Pair_Sum/Python3.py), [Go](Algorithms/Medium/3979_Maximum_Valid_Pair_Sum/Go.go), [C++](Algorithms/Medium/3979_Maximum_Valid_Pair_Sum/C++.cpp) |
 | 3980 | [Minimum Operations to Transform Binary String](https://leetcode.com/problems/minimum-operations-to-transform-binary-string/) | [Python3](Algorithms/Medium/3980_Minimum_Operations_to_Transform_Binary_String/Python3.py), [Go](Algorithms/Medium/3980_Minimum_Operations_to_Transform_Binary_String/Go.go), [C++](Algorithms/Medium/3980_Minimum_Operations_to_Transform_Binary_String/C++.cpp) |
+| 3983 | [Subsequence After One Replacement](https://leetcode.com/problems/subsequence-after-one-replacement/) | [Python3](Algorithms/Medium/3983_Subsequence_After_One_Replacement/Python3.py), [Go](Algorithms/Medium/3983_Subsequence_After_One_Replacement/Go.go), [C++](Algorithms/Medium/3983_Subsequence_After_One_Replacement/C++.cpp) |
+| 3984 | [Divisible Game](https://leetcode.com/problems/divisible-game/) | [Python3](Algorithms/Medium/3984_Divisible_Game/Python3.py), [Go](Algorithms/Medium/3984_Divisible_Game/Go.go), [C++](Algorithms/Medium/3984_Divisible_Game/C++.cpp) |
 
 ### Hard
 
@@ -1358,6 +1361,7 @@
 | 3971 | [Maximum Total Value](https://leetcode.com/problems/maximum-total-value/) | [Python3](Algorithms/Hard/3971_Maximum_Total_Value/Python3.py), [Go](Algorithms/Hard/3971_Maximum_Total_Value/Go.go), [C++](Algorithms/Hard/3971_Maximum_Total_Value/C++.cpp) |
 | 3977 | [Minimum Time to Reach Target With Limited Power](https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/) | [Python3](Algorithms/Hard/3977_Minimum_Time_to_Reach_Target_With_Limited_Power/Python3.py), [Go](Algorithms/Hard/3977_Minimum_Time_to_Reach_Target_With_Limited_Power/Go.go), [C++](Algorithms/Hard/3977_Minimum_Time_to_Reach_Target_With_Limited_Power/C++.cpp) |
 | 3981 | [Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | [Python3](Algorithms/Hard/3981_Count_Distinct_Ways_to_Form_Target_from_Two_Strings/Python3.py), [Go](Algorithms/Hard/3981_Count_Distinct_Ways_to_Form_Target_from_Two_Strings/Go.go), [C++](Algorithms/Hard/3981_Count_Distinct_Ways_to_Form_Target_from_Two_Strings/C++.cpp) |
+| 3985 | [Palindromic Subarray Sum](https://leetcode.com/problems/palindromic-subarray-sum/) | [Python3](Algorithms/Hard/3985_Palindromic_Subarray_Sum/Python3.py), [Go](Algorithms/Hard/3985_Palindromic_Subarray_Sum/Go.go), [C++](Algorithms/Hard/3985_Palindromic_Subarray_Sum/C++.cpp) |
 
 ## Database
 
