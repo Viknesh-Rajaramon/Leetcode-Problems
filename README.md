@@ -158,7 +158,7 @@
 | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Python3](Algorithms/Easy/824_Goat_Latin/Python3.py), Go, C++ |
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [Python3](Algorithms/Easy/830_Positions_of_Large_Groups/Python3.py), Go, C++ |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python3](Algorithms/Easy/832_Flipping_an_Image/Python3.py), Go, C++ |
-| 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [Python3](Algorithms/Easy/836_Rectangle_Overlap/Python3.py), Go, C++ |
+| 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [Python3](Algorithms/Easy/836_Rectangle_Overlap/Python3.py), [Go](Algorithms/Easy/836_Rectangle_Overlap/Go.go), [C++](Algorithms/Easy/836_Rectangle_Overlap/C++.cpp) |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python3](Algorithms/Easy/844_Backspace_String_Compare/Python3.py), Go, C++ |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Python3](Algorithms/Easy/860_Lemonade_Change/Python3.py), Go, C++ |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python3](Algorithms/Easy/867_Transpose_Matrix/Python3.py), Go, C++ |
