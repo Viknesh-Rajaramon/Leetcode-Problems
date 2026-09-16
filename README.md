@@ -524,6 +524,7 @@
 | 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | [Python3](Algorithms/Easy/3982_Sum_of_Integers_with_Maximum_Digit_Range/Python3.py), [Go](Algorithms/Easy/3982_Sum_of_Integers_with_Maximum_Digit_Range/Go.go), [C++](Algorithms/Easy/3982_Sum_of_Integers_with_Maximum_Digit_Range/C++.cpp) |
 | 3986 | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | [Python3](Algorithms/Easy/3986_Number_of_Elapsed_Seconds_Between_Two_Times/Python3.py), [Go](Algorithms/Easy/3986_Number_of_Elapsed_Seconds_Between_Two_Times/Go.go), [C++](Algorithms/Easy/3986_Number_of_Elapsed_Seconds_Between_Two_Times/C++.cpp) |
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | [Python3](Algorithms/Easy/3992_Rearrange_String_to_Avoid_Character_Pair/Python3.py), [Go](Algorithms/Easy/3992_Rearrange_String_to_Avoid_Character_Pair/Go.go), [C++](Algorithms/Easy/3992_Rearrange_String_to_Avoid_Character_Pair/C++.cpp) |
+| 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | [Python3](Algorithms/Easy/3996_Even_Number_of_Knight_Moves/Python3.py), [Go](Algorithms/Easy/3996_Even_Number_of_Knight_Moves/Go.go), [C++](Algorithms/Easy/3996_Even_Number_of_Knight_Moves/C++.cpp) |
 
 ### Medium
 
@@ -1168,6 +1169,8 @@
 | 3988 | [Create Grid With Exactly K Paths I](https://leetcode.com/problems/create-grid-with-exactly-k-paths-i/) | [Python3](Algorithms/Medium/3988_Create_Grid_With_Exactly_K_Paths_I/Python3.py), [Go](Algorithms/Medium/3988_Create_Grid_With_Exactly_K_Paths_I/Go.go), [C++](Algorithms/Medium/3988_Create_Grid_With_Exactly_K_Paths_I/C++.cpp) |
 | 3993 | [Maximum Value of an Alternating Sequence](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/) | [Python3](Algorithms/Medium/3993_Maximum_Value_of_an_Alternating_Sequence/Python3.py), [Go](Algorithms/Medium/3993_Maximum_Value_of_an_Alternating_Sequence/Go.go), [C++](Algorithms/Medium/3993_Maximum_Value_of_an_Alternating_Sequence/C++.cpp) |
 | 3994 | [Minimum Adjacent Swaps to Partition Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-partition-array/) | [Python3](Algorithms/Medium/3994_Minimum_Adjacent_Swaps_to_Partition_Array/Python3.py), [Go](Algorithms/Medium/3994_Minimum_Adjacent_Swaps_to_Partition_Array/Go.go), [C++](Algorithms/Medium/3994_Minimum_Adjacent_Swaps_to_Partition_Array/C++.cpp) |
+| 3997 | [Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/) | [Python3](Algorithms/Medium/3997_Count_Dominant_Nodes_in_a_Binary_Tree/Python3.py), [Go](Algorithms/Medium/3997_Count_Dominant_Nodes_in_a_Binary_Tree/Go.go), [C++](Algorithms/Medium/3997_Count_Dominant_Nodes_in_a_Binary_Tree/C++.cpp) |
+| 3998 | [Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/) | [Python3](Algorithms/Medium/3998_Transform_Binary_String_Using_Subsequence_Sort/Python3.py), [Go](Algorithms/Medium/3998_Transform_Binary_String_Using_Subsequence_Sort/Go.go), [C++](Algorithms/Medium/3998_Transform_Binary_String_Using_Subsequence_Sort/C++.cpp) |
 
 ### Hard
 
@@ -1396,6 +1399,7 @@
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](Database/Easy/595_Big_Countries/MySQL.sql) |
 | 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/) | [MySQL](Database/Easy/596_Classes_More_Than_5_Students/MySQL.sql) |
 | 3570 | [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies/) | [MySQL](Database/Easy/3570_Find_Books_with_No_Available_Copies/MySQL.sql) |
+| 3999 | [Minimum Number of String Groups Through Transformations](https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations/) | [Python3](Algorithms/Hard/3999_Minimum_Number_of_String_Groups_Through_Transformations/Python3.py), [Go](Algorithms/Hard/3999_Minimum_Number_of_String_Groups_Through_Transformations/Go.go), [C++](Algorithms/Hard/3999_Minimum_Number_of_String_Groups_Through_Transformations/C++.cpp) |
 
 ### Medium
 
