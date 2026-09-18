@@ -526,6 +526,7 @@
 | 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | [Python3](Algorithms/Easy/3992_Rearrange_String_to_Avoid_Character_Pair/Python3.py), [Go](Algorithms/Easy/3992_Rearrange_String_to_Avoid_Character_Pair/Go.go), [C++](Algorithms/Easy/3992_Rearrange_String_to_Avoid_Character_Pair/C++.cpp) |
 | 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | [Python3](Algorithms/Easy/3996_Even_Number_of_Knight_Moves/Python3.py), [Go](Algorithms/Easy/3996_Even_Number_of_Knight_Moves/Go.go), [C++](Algorithms/Easy/3996_Even_Number_of_Knight_Moves/C++.cpp) |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | [Python3](Algorithms/Easy/4000_Largest_Integer_With_Given_Digit_Sum/Python3.py), [Go](Algorithms/Easy/4000_Largest_Integer_With_Given_Digit_Sum/Go.go), [C++](Algorithms/Easy/4000_Largest_Integer_With_Given_Digit_Sum/C++.cpp) |
+| 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | [Python3](Algorithms/Easy/4006_Count_Valid_Prefixes/Python3.py), [Go](Algorithms/Easy/4006_Count_Valid_Prefixes/Go.go), [C++](Algorithms/Easy/4006_Count_Valid_Prefixes/C++.cpp) |
 
 ### Medium
 
@@ -1175,6 +1176,7 @@
 | 3998 | [Transform Binary String Using Subsequence Sort](https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/) | [Python3](Algorithms/Medium/3998_Transform_Binary_String_Using_Subsequence_Sort/Python3.py), [Go](Algorithms/Medium/3998_Transform_Binary_String_Using_Subsequence_Sort/Go.go), [C++](Algorithms/Medium/3998_Transform_Binary_String_Using_Subsequence_Sort/C++.cpp) |
 | 4001 | [Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/) | [Python3](Algorithms/Medium/4001_Aggregate_Two_Time_Series/Python3.py), [Go](Algorithms/Medium/4001_Aggregate_Two_Time_Series/Go.go), [C++](Algorithms/Medium/4001_Aggregate_Two_Time_Series/C++.cpp) |
 | 4002 | [Count Valid Sequences](https://leetcode.com/problems/count-valid-sequences/) | [Python3](Algorithms/Medium/4002_Count_Valid_Sequences/Python3.py), [Go](Algorithms/Medium/4002_Count_Valid_Sequences/Go.go), [C++](Algorithms/Medium/4002_Count_Valid_Sequences/C++.cpp) |
+| 4008 | [Minimum Initial Strength to Defeat All Monsters](https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/) | [Python3](Algorithms/Medium/4008_Minimum_Initial_Strength_to_Defeat_All_Monsters/Python3.py), [Go](Algorithms/Medium/4008_Minimum_Initial_Strength_to_Defeat_All_Monsters/Go.go), [C++](Algorithms/Medium/4008_Minimum_Initial_Strength_to_Defeat_All_Monsters/C++.cpp) |
 
 ### Hard
 
@@ -1385,6 +1387,9 @@
 | 3989 | [Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [Python3](Algorithms/Hard/3989_Maximum_Consistent_Columns_in_a_Grid/Python3.py), [Go](Algorithms/Hard/3989_Maximum_Consistent_Columns_in_a_Grid/Go.go), [C++](Algorithms/Hard/3989_Maximum_Consistent_Columns_in_a_Grid/C++.cpp) |
 | 3995 | [Minimum Cost to Convert String III](https://leetcode.com/problems/minimum-cost-to-convert-string-iii/) | [Python3](Algorithms/Hard/3995_Minimum_Cost_to_Convert_String_III/Python3.py), [Go](Algorithms/Hard/3995_Minimum_Cost_to_Convert_String_III/Go.go), [C++](Algorithms/Hard/3995_Minimum_Cost_to_Convert_String_III/C++.cpp) |
 | 4003 | [Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | [Python3](Algorithms/Hard/4003_Minimum_Cost_Path_with_Alternating_Directions_III/Python3.py), [Go](Algorithms/Hard/4003_Minimum_Cost_Path_with_Alternating_Directions_III/Go.go), [C++](Algorithms/Hard/4003_Minimum_Cost_Path_with_Alternating_Directions_III/C++.cpp) |
+| 4007 | [Widest Possible Fence](https://leetcode.com/problems/widest-possible-fence/) | [Python3](Algorithms/Hard/4007_Widest_Possible_Fence/Python3.py), [Go](Algorithms/Hard/4007_Widest_Possible_Fence/Go.go), [C++](Algorithms/Hard/4007_Widest_Possible_Fence/C++.cpp) |
+| 4009 | [Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | [Python3](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/Python3.py), [Go](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/Go.go), [C++](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/C++.cpp) |
+
 
 ## Database
 
