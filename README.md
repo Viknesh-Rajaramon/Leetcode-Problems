@@ -527,6 +527,7 @@
 | 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | [Python3](Algorithms/Easy/3996_Even_Number_of_Knight_Moves/Python3.py), [Go](Algorithms/Easy/3996_Even_Number_of_Knight_Moves/Go.go), [C++](Algorithms/Easy/3996_Even_Number_of_Knight_Moves/C++.cpp) |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | [Python3](Algorithms/Easy/4000_Largest_Integer_With_Given_Digit_Sum/Python3.py), [Go](Algorithms/Easy/4000_Largest_Integer_With_Given_Digit_Sum/Go.go), [C++](Algorithms/Easy/4000_Largest_Integer_With_Given_Digit_Sum/C++.cpp) |
 | 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | [Python3](Algorithms/Easy/4006_Count_Valid_Prefixes/Python3.py), [Go](Algorithms/Easy/4006_Count_Valid_Prefixes/Go.go), [C++](Algorithms/Easy/4006_Count_Valid_Prefixes/C++.cpp) |
+| 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | [Python3](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/Python3.py), [Go](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/Go.go), [C++](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/C++.cpp) |
 
 ### Medium
 
@@ -1178,6 +1179,8 @@
 | 4001 | [Aggregate Two Time Series](https://leetcode.com/problems/aggregate-two-time-series/) | [Python3](Algorithms/Medium/4001_Aggregate_Two_Time_Series/Python3.py), [Go](Algorithms/Medium/4001_Aggregate_Two_Time_Series/Go.go), [C++](Algorithms/Medium/4001_Aggregate_Two_Time_Series/C++.cpp) |
 | 4002 | [Count Valid Sequences](https://leetcode.com/problems/count-valid-sequences/) | [Python3](Algorithms/Medium/4002_Count_Valid_Sequences/Python3.py), [Go](Algorithms/Medium/4002_Count_Valid_Sequences/Go.go), [C++](Algorithms/Medium/4002_Count_Valid_Sequences/C++.cpp) |
 | 4008 | [Minimum Initial Strength to Defeat All Monsters](https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/) | [Python3](Algorithms/Medium/4008_Minimum_Initial_Strength_to_Defeat_All_Monsters/Python3.py), [Go](Algorithms/Medium/4008_Minimum_Initial_Strength_to_Defeat_All_Monsters/Go.go), [C++](Algorithms/Medium/4008_Minimum_Initial_Strength_to_Defeat_All_Monsters/C++.cpp) |
+| 4011 | [Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/) | [Python3](Algorithms/Medium/4011_Count_Subarrays_With_Even_Odd_Ratio_I/Python3.py), [Go](Algorithms/Medium/4011_Count_Subarrays_With_Even_Odd_Ratio_I/Go.go), [C++](Algorithms/Medium/4011_Count_Subarrays_With_Even_Odd_Ratio_I/C++.cpp) |
+| 4012 | [Count of Unfinished Tasks After Each Shift](https://leetcode.com/problems/count-of-unfinished-tasks-after-each-shift/) | [Python3](Algorithms/Medium/4012_Count_of_Unfinished_Tasks_After_Each_Shift/Python3.py), [Go](Algorithms/Medium/4012_Count_of_Unfinished_Tasks_After_Each_Shift/Go.go), [C++](Algorithms/Medium/4012_Count_of_Unfinished_Tasks_After_Each_Shift/C++.cpp) |
 
 ### Hard
 
@@ -1390,6 +1393,7 @@
 | 4003 | [Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | [Python3](Algorithms/Hard/4003_Minimum_Cost_Path_with_Alternating_Directions_III/Python3.py), [Go](Algorithms/Hard/4003_Minimum_Cost_Path_with_Alternating_Directions_III/Go.go), [C++](Algorithms/Hard/4003_Minimum_Cost_Path_with_Alternating_Directions_III/C++.cpp) |
 | 4007 | [Widest Possible Fence](https://leetcode.com/problems/widest-possible-fence/) | [Python3](Algorithms/Hard/4007_Widest_Possible_Fence/Python3.py), [Go](Algorithms/Hard/4007_Widest_Possible_Fence/Go.go), [C++](Algorithms/Hard/4007_Widest_Possible_Fence/C++.cpp) |
 | 4009 | [Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | [Python3](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/Python3.py), [Go](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/Go.go), [C++](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/C++.cpp) |
+| 4013 | [Count Subarrays With Even Odd Ratio II](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/) | [Python3](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/Python3.py), [Go](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/Go.go), [C++](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/C++.cpp) |
 
 
 ## Database
