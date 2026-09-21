@@ -1181,6 +1181,9 @@
 | 4008 | [Minimum Initial Strength to Defeat All Monsters](https://leetcode.com/problems/minimum-initial-strength-to-defeat-all-monsters/) | [Python3](Algorithms/Medium/4008_Minimum_Initial_Strength_to_Defeat_All_Monsters/Python3.py), [Go](Algorithms/Medium/4008_Minimum_Initial_Strength_to_Defeat_All_Monsters/Go.go), [C++](Algorithms/Medium/4008_Minimum_Initial_Strength_to_Defeat_All_Monsters/C++.cpp) |
 | 4011 | [Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/) | [Python3](Algorithms/Medium/4011_Count_Subarrays_With_Even_Odd_Ratio_I/Python3.py), [Go](Algorithms/Medium/4011_Count_Subarrays_With_Even_Odd_Ratio_I/Go.go), [C++](Algorithms/Medium/4011_Count_Subarrays_With_Even_Odd_Ratio_I/C++.cpp) |
 | 4012 | [Count of Unfinished Tasks After Each Shift](https://leetcode.com/problems/count-of-unfinished-tasks-after-each-shift/) | [Python3](Algorithms/Medium/4012_Count_of_Unfinished_Tasks_After_Each_Shift/Python3.py), [Go](Algorithms/Medium/4012_Count_of_Unfinished_Tasks_After_Each_Shift/Go.go), [C++](Algorithms/Medium/4012_Count_of_Unfinished_Tasks_After_Each_Shift/C++.cpp) |
+| 4014 | [Minimum Total Price After Applying Discounts](https://leetcode.com/problems/minimum-total-price-after-applying-discounts/) | [Python3](Algorithms/Medium/4014_Minimum_Total_Price_After_Applying_Discounts/Python3.py), [Go](Algorithms/Medium/4014_Minimum_Total_Price_After_Applying_Discounts/Go.go), [C++](Algorithms/Medium/4014_Minimum_Total_Price_After_Applying_Discounts/C++.cpp) |
+| 4015 | [Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | [Python3](Algorithms/Medium/4015_Weighted_Sum_of_a_Tree/Python3.py), [Go](Algorithms/Medium/4015_Weighted_Sum_of_a_Tree/Go.go), [C++](Algorithms/Medium/4015_Weighted_Sum_of_a_Tree/C++.cpp) |
+| 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/) | [Python3](Algorithms/Medium/4016_Maximum_Area_of_Two_Non-Overlapping_Square_Submatrices/Python3.py), [Go](Algorithms/Medium/4016_Maximum_Area_of_Two_Non-Overlapping_Square_Submatrices/Go.go), [C++](Algorithms/Medium/4016_Maximum_Area_of_Two_Non-Overlapping_Square_Submatrices/C++.cpp) |
 
 ### Hard
 
@@ -1394,6 +1397,7 @@
 | 4007 | [Widest Possible Fence](https://leetcode.com/problems/widest-possible-fence/) | [Python3](Algorithms/Hard/4007_Widest_Possible_Fence/Python3.py), [Go](Algorithms/Hard/4007_Widest_Possible_Fence/Go.go), [C++](Algorithms/Hard/4007_Widest_Possible_Fence/C++.cpp) |
 | 4009 | [Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | [Python3](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/Python3.py), [Go](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/Go.go), [C++](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/C++.cpp) |
 | 4013 | [Count Subarrays With Even Odd Ratio II](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/) | [Python3](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/Python3.py), [Go](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/Go.go), [C++](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/C++.cpp) |
+| 4017 | [Peaks in Array II](https://leetcode.com/problems/peaks-in-array-ii/) | [Python3](Algorithms/Hard/4017_Peaks_in_Array_II/Python3.py), [Go](Algorithms/Hard/4017_Peaks_in_Array_II/Go.go), [C++](Algorithms/Hard/4017_Peaks_in_Array_II/C++.cpp) |
 
 
 ## Database
