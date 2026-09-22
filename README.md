@@ -528,6 +528,7 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | [Python3](Algorithms/Easy/4000_Largest_Integer_With_Given_Digit_Sum/Python3.py), [Go](Algorithms/Easy/4000_Largest_Integer_With_Given_Digit_Sum/Go.go), [C++](Algorithms/Easy/4000_Largest_Integer_With_Given_Digit_Sum/C++.cpp) |
 | 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | [Python3](Algorithms/Easy/4006_Count_Valid_Prefixes/Python3.py), [Go](Algorithms/Easy/4006_Count_Valid_Prefixes/Go.go), [C++](Algorithms/Easy/4006_Count_Valid_Prefixes/C++.cpp) |
 | 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | [Python3](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/Python3.py), [Go](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/Go.go), [C++](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/C++.cpp) |
+| 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | [Python3](Algorithms/Easy/4020_Elevator_Requests_I/Python3.py), [Go](Algorithms/Easy/4020_Elevator_Requests_I/Go.go), [C++](Algorithms/Easy/4020_Elevator_Requests_I/C++.cpp) |
 
 ### Medium
 
@@ -1185,6 +1186,8 @@
 | 4014 | [Minimum Total Price After Applying Discounts](https://leetcode.com/problems/minimum-total-price-after-applying-discounts/) | [Python3](Algorithms/Medium/4014_Minimum_Total_Price_After_Applying_Discounts/Python3.py), [Go](Algorithms/Medium/4014_Minimum_Total_Price_After_Applying_Discounts/Go.go), [C++](Algorithms/Medium/4014_Minimum_Total_Price_After_Applying_Discounts/C++.cpp) |
 | 4015 | [Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree/) | [Python3](Algorithms/Medium/4015_Weighted_Sum_of_a_Tree/Python3.py), [Go](Algorithms/Medium/4015_Weighted_Sum_of_a_Tree/Go.go), [C++](Algorithms/Medium/4015_Weighted_Sum_of_a_Tree/C++.cpp) |
 | 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/) | [Python3](Algorithms/Medium/4016_Maximum_Area_of_Two_Non-Overlapping_Square_Submatrices/Python3.py), [Go](Algorithms/Medium/4016_Maximum_Area_of_Two_Non-Overlapping_Square_Submatrices/Go.go), [C++](Algorithms/Medium/4016_Maximum_Area_of_Two_Non-Overlapping_Square_Submatrices/C++.cpp) |
+| 4021 | [Minimum Operations to Make a Rotated Palindrome I](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i/) | [Python3](Algorithms/Medium/4021_Minimum_Operations_to_Make_a_Rotated_Palindrome_I/Python3.py), [Go](Algorithms/Medium/4021_Minimum_Operations_to_Make_a_Rotated_Palindrome_I/Go.go), [C++](Algorithms/Medium/4021_Minimum_Operations_to_Make_a_Rotated_Palindrome_I/C++.cpp) |
+| 4022 | [K-th Digit in Infinite String](https://leetcode.com/problems/k-th-digit-in-infinite-string/) | [Python3](Algorithms/Medium/4022_K-th_Digit_in_Infinite_String/Python3.py), [Go](Algorithms/Medium/4022_K-th_Digit_in_Infinite_String/Go.go), [C++](Algorithms/Medium/4022_K-th_Digit_in_Infinite_String/C++.cpp) |
 
 ### Hard
 
@@ -1400,6 +1403,7 @@
 | 4009 | [Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | [Python3](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/Python3.py), [Go](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/Go.go), [C++](Algorithms/Hard/4009_Minimum_Possible_Maximum_Waiting_Time/C++.cpp) |
 | 4013 | [Count Subarrays With Even Odd Ratio II](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/) | [Python3](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/Python3.py), [Go](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/Go.go), [C++](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/C++.cpp) |
 | 4017 | [Peaks in Array II](https://leetcode.com/problems/peaks-in-array-ii/) | [Python3](Algorithms/Hard/4017_Peaks_in_Array_II/Python3.py), [Go](Algorithms/Hard/4017_Peaks_in_Array_II/Go.go), [C++](Algorithms/Hard/4017_Peaks_in_Array_II/C++.cpp) |
+| 4023 | [Elevator Requests II](https://leetcode.com/problems/elevator-requests-ii/) | [Python3](Algorithms/Hard/4023_Elevator_Requests_II/Python3.py), [Go](Algorithms/Hard/4023_Elevator_Requests_II/Go.go), [C++](Algorithms/Hard/4023_Elevator_Requests_II/C++.cpp) |
 
 
 ## Database
