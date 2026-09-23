@@ -529,6 +529,7 @@
 | 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | [Python3](Algorithms/Easy/4006_Count_Valid_Prefixes/Python3.py), [Go](Algorithms/Easy/4006_Count_Valid_Prefixes/Go.go), [C++](Algorithms/Easy/4006_Count_Valid_Prefixes/C++.cpp) |
 | 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | [Python3](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/Python3.py), [Go](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/Go.go), [C++](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/C++.cpp) |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | [Python3](Algorithms/Easy/4020_Elevator_Requests_I/Python3.py), [Go](Algorithms/Easy/4020_Elevator_Requests_I/Go.go), [C++](Algorithms/Easy/4020_Elevator_Requests_I/C++.cpp) |
+| 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | [Python3](Algorithms/Easy/4024_Nearest_Available_Drone/Python3.py), [Go](Algorithms/Easy/4024_Nearest_Available_Drone/Go.go), [C++](Algorithms/Easy/4024_Nearest_Available_Drone/C++.cpp) |
 
 ### Medium
 
@@ -1189,6 +1190,8 @@
 | 4016 | [Maximum Area of Two Non-Overlapping Square Submatrices](https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/) | [Python3](Algorithms/Medium/4016_Maximum_Area_of_Two_Non-Overlapping_Square_Submatrices/Python3.py), [Go](Algorithms/Medium/4016_Maximum_Area_of_Two_Non-Overlapping_Square_Submatrices/Go.go), [C++](Algorithms/Medium/4016_Maximum_Area_of_Two_Non-Overlapping_Square_Submatrices/C++.cpp) |
 | 4021 | [Minimum Operations to Make a Rotated Palindrome I](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i/) | [Python3](Algorithms/Medium/4021_Minimum_Operations_to_Make_a_Rotated_Palindrome_I/Python3.py), [Go](Algorithms/Medium/4021_Minimum_Operations_to_Make_a_Rotated_Palindrome_I/Go.go), [C++](Algorithms/Medium/4021_Minimum_Operations_to_Make_a_Rotated_Palindrome_I/C++.cpp) |
 | 4022 | [K-th Digit in Infinite String](https://leetcode.com/problems/k-th-digit-in-infinite-string/) | [Python3](Algorithms/Medium/4022_K-th_Digit_in_Infinite_String/Python3.py), [Go](Algorithms/Medium/4022_K-th_Digit_in_Infinite_String/Go.go), [C++](Algorithms/Medium/4022_K-th_Digit_in_Infinite_String/C++.cpp) |
+| 4025 | [Minimize the Maximum Waiting Time at Synchronized Traffic Lights](https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | [Python3](Algorithms/Medium/4025_Minimize_the_Maximum_Waiting_Time_at_Synchronized_Traffic_Lights/Python3.py), [Go](Algorithms/Medium/4025_Minimize_the_Maximum_Waiting_Time_at_Synchronized_Traffic_Lights/Go.go), [C++](Algorithms/Medium/4025_Minimize_the_Maximum_Waiting_Time_at_Synchronized_Traffic_Lights/C++.cpp) |
+| 4026 | [Maximum Gap Between Stations](https://leetcode.com/problems/maximum-gap-between-stations/) | [Python3](Algorithms/Medium/4026_Maximum_Gap_Between_Stations/Python3.py), [Go](Algorithms/Medium/4026_Maximum_Gap_Between_Stations/Go.go), [C++](Algorithms/Medium/4026_Maximum_Gap_Between_Stations/C++.cpp) |
 
 ### Hard
 
@@ -1405,6 +1408,7 @@
 | 4013 | [Count Subarrays With Even Odd Ratio II](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/) | [Python3](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/Python3.py), [Go](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/Go.go), [C++](Algorithms/Hard/4013_Count_Subarrays_With_Even_Odd_Ratio_II/C++.cpp) |
 | 4017 | [Peaks in Array II](https://leetcode.com/problems/peaks-in-array-ii/) | [Python3](Algorithms/Hard/4017_Peaks_in_Array_II/Python3.py), [Go](Algorithms/Hard/4017_Peaks_in_Array_II/Go.go), [C++](Algorithms/Hard/4017_Peaks_in_Array_II/C++.cpp) |
 | 4023 | [Elevator Requests II](https://leetcode.com/problems/elevator-requests-ii/) | [Python3](Algorithms/Hard/4023_Elevator_Requests_II/Python3.py), [Go](Algorithms/Hard/4023_Elevator_Requests_II/Go.go), [C++](Algorithms/Hard/4023_Elevator_Requests_II/C++.cpp) |
+| 4027 | [Elevator Requests III](https://leetcode.com/problems/elevator-requests-iii/) | [Python3](Algorithms/Hard/4027_Elevator_Requests_III/Python3.py), [Go](Algorithms/Hard/4027_Elevator_Requests_III/Go.go), [C++](Algorithms/Hard/4027_Elevator_Requests_III/C++.cpp) |
 
 
 ## Database
