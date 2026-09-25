@@ -530,6 +530,7 @@
 | 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | [Python3](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/Python3.py), [Go](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/Go.go), [C++](Algorithms/Easy/4010_Maximize_Pair_Strength_Using_GCD/C++.cpp) |
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | [Python3](Algorithms/Easy/4020_Elevator_Requests_I/Python3.py), [Go](Algorithms/Easy/4020_Elevator_Requests_I/Go.go), [C++](Algorithms/Easy/4020_Elevator_Requests_I/C++.cpp) |
 | 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | [Python3](Algorithms/Easy/4024_Nearest_Available_Drone/Python3.py), [Go](Algorithms/Easy/4024_Nearest_Available_Drone/Go.go), [C++](Algorithms/Easy/4024_Nearest_Available_Drone/C++.cpp) |
+| 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/) | [Python3](Algorithms/Easy/4030_Check_ASCII_Palindromic/Python3.py), [Go](Algorithms/Easy/4030_Check_ASCII_Palindromic/Go.go), [C++](Algorithms/Easy/4030_Check_ASCII_Palindromic/C++.cpp) |
 
 ### Medium
 
@@ -1192,6 +1193,8 @@
 | 4022 | [K-th Digit in Infinite String](https://leetcode.com/problems/k-th-digit-in-infinite-string/) | [Python3](Algorithms/Medium/4022_K-th_Digit_in_Infinite_String/Python3.py), [Go](Algorithms/Medium/4022_K-th_Digit_in_Infinite_String/Go.go), [C++](Algorithms/Medium/4022_K-th_Digit_in_Infinite_String/C++.cpp) |
 | 4025 | [Minimize the Maximum Waiting Time at Synchronized Traffic Lights](https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | [Python3](Algorithms/Medium/4025_Minimize_the_Maximum_Waiting_Time_at_Synchronized_Traffic_Lights/Python3.py), [Go](Algorithms/Medium/4025_Minimize_the_Maximum_Waiting_Time_at_Synchronized_Traffic_Lights/Go.go), [C++](Algorithms/Medium/4025_Minimize_the_Maximum_Waiting_Time_at_Synchronized_Traffic_Lights/C++.cpp) |
 | 4026 | [Maximum Gap Between Stations](https://leetcode.com/problems/maximum-gap-between-stations/) | [Python3](Algorithms/Medium/4026_Maximum_Gap_Between_Stations/Python3.py), [Go](Algorithms/Medium/4026_Maximum_Gap_Between_Stations/Go.go), [C++](Algorithms/Medium/4026_Maximum_Gap_Between_Stations/C++.cpp) |
+| 4031 | [Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/) | [Python3](Algorithms/Medium/4031_Find_All_Numbers_Disappeared_in_an_Array_II/Python3.py), [Go](Algorithms/Medium/4031_Find_All_Numbers_Disappeared_in_an_Array_II/Go.go), [C++](Algorithms/Medium/4031_Find_All_Numbers_Disappeared_in_an_Array_II/C++.cpp) |
+| 4032 | [Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) | [Python3](Algorithms/Medium/4032_Longest_Subarray_With_at_Most_K_Distinct_Prime_Factors/Python3.py), [Go](Algorithms/Medium/4032_Longest_Subarray_With_at_Most_K_Distinct_Prime_Factors/Go.go), [C++](Algorithms/Medium/4032_Longest_Subarray_With_at_Most_K_Distinct_Prime_Factors/C++.cpp) |
 
 ### Hard
 
@@ -1409,6 +1412,7 @@
 | 4017 | [Peaks in Array II](https://leetcode.com/problems/peaks-in-array-ii/) | [Python3](Algorithms/Hard/4017_Peaks_in_Array_II/Python3.py), [Go](Algorithms/Hard/4017_Peaks_in_Array_II/Go.go), [C++](Algorithms/Hard/4017_Peaks_in_Array_II/C++.cpp) |
 | 4023 | [Elevator Requests II](https://leetcode.com/problems/elevator-requests-ii/) | [Python3](Algorithms/Hard/4023_Elevator_Requests_II/Python3.py), [Go](Algorithms/Hard/4023_Elevator_Requests_II/Go.go), [C++](Algorithms/Hard/4023_Elevator_Requests_II/C++.cpp) |
 | 4027 | [Elevator Requests III](https://leetcode.com/problems/elevator-requests-iii/) | [Python3](Algorithms/Hard/4027_Elevator_Requests_III/Python3.py), [Go](Algorithms/Hard/4027_Elevator_Requests_III/Go.go), [C++](Algorithms/Hard/4027_Elevator_Requests_III/C++.cpp) |
+| 4033 | [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | [Python3](Algorithms/Hard/4033_Valid_K-Unique_Subarrays_I/Python3.py), [Go](Algorithms/Hard/4033_Valid_K-Unique_Subarrays_I/Go.go), [C++](Algorithms/Hard/4033_Valid_K-Unique_Subarrays_I/C++.cpp) |
 
 
 ## Database
