@@ -779,6 +779,7 @@
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [Python3](Algorithms/Medium/1780_Check_if_Number_is_a_Sum_of_Powers_of_Three/Python3.py), Go, C++ |
 | 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Python3](Algorithms/Medium/1792_Maximum_Average_Pass_Ratio/Python3.py), Go, C++ |
 | 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | [Python3](Algorithms/Medium/1797_Design_Authentication_Manager/Python3.py), Go, C++ |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Python3](Algorithms/Medium/1807_Evaluate_the_Bracket_Pairs_of_a_String/Python3.py), [Go](Algorithms/Medium/1807_Evaluate_the_Bracket_Pairs_of_a_String/Go.go), [C++](Algorithms/Medium/1807_Evaluate_the_Bracket_Pairs_of_a_String/C++.cpp) |
 | 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [Python3](Algorithms/Medium/1814_Count_Nice_Pairs_in_an_Array/Python3.py), Go, C++ |
 | 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [Python3](Algorithms/Medium/1817_Finding_the_Users_Active_Minutes/Python3.py), Go, C++ |
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Python3](Algorithms/Medium/1823_Find_the_Winner_of_the_Circular_Game/Python3.py), Go, C++ |
