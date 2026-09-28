@@ -1197,6 +1197,9 @@
 | 4026 | [Maximum Gap Between Stations](https://leetcode.com/problems/maximum-gap-between-stations/) | [Python3](Algorithms/Medium/4026_Maximum_Gap_Between_Stations/Python3.py), [Go](Algorithms/Medium/4026_Maximum_Gap_Between_Stations/Go.go), [C++](Algorithms/Medium/4026_Maximum_Gap_Between_Stations/C++.cpp) |
 | 4031 | [Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/) | [Python3](Algorithms/Medium/4031_Find_All_Numbers_Disappeared_in_an_Array_II/Python3.py), [Go](Algorithms/Medium/4031_Find_All_Numbers_Disappeared_in_an_Array_II/Go.go), [C++](Algorithms/Medium/4031_Find_All_Numbers_Disappeared_in_an_Array_II/C++.cpp) |
 | 4032 | [Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) | [Python3](Algorithms/Medium/4032_Longest_Subarray_With_at_Most_K_Distinct_Prime_Factors/Python3.py), [Go](Algorithms/Medium/4032_Longest_Subarray_With_at_Most_K_Distinct_Prime_Factors/Go.go), [C++](Algorithms/Medium/4032_Longest_Subarray_With_at_Most_K_Distinct_Prime_Factors/C++.cpp) |
+| 4034 | [Minimum Bishop Moves to Reach Target](https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/) | [Python3](Algorithms/Medium/4034_Minimum_Bishop_Moves_to_Reach_Target/Python3.py), [Go](Algorithms/Medium/4034_Minimum_Bishop_Moves_to_Reach_Target/Go.go), [C++](Algorithms/Medium/4034_Minimum_Bishop_Moves_to_Reach_Target/C++.cpp) |
+| 4035 | [Maximum Valid Split Positions I](https://leetcode.com/problems/maximum-valid-split-positions-i/) | [Python3](Algorithms/Medium/4035_Maximum_Valid_Split_Positions_I/Python3.py), [Go](Algorithms/Medium/4035_Maximum_Valid_Split_Positions_I/Go.go), [C++](Algorithms/Medium/4035_Maximum_Valid_Split_Positions_I/C++.cpp) |
+| 4036 | [Lexicographically Largest String After Pair Transformations](https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/) | [Python3](Algorithms/Medium/4036_Lexicographically_Largest_String_After_Pair_Transformations/Python3.py), [Go](Algorithms/Medium/4036_Lexicographically_Largest_String_After_Pair_Transformations/Go.go), [C++](Algorithms/Medium/4036_Lexicographically_Largest_String_After_Pair_Transformations/C++.cpp) |
 
 ### Hard
 
@@ -1416,6 +1419,7 @@
 | 4023 | [Elevator Requests II](https://leetcode.com/problems/elevator-requests-ii/) | [Python3](Algorithms/Hard/4023_Elevator_Requests_II/Python3.py), [Go](Algorithms/Hard/4023_Elevator_Requests_II/Go.go), [C++](Algorithms/Hard/4023_Elevator_Requests_II/C++.cpp) |
 | 4027 | [Elevator Requests III](https://leetcode.com/problems/elevator-requests-iii/) | [Python3](Algorithms/Hard/4027_Elevator_Requests_III/Python3.py), [Go](Algorithms/Hard/4027_Elevator_Requests_III/Go.go), [C++](Algorithms/Hard/4027_Elevator_Requests_III/C++.cpp) |
 | 4033 | [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | [Python3](Algorithms/Hard/4033_Valid_K-Unique_Subarrays_I/Python3.py), [Go](Algorithms/Hard/4033_Valid_K-Unique_Subarrays_I/Go.go), [C++](Algorithms/Hard/4033_Valid_K-Unique_Subarrays_I/C++.cpp) |
+| 4037 | [Maximum Valid Split Positions II](https://leetcode.com/problems/maximum-valid-split-positions-ii/) | [Python3](Algorithms/Hard/4037_Maximum_Valid_Split_Positions_II/Python3.py), [Go](Algorithms/Hard/4037_Maximum_Valid_Split_Positions_II/Go.go), [C++](Algorithms/Hard/4037_Maximum_Valid_Split_Positions_II/C++.cpp) |
 
 
 ## Database
