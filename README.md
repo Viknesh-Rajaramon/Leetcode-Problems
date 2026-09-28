@@ -531,6 +531,7 @@
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | [Python3](Algorithms/Easy/4020_Elevator_Requests_I/Python3.py), [Go](Algorithms/Easy/4020_Elevator_Requests_I/Go.go), [C++](Algorithms/Easy/4020_Elevator_Requests_I/C++.cpp) |
 | 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | [Python3](Algorithms/Easy/4024_Nearest_Available_Drone/Python3.py), [Go](Algorithms/Easy/4024_Nearest_Available_Drone/Go.go), [C++](Algorithms/Easy/4024_Nearest_Available_Drone/C++.cpp) |
 | 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/) | [Python3](Algorithms/Easy/4030_Check_ASCII_Palindromic/Python3.py), [Go](Algorithms/Easy/4030_Check_ASCII_Palindromic/Go.go), [C++](Algorithms/Easy/4030_Check_ASCII_Palindromic/C++.cpp) |
+| 4038 | [Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | [Python3](Algorithms/Easy/4038_Count_Integers_Appearing_in_a_Single_Block/Python3.py), [Go](Algorithms/Easy/4038_Count_Integers_Appearing_in_a_Single_Block/Go.go), [C++](Algorithms/Easy/4038_Count_Integers_Appearing_in_a_Single_Block/C++.cpp) |
 
 ### Medium
 
@@ -1200,6 +1201,8 @@
 | 4034 | [Minimum Bishop Moves to Reach Target](https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/) | [Python3](Algorithms/Medium/4034_Minimum_Bishop_Moves_to_Reach_Target/Python3.py), [Go](Algorithms/Medium/4034_Minimum_Bishop_Moves_to_Reach_Target/Go.go), [C++](Algorithms/Medium/4034_Minimum_Bishop_Moves_to_Reach_Target/C++.cpp) |
 | 4035 | [Maximum Valid Split Positions I](https://leetcode.com/problems/maximum-valid-split-positions-i/) | [Python3](Algorithms/Medium/4035_Maximum_Valid_Split_Positions_I/Python3.py), [Go](Algorithms/Medium/4035_Maximum_Valid_Split_Positions_I/Go.go), [C++](Algorithms/Medium/4035_Maximum_Valid_Split_Positions_I/C++.cpp) |
 | 4036 | [Lexicographically Largest String After Pair Transformations](https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/) | [Python3](Algorithms/Medium/4036_Lexicographically_Largest_String_After_Pair_Transformations/Python3.py), [Go](Algorithms/Medium/4036_Lexicographically_Largest_String_After_Pair_Transformations/Go.go), [C++](Algorithms/Medium/4036_Lexicographically_Largest_String_After_Pair_Transformations/C++.cpp) |
+| 4039 | [Sum of Decoded Numbers](https://leetcode.com/problems/sum-of-decoded-numbers/) | [Python3](Algorithms/Medium/4039_Sum_of_Decoded_Numbers/Python3.py), [Go](Algorithms/Medium/4039_Sum_of_Decoded_Numbers/Go.go), [C++](Algorithms/Medium/4039_Sum_of_Decoded_Numbers/C++.cpp) |
+| 4040 | [Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/) | [Python3](Algorithms/Medium/4040_Minimum_Operations_to_Form_Subset_Sum_I/Python3.py), [Go](Algorithms/Medium/4040_Minimum_Operations_to_Form_Subset_Sum_I/Go.go), [C++](Algorithms/Medium/4040_Minimum_Operations_to_Form_Subset_Sum_I/C++.cpp) |
 
 ### Hard
 
@@ -1420,6 +1423,7 @@
 | 4027 | [Elevator Requests III](https://leetcode.com/problems/elevator-requests-iii/) | [Python3](Algorithms/Hard/4027_Elevator_Requests_III/Python3.py), [Go](Algorithms/Hard/4027_Elevator_Requests_III/Go.go), [C++](Algorithms/Hard/4027_Elevator_Requests_III/C++.cpp) |
 | 4033 | [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | [Python3](Algorithms/Hard/4033_Valid_K-Unique_Subarrays_I/Python3.py), [Go](Algorithms/Hard/4033_Valid_K-Unique_Subarrays_I/Go.go), [C++](Algorithms/Hard/4033_Valid_K-Unique_Subarrays_I/C++.cpp) |
 | 4037 | [Maximum Valid Split Positions II](https://leetcode.com/problems/maximum-valid-split-positions-ii/) | [Python3](Algorithms/Hard/4037_Maximum_Valid_Split_Positions_II/Python3.py), [Go](Algorithms/Hard/4037_Maximum_Valid_Split_Positions_II/Go.go), [C++](Algorithms/Hard/4037_Maximum_Valid_Split_Positions_II/C++.cpp) |
+| 4041 | [Minimum Operations to Form Subset Sum II](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-ii/) | [Python3](Algorithms/Hard/4041_Minimum_Operations_to_Form_Subset_Sum_II/Python3.py), [Go](Algorithms/Hard/4041_Minimum_Operations_to_Form_Subset_Sum_II/Go.go), [C++](Algorithms/Hard/4041_Minimum_Operations_to_Form_Subset_Sum_II/C++.cpp) |
 
 
 ## Database
