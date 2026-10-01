@@ -10,7 +10,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python3](Algorithms/Easy/9_Palindrome_Number/Python3.py), Go, C++ |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python3](Algorithms/Easy/13_Roman_to_Integer/Python3.py), Go, C++ |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python3](Algorithms/Easy/14_Longest_Common_Prefix/Python3.py), Go, C++ |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](Algorithms/Easy/20_Valid_Parentheses/Python3.py), Go, C++ |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](Algorithms/Easy/20_Valid_Parentheses/Python3.py), [Go](Algorithms/Easy/20_Valid_Parentheses/Go.go), [C++](Algorithms/Easy/20_Valid_Parentheses/C++.cpp) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python3](Algorithms/Easy/21_Merge_Two_Sorted_Lists/Python3.py), Go, C++ |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python3](Algorithms/Easy/26_Remove_Duplicates_from_Sorted_Array/Python3.py), Go, C++ |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python3](Algorithms/Easy/27_Remove_Element/Python3.py), Go, C++ |
