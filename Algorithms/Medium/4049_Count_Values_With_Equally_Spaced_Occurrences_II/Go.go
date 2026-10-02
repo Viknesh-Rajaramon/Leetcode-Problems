@@ -1,0 +1,29 @@
+package main
+
+func countSpecialIntegers(nums []int) int {
+	pos := make(map[int][]int)
+	for i, num := range nums {
+		pos[num] = append(pos[num], i)
+	}
+
+	result := 0
+	for _, indices := range pos {
+		if len(indices) < 3 {
+			continue
+		}
+
+		special, diff := true, indices[1]-indices[0]
+		for i := 1; i < len(indices)-1; i++ {
+			if indices[i+1]-indices[i] != diff {
+				special = false
+				break
+			}
+		}
+
+		if special {
+			result++
+		}
+	}
+
+	return result
+}
