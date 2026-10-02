@@ -550,7 +550,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python3](Algorithms/Medium/17_Letter_Combinations_of_a_Phone_Number/Python3.py), Go, C++ |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python3](Algorithms/Medium/18_4Sum/Python3.py), Go, C++ |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](Algorithms/Medium/19_Remove_Nth_Node_From_End_of_List/Python3.py), Go, C++ |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3](Algorithms/Medium/22_Generate_Parentheses/Python3.py), Go, C++ |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python3](Algorithms/Medium/22_Generate_Parentheses/Python3.py), [Go](Algorithms/Medium/22_Generate_Parentheses/Go.go), [C++](Algorithms/Medium/22_Generate_Parentheses/C++.cpp) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python3](Algorithms/Medium/24_Swap_Nodes_in_Pairs/Python3.py), Go, C++ |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python3](Algorithms/Medium/29_Divide_Two_Integers/Python3.py), Go, C++ |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python3](Algorithms/Medium/31_Next_Permutation/Python3.py), Go, C++ |

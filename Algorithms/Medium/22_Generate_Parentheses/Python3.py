@@ -3,8 +3,7 @@ from typing import List
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         result = []
-        
-        def dfs(left, right, s):
+        def dfs(left: int, right: int, s: str):
             if len(s) == 2*n:
                 result.append(s)
                 return
