@@ -1217,6 +1217,7 @@
 | :---: | :--- | :--- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python3](Algorithms/Hard/4_Median_of_Two_Sorted_Arrays/Python3.py), Go, C++ |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python3](Algorithms/Hard/23_Merge_k_Sorted_Lists/Python3.py), Go, C++ |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python3](Algorithms/Hard/32_Longest_Valid_Parentheses/Python3.py), [Go](Algorithms/Hard/32_Longest_Valid_Parentheses/Go.go), [C++](Algorithms/Hard/32_Longest_Valid_Parentheses/C++.cpp) |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python3](Algorithms/Hard/37_Sudoku_Solver/Python3.py), Go, C++ |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python3](Algorithms/Hard/41_First_Missing_Positive/Python3.py), Go, C++ |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Python3](Algorithms/Hard/60_Permutation_Sequence/Python3.py), Go, C++ |
