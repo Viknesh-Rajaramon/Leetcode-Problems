@@ -645,6 +645,7 @@
 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Python3](Algorithms/Medium/641_Design_Circular_Deque/Python3.py), Go, C++ |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python3](Algorithms/Medium/654_Maximum_Binary_Tree/Python3.py), Go, C++ |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Python3](Algorithms/Medium/669_Trim_a_Binary_Search_Tree/Python3.py), Go, C++ |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python3](Algorithms/Medium/678_Valid_Parenthesis_String/Python3.py), [Go](Algorithms/Medium/678_Valid_Parenthesis_String/Go.go), [C++](Algorithms/Medium/678_Valid_Parenthesis_String/C++.cpp) |
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Python3](Algorithms/Medium/712_Minimum_ASCII_Delete_Sum_for_Two_Strings/Python3.py), Go, C++ |
 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Python3](Algorithms/Medium/721_Accounts_Merge/Python3.py), Go, C++ |
 | 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [Python3](Algorithms/Medium/729_My_Calendar_I/Python3.py), Go, C++ |
