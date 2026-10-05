@@ -534,6 +534,7 @@
 | 4038 | [Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | [Python3](Algorithms/Easy/4038_Count_Integers_Appearing_in_a_Single_Block/Python3.py), [Go](Algorithms/Easy/4038_Count_Integers_Appearing_in_a_Single_Block/Go.go), [C++](Algorithms/Easy/4038_Count_Integers_Appearing_in_a_Single_Block/C++.cpp) |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | [Python3](Algorithms/Easy/4043_Count_Rotations_With_Exactly_K_Equal_Adjacent_Pairs/Python3.py), [Go](Algorithms/Easy/4043_Count_Rotations_With_Exactly_K_Equal_Adjacent_Pairs/Go.go), [C++](Algorithms/Easy/4043_Count_Rotations_With_Exactly_K_Equal_Adjacent_Pairs/C++.cpp) |
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Python3](Algorithms/Easy/4048_Count_Values_With_Equally_Spaced_Occurrences_I/Python3.py), [Go](Algorithms/Easy/4048_Count_Values_With_Equally_Spaced_Occurrences_I/Go.go), [C++](Algorithms/Easy/4048_Count_Values_With_Equally_Spaced_Occurrences_I/C++.cpp) |
+| 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Python3](Algorithms/Easy/4052_Cyclically_Shift_Rows_and_Columns/Python3.py), [Go](Algorithms/Easy/4052_Cyclically_Shift_Rows_and_Columns/Go.go), [C++](Algorithms/Easy/4052_Cyclically_Shift_Rows_and_Columns/C++.cpp) |
 
 ### Medium
 
@@ -1211,6 +1212,8 @@
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [Python3](Algorithms/Medium/4045_Count_Robot_Groups/Python3.py), [Go](Algorithms/Medium/4045_Count_Robot_Groups/Go.go), [C++](Algorithms/Medium/4045_Count_Robot_Groups/C++.cpp) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [Python3](Algorithms/Medium/4049_Count_Values_With_Equally_Spaced_Occurrences_II/Python3.py), [Go](Algorithms/Medium/4049_Count_Values_With_Equally_Spaced_Occurrences_II/Go.go), [C++](Algorithms/Medium/4049_Count_Values_With_Equally_Spaced_Occurrences_II/C++.cpp) |
 | 4050 | [Minimum Days to Score Exactly N Points](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Python3](Algorithms/Medium/4050_Minimum_Days_to_Score_Exactly_N_Points/Python3.py), [Go](Algorithms/Medium/4050_Minimum_Days_to_Score_Exactly_N_Points/Go.go), [C++](Algorithms/Medium/4050_Minimum_Days_to_Score_Exactly_N_Points/C++.cpp) |
+| 4053 | [Minimum Operations to Make Every Element Palindromic](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Python3](Algorithms/Medium/4053_Minimum_Operations_to_Make_Every_Element_Palindromic/Python3.py), [Go](Algorithms/Medium/4053_Minimum_Operations_to_Make_Every_Element_Palindromic/Go.go), [C++](Algorithms/Medium/4053_Minimum_Operations_to_Make_Every_Element_Palindromic/C++.cpp) |
+| 4054 | [Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) | [Python3](Algorithms/Medium/4054_Count_Shadow_Pairs_I/Python3.py), [Go](Algorithms/Medium/4054_Count_Shadow_Pairs_I/Go.go), [C++](Algorithms/Medium/4054_Count_Shadow_Pairs_I/C++.cpp) |
 
 ### Hard
 
@@ -1436,6 +1439,7 @@
 | 4041 | [Minimum Operations to Form Subset Sum II](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-ii/) | [Python3](Algorithms/Hard/4041_Minimum_Operations_to_Form_Subset_Sum_II/Python3.py), [Go](Algorithms/Hard/4041_Minimum_Operations_to_Form_Subset_Sum_II/Go.go), [C++](Algorithms/Hard/4041_Minimum_Operations_to_Form_Subset_Sum_II/C++.cpp) |
 | 4046 | [Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | [Python3](Algorithms/Hard/4046_Minimum_Cost_Path_With_At_Most_K_Turns/Python3.py), [Go](Algorithms/Hard/4046_Minimum_Cost_Path_With_At_Most_K_Turns/Go.go), [C++](Algorithms/Hard/4046_Minimum_Cost_Path_With_At_Most_K_Turns/C++.cpp) |
 | 4051 | [Count Subarrays with Distant Sums](https://leetcode.com/problems/count-subarrays-with-distant-sums/) | [Python3](Algorithms/Hard/4051_Count_Subarrays_with_Distant_Sums/Python3.py), [Go](Algorithms/Hard/4051_Count_Subarrays_with_Distant_Sums/Go.go), [C++](Algorithms/Hard/4051_Count_Subarrays_with_Distant_Sums/C++.cpp) |
+| 4055 | [Count Shadow Pairs II](https://leetcode.com/problems/count-shadow-pairs-ii/) | [Python3](Algorithms/Hard/4055_Count_Shadow_Pairs_II/Python3.py), [Go](Algorithms/Hard/4055_Count_Shadow_Pairs_II/Go.go), [C++](Algorithms/Hard/4055_Count_Shadow_Pairs_II/C++.cpp) |
 
 
 ## Database
