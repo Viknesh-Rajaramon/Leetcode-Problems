@@ -536,6 +536,7 @@
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Python3](Algorithms/Easy/4048_Count_Values_With_Equally_Spaced_Occurrences_I/Python3.py), [Go](Algorithms/Easy/4048_Count_Values_With_Equally_Spaced_Occurrences_I/Go.go), [C++](Algorithms/Easy/4048_Count_Values_With_Equally_Spaced_Occurrences_I/C++.cpp) |
 | 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Python3](Algorithms/Easy/4052_Cyclically_Shift_Rows_and_Columns/Python3.py), [Go](Algorithms/Easy/4052_Cyclically_Shift_Rows_and_Columns/Go.go), [C++](Algorithms/Easy/4052_Cyclically_Shift_Rows_and_Columns/C++.cpp) |
 | 4056 | [Number of Intersecting Interval Pairs I](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | [Python3](Algorithms/Easy/4056_Number_of_Intersecting_Interval_Pairs_I/Python3.py), [Go](Algorithms/Easy/4056_Number_of_Intersecting_Interval_Pairs_I/Go.go), [C++](Algorithms/Easy/4056_Number_of_Intersecting_Interval_Pairs_I/C++.cpp) |
+| 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | [Python3](Algorithms/Easy/4061_Minimum_Queen_Moves_to_Reach_Target/Python3.py), [Go](Algorithms/Easy/4061_Minimum_Queen_Moves_to_Reach_Target/Go.go), [C++](Algorithms/Easy/4061_Minimum_Queen_Moves_to_Reach_Target/C++.cpp) |
 
 ### Medium
 
@@ -1218,6 +1219,8 @@
 | 4054 | [Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) | [Python3](Algorithms/Medium/4054_Count_Shadow_Pairs_I/Python3.py), [Go](Algorithms/Medium/4054_Count_Shadow_Pairs_I/Go.go), [C++](Algorithms/Medium/4054_Count_Shadow_Pairs_I/C++.cpp) |
 | 4057 | [Number of Intersecting Interval Pairs II](https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/) | [Python3](Algorithms/Medium/4057_Number_of_Intersecting_Interval_Pairs_II/Python3.py), [Go](Algorithms/Medium/4057_Number_of_Intersecting_Interval_Pairs_II/Go.go), [C++](Algorithms/Medium/4057_Number_of_Intersecting_Interval_Pairs_II/C++.cpp) |
 | 4058 | [Maximum Pulse Value After One Subarray Rotation](https://leetcode.com/problems/maximum-pulse-value-after-one-subarray-rotation/) | [Python3](Algorithms/Medium/4058_Maximum_Pulse_Value_After_One_Subarray_Rotation/Python3.py), [Go](Algorithms/Medium/4058_Maximum_Pulse_Value_After_One_Subarray_Rotation/Go.go), [C++](Algorithms/Medium/4058_Maximum_Pulse_Value_After_One_Subarray_Rotation/C++.cpp) |
+| 4062 | [Transform Array Using Pair Operations](https://leetcode.com/problems/transform-array-using-pair-operations/) | [Python3](Algorithms/Medium/4062_Transform_Array_Using_Pair_Operations/Python3.py), [Go](Algorithms/Medium/4062_Transform_Array_Using_Pair_Operations/Go.go), [C++](Algorithms/Medium/4062_Transform_Array_Using_Pair_Operations/C++.cpp) |
+| 4063 | [Longest Subarray Divisible by K with At Most One Negation I](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-i/) | [Python3](Algorithms/Medium/4063_Longest_Subarray_Divisible_by_K_with_At_Most_One_Negation_I/Python3.py), [Go](Algorithms/Medium/4063_Longest_Subarray_Divisible_by_K_with_At_Most_One_Negation_I/Go.go), [C++](Algorithms/Medium/4063_Longest_Subarray_Divisible_by_K_with_At_Most_One_Negation_I/C++.cpp) |
 
 ### Hard
 
@@ -1445,6 +1448,7 @@
 | 4051 | [Count Subarrays with Distant Sums](https://leetcode.com/problems/count-subarrays-with-distant-sums/) | [Python3](Algorithms/Hard/4051_Count_Subarrays_with_Distant_Sums/Python3.py), [Go](Algorithms/Hard/4051_Count_Subarrays_with_Distant_Sums/Go.go), [C++](Algorithms/Hard/4051_Count_Subarrays_with_Distant_Sums/C++.cpp) |
 | 4055 | [Count Shadow Pairs II](https://leetcode.com/problems/count-shadow-pairs-ii/) | [Python3](Algorithms/Hard/4055_Count_Shadow_Pairs_II/Python3.py), [Go](Algorithms/Hard/4055_Count_Shadow_Pairs_II/Go.go), [C++](Algorithms/Hard/4055_Count_Shadow_Pairs_II/C++.cpp) |
 | 4059 | [Lexicographically Largest Power Array](https://leetcode.com/problems/lexicographically-largest-power-array/) | [Python3](Algorithms/Hard/4059_Lexicographically_Largest_Power_Array/Python3.py), [Go](Algorithms/Hard/4059_Lexicographically_Largest_Power_Array/Go.go), [C++](Algorithms/Hard/4059_Lexicographically_Largest_Power_Array/C++.cpp) |
+| 4064 | [Longest Subarray Divisible by K with At Most One Negation II](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | [Python3](Algorithms/Hard/4064_Longest_Subarray_Divisible_by_K_with_At_Most_One_Negation_II/Python3.py), [Go](Algorithms/Hard/4064_Longest_Subarray_Divisible_by_K_with_At_Most_One_Negation_II/Go.go), [C++](Algorithms/Hard/4064_Longest_Subarray_Divisible_by_K_with_At_Most_One_Negation_II/C++.cpp) |
 
 
 ## Database
