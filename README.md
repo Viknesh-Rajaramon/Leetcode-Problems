@@ -669,6 +669,7 @@
 | 838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Python3](Algorithms/Medium/838_Push_Dominoes/Python3.py), Go, C++ |
 | 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | [Python3](Algorithms/Medium/840_Magic_Squares_In_Grid/Python3.py), Go, C++ |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Python3](Algorithms/Medium/849_Maximize_Distance_to_Closest_Person/Python3.py), Go, C++ |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python3](Algorithms/Medium/856_Score_of_Parentheses/Python3.py), [Go](Algorithms/Medium/856_Score_of_Parentheses/Go.go), [C++](Algorithms/Medium/856_Score_of_Parentheses/C++.cpp) |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Python3](Algorithms/Medium/865_Smallest_Subtree_with_all_the_Deepest_Nodes/Python3.py), Go, C++ |
 | 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Python3](Algorithms/Medium/869_Reordered_Power_of_2/Python3.py), Go, C++ |
 | 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Python3](Algorithms/Medium/873_Length_of_Longest_Fibonacci_Subsequence/Python3.py), Go, C++ |
