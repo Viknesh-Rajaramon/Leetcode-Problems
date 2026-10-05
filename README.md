@@ -535,6 +535,7 @@
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | [Python3](Algorithms/Easy/4043_Count_Rotations_With_Exactly_K_Equal_Adjacent_Pairs/Python3.py), [Go](Algorithms/Easy/4043_Count_Rotations_With_Exactly_K_Equal_Adjacent_Pairs/Go.go), [C++](Algorithms/Easy/4043_Count_Rotations_With_Exactly_K_Equal_Adjacent_Pairs/C++.cpp) |
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [Python3](Algorithms/Easy/4048_Count_Values_With_Equally_Spaced_Occurrences_I/Python3.py), [Go](Algorithms/Easy/4048_Count_Values_With_Equally_Spaced_Occurrences_I/Go.go), [C++](Algorithms/Easy/4048_Count_Values_With_Equally_Spaced_Occurrences_I/C++.cpp) |
 | 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [Python3](Algorithms/Easy/4052_Cyclically_Shift_Rows_and_Columns/Python3.py), [Go](Algorithms/Easy/4052_Cyclically_Shift_Rows_and_Columns/Go.go), [C++](Algorithms/Easy/4052_Cyclically_Shift_Rows_and_Columns/C++.cpp) |
+| 4056 | [Number of Intersecting Interval Pairs I](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | [Python3](Algorithms/Easy/4056_Number_of_Intersecting_Interval_Pairs_I/Python3.py), [Go](Algorithms/Easy/4056_Number_of_Intersecting_Interval_Pairs_I/Go.go), [C++](Algorithms/Easy/4056_Number_of_Intersecting_Interval_Pairs_I/C++.cpp) |
 
 ### Medium
 
@@ -1215,6 +1216,8 @@
 | 4050 | [Minimum Days to Score Exactly N Points](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) | [Python3](Algorithms/Medium/4050_Minimum_Days_to_Score_Exactly_N_Points/Python3.py), [Go](Algorithms/Medium/4050_Minimum_Days_to_Score_Exactly_N_Points/Go.go), [C++](Algorithms/Medium/4050_Minimum_Days_to_Score_Exactly_N_Points/C++.cpp) |
 | 4053 | [Minimum Operations to Make Every Element Palindromic](https://leetcode.com/problems/minimum-operations-to-make-every-element-palindromic/) | [Python3](Algorithms/Medium/4053_Minimum_Operations_to_Make_Every_Element_Palindromic/Python3.py), [Go](Algorithms/Medium/4053_Minimum_Operations_to_Make_Every_Element_Palindromic/Go.go), [C++](Algorithms/Medium/4053_Minimum_Operations_to_Make_Every_Element_Palindromic/C++.cpp) |
 | 4054 | [Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) | [Python3](Algorithms/Medium/4054_Count_Shadow_Pairs_I/Python3.py), [Go](Algorithms/Medium/4054_Count_Shadow_Pairs_I/Go.go), [C++](Algorithms/Medium/4054_Count_Shadow_Pairs_I/C++.cpp) |
+| 4057 | [Number of Intersecting Interval Pairs II](https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/) | [Python3](Algorithms/Medium/4057_Number_of_Intersecting_Interval_Pairs_II/Python3.py), [Go](Algorithms/Medium/4057_Number_of_Intersecting_Interval_Pairs_II/Go.go), [C++](Algorithms/Medium/4057_Number_of_Intersecting_Interval_Pairs_II/C++.cpp) |
+| 4058 | [Maximum Pulse Value After One Subarray Rotation](https://leetcode.com/problems/maximum-pulse-value-after-one-subarray-rotation/) | [Python3](Algorithms/Medium/4058_Maximum_Pulse_Value_After_One_Subarray_Rotation/Python3.py), [Go](Algorithms/Medium/4058_Maximum_Pulse_Value_After_One_Subarray_Rotation/Go.go), [C++](Algorithms/Medium/4058_Maximum_Pulse_Value_After_One_Subarray_Rotation/C++.cpp) |
 
 ### Hard
 
@@ -1441,6 +1444,7 @@
 | 4046 | [Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | [Python3](Algorithms/Hard/4046_Minimum_Cost_Path_With_At_Most_K_Turns/Python3.py), [Go](Algorithms/Hard/4046_Minimum_Cost_Path_With_At_Most_K_Turns/Go.go), [C++](Algorithms/Hard/4046_Minimum_Cost_Path_With_At_Most_K_Turns/C++.cpp) |
 | 4051 | [Count Subarrays with Distant Sums](https://leetcode.com/problems/count-subarrays-with-distant-sums/) | [Python3](Algorithms/Hard/4051_Count_Subarrays_with_Distant_Sums/Python3.py), [Go](Algorithms/Hard/4051_Count_Subarrays_with_Distant_Sums/Go.go), [C++](Algorithms/Hard/4051_Count_Subarrays_with_Distant_Sums/C++.cpp) |
 | 4055 | [Count Shadow Pairs II](https://leetcode.com/problems/count-shadow-pairs-ii/) | [Python3](Algorithms/Hard/4055_Count_Shadow_Pairs_II/Python3.py), [Go](Algorithms/Hard/4055_Count_Shadow_Pairs_II/Go.go), [C++](Algorithms/Hard/4055_Count_Shadow_Pairs_II/C++.cpp) |
+| 4059 | [Lexicographically Largest Power Array](https://leetcode.com/problems/lexicographically-largest-power-array/) | [Python3](Algorithms/Hard/4059_Lexicographically_Largest_Power_Array/Python3.py), [Go](Algorithms/Hard/4059_Lexicographically_Largest_Power_Array/Go.go), [C++](Algorithms/Hard/4059_Lexicographically_Largest_Power_Array/C++.cpp) |
 
 
 ## Database
