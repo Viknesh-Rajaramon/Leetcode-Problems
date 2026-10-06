@@ -682,6 +682,7 @@
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Python3](Algorithms/Medium/901_Online_Stock_Span/Python3.py), Go, C++ |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python3](Algorithms/Medium/904_Fruit_Into_Baskets/Python3.py), Go, C++ |
 | 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Python3](Algorithms/Medium/909_Snakes_and_Ladders/Python3.py), Go, C++ |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Python3](Algorithms/Medium/921_Minimum_Add_to_Make_Parentheses_Valid/Python3.py), [Go](Algorithms/Medium/921_Minimum_Add_to_Make_Parentheses_Valid/Go.go), [C++](Algorithms/Medium/921_Minimum_Add_to_Make_Parentheses_Valid/C++.cpp) |
 | 937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [Python3](Algorithms/Medium/937_Reorder_Data_in_Log_Files/Python3.py), Go, C++ |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python3](Algorithms/Medium/950_Reveal_Cards_In_Increasing_Order/Python3.py), Go, C++ |
 | 955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Python3](Algorithms/Medium/955_Delete_Columns_to_Make_Sorted_II/Python3.py), Go, C++ |
