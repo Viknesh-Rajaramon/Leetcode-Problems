@@ -1,8 +1,6 @@
 class Solution:
     def removeOuterParentheses(self, s: str) -> str:
-        result = []
-        left, count = 0, 0
-
+        result, left, count = [], 0, 0
         for i, c in enumerate(s):
             if c == "(":
                 count += 1

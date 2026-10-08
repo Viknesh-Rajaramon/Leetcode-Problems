@@ -178,7 +178,7 @@
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Python3](Algorithms/Easy/1002_Find_Common_Characters/Python3.py), Go, C++ |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python3](Algorithms/Easy/1009_Complement_of_Base_10_Integer/Python3.py), Go, C++ |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Python3](Algorithms/Easy/1018_Binary_Prefix_Divisible_By_5/Python3.py), Go, C++ |
-| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Python3](Algorithms/Easy/1021_Remove_Outermost_Parentheses/Python3.py), Go, C++ |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Python3](Algorithms/Easy/1021_Remove_Outermost_Parentheses/Python3.py), [Go](Algorithms/Easy/1021_Remove_Outermost_Parentheses/Go.go), [C++](Algorithms/Easy/1021_Remove_Outermost_Parentheses/C++.cpp) |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Python3](Algorithms/Easy/1022_Sum_of_Root_To_Leaf_Binary_Numbers/Python3.py), Go, C++ |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [Python3](Algorithms/Easy/1025_Divisor_Game/Python3.py), Go, C++ |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python3](Algorithms/Easy/1046_Last_Stone_Weight/Python3.py), Go, C++ |
