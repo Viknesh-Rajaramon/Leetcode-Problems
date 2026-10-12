@@ -540,6 +540,7 @@
 | 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | [Python3](Algorithms/Easy/4065_Rearrange_Array_by_Removing_Distinct_Values/Python3.py), [Go](Algorithms/Easy/4065_Rearrange_Array_by_Removing_Distinct_Values/Go.go), [C++](Algorithms/Easy/4065_Rearrange_Array_by_Removing_Distinct_Values/C++.cpp) |
 | 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | [Python3](Algorithms/Easy/4070_Minimum_Rotations_to_Dial_a_Number_I/Python3.py), [Go](Algorithms/Easy/4070_Minimum_Rotations_to_Dial_a_Number_I/Go.go), [C++](Algorithms/Easy/4070_Minimum_Rotations_to_Dial_a_Number_I/C++.cpp) |
 | 4074 | [Maximum Product Pair With Target Sum](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | [Python3](Algorithms/Easy/4074_Maximum_Product_Pair_With_Target_Sum/Python3.py), [Go](Algorithms/Easy/4074_Maximum_Product_Pair_With_Target_Sum/Go.go), [C++](Algorithms/Easy/4074_Maximum_Product_Pair_With_Target_Sum/C++.cpp) |
+| 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | [Python3](Algorithms/Easy/4078_Three_Fibonacci_Sum/Python3.py), [Go](Algorithms/Easy/4078_Three_Fibonacci_Sum/Go.go), [C++](Algorithms/Easy/4078_Three_Fibonacci_Sum/C++.cpp) |
 
 ### Medium
 
@@ -1233,6 +1234,8 @@
 | 4072 | [Maximum Alternating Subarray Sum With One Deletion](https://leetcode.com/problems/maximum-alternating-subarray-sum-with-one-deletion/) | [Python3](Algorithms/Medium/4072_Maximum_Alternating_Subarray_Sum_With_One_Deletion/Python3.py), [Go](Algorithms/Medium/4072_Maximum_Alternating_Subarray_Sum_With_One_Deletion/Go.go), [C++](Algorithms/Medium/4072_Maximum_Alternating_Subarray_Sum_With_One_Deletion/C++.cpp) |
 | 4075 | [Longest Resilient Subarray I](https://leetcode.com/problems/longest-resilient-subarray-i/) | [Python3](Algorithms/Medium/4075_Longest_Resilient_Subarray_I/Python3.py), [Go](Algorithms/Medium/4075_Longest_Resilient_Subarray_I/Go.go), [C++](Algorithms/Medium/4075_Longest_Resilient_Subarray_I/C++.cpp) |
 | 4076 | [Longest Resilient Subarray II](https://leetcode.com/problems/longest-resilient-subarray-ii/) | [Python3](Algorithms/Medium/4076_Longest_Resilient_Subarray_II/Python3.py), [Go](Algorithms/Medium/4076_Longest_Resilient_Subarray_II/Go.go), [C++](Algorithms/Medium/4076_Longest_Resilient_Subarray_II/C++.cpp) |
+| 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | [Python3](Algorithms/Medium/4079_Prime_Subset_Selection_I/Python3.py), [Go](Algorithms/Medium/4079_Prime_Subset_Selection_I/Go.go), [C++](Algorithms/Medium/4079_Prime_Subset_Selection_I/C++.cpp) |
+| 4080 | [Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/) | [Python3](Algorithms/Medium/4080_Design_Bus_Seat_Booking_System/Python3.py), [Go](Algorithms/Medium/4080_Design_Bus_Seat_Booking_System/Go.go), [C++](Algorithms/Medium/4080_Design_Bus_Seat_Booking_System/C++.cpp) |
 
 ### Hard
 
@@ -1466,6 +1469,7 @@
 | 4068 | [Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/) | [Python3](Algorithms/Hard/4068_Maximize_Meeting_Earnings_with_Idle_Gaps/Python3.py), [Go](Algorithms/Hard/4068_Maximize_Meeting_Earnings_with_Idle_Gaps/Go.go), [C++](Algorithms/Hard/4068_Maximize_Meeting_Earnings_with_Idle_Gaps/C++.cpp) |
 | 4073 | [Count Good Strings](https://leetcode.com/problems/count-good-strings/) | [Python3](Algorithms/Hard/4073_Count_Good_Strings/Python3.py), [Go](Algorithms/Hard/4073_Count_Good_Strings/Go.go), [C++](Algorithms/Hard/4073_Count_Good_Strings/C++.cpp) |
 | 4077 | [Minimize Inversions in a Prefix Tree](https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/) | [Python3](Algorithms/Hard/4077_Minimize_Inversions_in_a_Prefix_Tree/Python3.py), [Go](Algorithms/Hard/4077_Minimize_Inversions_in_a_Prefix_Tree/Go.go), [C++](Algorithms/Hard/4077_Minimize_Inversions_in_a_Prefix_Tree/C++.cpp) |
+| 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) | [Python3](Algorithms/Hard/4081_Prime_Subset_Selection_II/Python3.py), [Go](Algorithms/Hard/4081_Prime_Subset_Selection_II/Go.go), [C++](Algorithms/Hard/4081_Prime_Subset_Selection_II/C++.cpp) |
 
 
 ## Database
