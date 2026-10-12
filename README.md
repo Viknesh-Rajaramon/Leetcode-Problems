@@ -539,6 +539,7 @@
 | 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | [Python3](Algorithms/Easy/4061_Minimum_Queen_Moves_to_Reach_Target/Python3.py), [Go](Algorithms/Easy/4061_Minimum_Queen_Moves_to_Reach_Target/Go.go), [C++](Algorithms/Easy/4061_Minimum_Queen_Moves_to_Reach_Target/C++.cpp) |
 | 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | [Python3](Algorithms/Easy/4065_Rearrange_Array_by_Removing_Distinct_Values/Python3.py), [Go](Algorithms/Easy/4065_Rearrange_Array_by_Removing_Distinct_Values/Go.go), [C++](Algorithms/Easy/4065_Rearrange_Array_by_Removing_Distinct_Values/C++.cpp) |
 | 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | [Python3](Algorithms/Easy/4070_Minimum_Rotations_to_Dial_a_Number_I/Python3.py), [Go](Algorithms/Easy/4070_Minimum_Rotations_to_Dial_a_Number_I/Go.go), [C++](Algorithms/Easy/4070_Minimum_Rotations_to_Dial_a_Number_I/C++.cpp) |
+| 4074 | [Maximum Product Pair With Target Sum](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | [Python3](Algorithms/Easy/4074_Maximum_Product_Pair_With_Target_Sum/Python3.py), [Go](Algorithms/Easy/4074_Maximum_Product_Pair_With_Target_Sum/Go.go), [C++](Algorithms/Easy/4074_Maximum_Product_Pair_With_Target_Sum/C++.cpp) |
 
 ### Medium
 
@@ -1230,6 +1231,8 @@
 | 4067 | [Longest Subarray With Restricted Pair Sums](https://leetcode.com/problems/longest-subarray-with-restricted-pair-sums/) | [Python3](Algorithms/Medium/4067_Longest_Subarray_With_Restricted_Pair_Sums/Python3.py), [Go](Algorithms/Medium/4067_Longest_Subarray_With_Restricted_Pair_Sums/Go.go), [C++](Algorithms/Medium/4067_Longest_Subarray_With_Restricted_Pair_Sums/C++.cpp) |
 | 4071 | [Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) | [Python3](Algorithms/Medium/4071_Minimum_Rotations_to_Dial_a_Number_II/Python3.py), [Go](Algorithms/Medium/4071_Minimum_Rotations_to_Dial_a_Number_II/Go.go), [C++](Algorithms/Medium/4071_Minimum_Rotations_to_Dial_a_Number_II/C++.cpp) |
 | 4072 | [Maximum Alternating Subarray Sum With One Deletion](https://leetcode.com/problems/maximum-alternating-subarray-sum-with-one-deletion/) | [Python3](Algorithms/Medium/4072_Maximum_Alternating_Subarray_Sum_With_One_Deletion/Python3.py), [Go](Algorithms/Medium/4072_Maximum_Alternating_Subarray_Sum_With_One_Deletion/Go.go), [C++](Algorithms/Medium/4072_Maximum_Alternating_Subarray_Sum_With_One_Deletion/C++.cpp) |
+| 4075 | [Longest Resilient Subarray I](https://leetcode.com/problems/longest-resilient-subarray-i/) | [Python3](Algorithms/Medium/4075_Longest_Resilient_Subarray_I/Python3.py), [Go](Algorithms/Medium/4075_Longest_Resilient_Subarray_I/Go.go), [C++](Algorithms/Medium/4075_Longest_Resilient_Subarray_I/C++.cpp) |
+| 4076 | [Longest Resilient Subarray II](https://leetcode.com/problems/longest-resilient-subarray-ii/) | [Python3](Algorithms/Medium/4076_Longest_Resilient_Subarray_II/Python3.py), [Go](Algorithms/Medium/4076_Longest_Resilient_Subarray_II/Go.go), [C++](Algorithms/Medium/4076_Longest_Resilient_Subarray_II/C++.cpp) |
 
 ### Hard
 
@@ -1462,6 +1465,7 @@
 | 4064 | [Longest Subarray Divisible by K with At Most One Negation II](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | [Python3](Algorithms/Hard/4064_Longest_Subarray_Divisible_by_K_with_At_Most_One_Negation_II/Python3.py), [Go](Algorithms/Hard/4064_Longest_Subarray_Divisible_by_K_with_At_Most_One_Negation_II/Go.go), [C++](Algorithms/Hard/4064_Longest_Subarray_Divisible_by_K_with_At_Most_One_Negation_II/C++.cpp) |
 | 4068 | [Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/) | [Python3](Algorithms/Hard/4068_Maximize_Meeting_Earnings_with_Idle_Gaps/Python3.py), [Go](Algorithms/Hard/4068_Maximize_Meeting_Earnings_with_Idle_Gaps/Go.go), [C++](Algorithms/Hard/4068_Maximize_Meeting_Earnings_with_Idle_Gaps/C++.cpp) |
 | 4073 | [Count Good Strings](https://leetcode.com/problems/count-good-strings/) | [Python3](Algorithms/Hard/4073_Count_Good_Strings/Python3.py), [Go](Algorithms/Hard/4073_Count_Good_Strings/Go.go), [C++](Algorithms/Hard/4073_Count_Good_Strings/C++.cpp) |
+| 4077 | [Minimize Inversions in a Prefix Tree](https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/) | [Python3](Algorithms/Hard/4077_Minimize_Inversions_in_a_Prefix_Tree/Python3.py), [Go](Algorithms/Hard/4077_Minimize_Inversions_in_a_Prefix_Tree/Go.go), [C++](Algorithms/Hard/4077_Minimize_Inversions_in_a_Prefix_Tree/C++.cpp) |
 
 
 ## Database
