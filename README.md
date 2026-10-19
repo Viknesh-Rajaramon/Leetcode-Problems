@@ -541,6 +541,7 @@
 | 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | [Python3](Algorithms/Easy/4070_Minimum_Rotations_to_Dial_a_Number_I/Python3.py), [Go](Algorithms/Easy/4070_Minimum_Rotations_to_Dial_a_Number_I/Go.go), [C++](Algorithms/Easy/4070_Minimum_Rotations_to_Dial_a_Number_I/C++.cpp) |
 | 4074 | [Maximum Product Pair With Target Sum](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | [Python3](Algorithms/Easy/4074_Maximum_Product_Pair_With_Target_Sum/Python3.py), [Go](Algorithms/Easy/4074_Maximum_Product_Pair_With_Target_Sum/Go.go), [C++](Algorithms/Easy/4074_Maximum_Product_Pair_With_Target_Sum/C++.cpp) |
 | 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | [Python3](Algorithms/Easy/4078_Three_Fibonacci_Sum/Python3.py), [Go](Algorithms/Easy/4078_Three_Fibonacci_Sum/Go.go), [C++](Algorithms/Easy/4078_Three_Fibonacci_Sum/C++.cpp) |
+| 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) | [Python3](Algorithms/Easy/4083_Minimum_Deletions_to_Make_Array_Sharp/Python3.py), [Go](Algorithms/Easy/4083_Minimum_Deletions_to_Make_Array_Sharp/Go.go), [C++](Algorithms/Easy/4083_Minimum_Deletions_to_Make_Array_Sharp/C++.cpp) |
 
 ### Medium
 
@@ -1236,6 +1237,8 @@
 | 4076 | [Longest Resilient Subarray II](https://leetcode.com/problems/longest-resilient-subarray-ii/) | [Python3](Algorithms/Medium/4076_Longest_Resilient_Subarray_II/Python3.py), [Go](Algorithms/Medium/4076_Longest_Resilient_Subarray_II/Go.go), [C++](Algorithms/Medium/4076_Longest_Resilient_Subarray_II/C++.cpp) |
 | 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | [Python3](Algorithms/Medium/4079_Prime_Subset_Selection_I/Python3.py), [Go](Algorithms/Medium/4079_Prime_Subset_Selection_I/Go.go), [C++](Algorithms/Medium/4079_Prime_Subset_Selection_I/C++.cpp) |
 | 4080 | [Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/) | [Python3](Algorithms/Medium/4080_Design_Bus_Seat_Booking_System/Python3.py), [Go](Algorithms/Medium/4080_Design_Bus_Seat_Booking_System/Go.go), [C++](Algorithms/Medium/4080_Design_Bus_Seat_Booking_System/C++.cpp) |
+| 4084 | [Last Visited Cell in a Directional Grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/) | [Python3](Algorithms/Medium/4084_Last_Visited_Cell_in_a_Directional_Grid/Python3.py), [Go](Algorithms/Medium/4084_Last_Visited_Cell_in_a_Directional_Grid/Go.go), [C++](Algorithms/Medium/4084_Last_Visited_Cell_in_a_Directional_Grid/C++.cpp) |
+| 4085 | [Find Root of a Colored Tree](https://leetcode.com/problems/find-root-of-a-colored-tree/) | [Python3](Algorithms/Medium/4085_Find_Root_of_a_Colored_Tree/Python3.py), [Go](Algorithms/Medium/4085_Find_Root_of_a_Colored_Tree/Go.go), [C++](Algorithms/Medium/4085_Find_Root_of_a_Colored_Tree/C++.cpp) |
 
 ### Hard
 
@@ -1472,6 +1475,7 @@
 | 4073 | [Count Good Strings](https://leetcode.com/problems/count-good-strings/) | [Python3](Algorithms/Hard/4073_Count_Good_Strings/Python3.py), [Go](Algorithms/Hard/4073_Count_Good_Strings/Go.go), [C++](Algorithms/Hard/4073_Count_Good_Strings/C++.cpp) |
 | 4077 | [Minimize Inversions in a Prefix Tree](https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/) | [Python3](Algorithms/Hard/4077_Minimize_Inversions_in_a_Prefix_Tree/Python3.py), [Go](Algorithms/Hard/4077_Minimize_Inversions_in_a_Prefix_Tree/Go.go), [C++](Algorithms/Hard/4077_Minimize_Inversions_in_a_Prefix_Tree/C++.cpp) |
 | 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) | [Python3](Algorithms/Hard/4081_Prime_Subset_Selection_II/Python3.py), [Go](Algorithms/Hard/4081_Prime_Subset_Selection_II/Go.go), [C++](Algorithms/Hard/4081_Prime_Subset_Selection_II/C++.cpp) |
+| 4086 | [Minimum Interval Selection to Cover Target Intervals](https://leetcode.com/problems/minimum-interval-selection-to-cover-target-intervals/) | [Python3](Algorithms/Hard/4086_Minimum_Interval_Selection_to_Cover_Target_Intervals/Python3.py), [Go](Algorithms/Hard/4086_Minimum_Interval_Selection_to_Cover_Target_Intervals/Go.go), [C++](Algorithms/Hard/4086_Minimum_Interval_Selection_to_Cover_Target_Intervals/C++.cpp) |
 
 
 ## Database
