@@ -1,39 +1,42 @@
-from math import inf
-
 class Solution:
     def sortableIntegers(self, nums: list[int]) -> int:
-        n = len(nums)
-        def solve(k: int) -> bool:
-            chunks, min_max = n//k, []
-            for i in range(chunks):
-                start, min_, max_, count = i*k, inf, -inf, 0
-                for j in range(k):
-                    curr, nxt = nums[start+j], nums[start+(j+1)%k]
-                    min_, max_ = min(min_, curr), max(max_, curr)
-                    if curr > nxt:
-                        count += 1
-                    
-                if count > 1:
-                    return False
-
-                min_max.append((min_, max_))
+        result, n = 0, len(nums)
+        def check_rotate_sorted(nums: list[int]) -> bool:
+            n, downs, down_val, min_val = len(nums), 0, 0, nums[0]
+            for i in range(n):
+                min_val = min(min_val, nums[i])
+                if nums[(i+1) % n] < nums[i]:
+                    downs += 1
+                    down_val = nums[(i+1) % n]
             
-            for i in range(chunks-1):
-                if min_max[i][1] > min_max[i+1][0]:
-                    return False
+            if (downs == 0) or (downs == 1 and down_val == min_val):
+                return True
             
-            return True
+            return False
+        
+        def k_partition(nums: list[int], k: int) -> list[list[int]]:
+            res = []
+            for i in range(0, n, k):
+                res.append(nums[i : i+k])
+            
+            return res
 
-        result, i = 0, 1
-        while i*i <= n:
-            if n%i == 0:
-                if solve(i):
-                    result += i
+        for k in range(1, n+1):
+            if n%k != 0:
+                continue
+
+            partitions = k_partition(nums, k)
+            n_p, sortable = len(partitions), True
+            for i in range(n_p):
+                if not check_rotate_sorted(partitions[i]):
+                    sortable = False
+                    break
                 
-                temp = n//i
-                if i != temp and solve(temp):
-                    result += temp
-
-            i += 1
-
+                if i+1 < n_p and max(partitions[i]) > min(partitions[i+1]):
+                    sortable = False
+                    break
+            
+            if sortable:
+                result += k
+        
         return result
