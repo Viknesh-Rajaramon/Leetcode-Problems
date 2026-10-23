@@ -3,12 +3,14 @@ from typing import List
 class Solution:
     def sortPermutation(self, nums: List[int]) -> int:
         result, flag = 0, False
-        for i in range(len(nums)):
-            if nums[i] != i:
-                if not flag:
-                    result = nums[i]
-                    flag = True
-                else:
-                    result &= nums[i]
+        for i, num in enumerate(nums):
+            if num == i:
+                continue
+            
+            if not flag:
+                result = num
+                flag = True
+            else:
+                result &= num
         
         return result if flag else 0
