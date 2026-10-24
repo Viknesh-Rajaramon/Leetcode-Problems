@@ -330,6 +330,7 @@
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [Python3](Algorithms/Easy/2367_Number_of_Arithmetic_Triplets/Python3.py), Go, C++ |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [Python3](Algorithms/Easy/2373_Largest_Local_Values_in_a_Matrix/Python3.py), Go, C++ |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [Python3](Algorithms/Easy/2379_Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks/Python3.py), Go, C++ |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [Python3](Algorithms/Easy/2409_Count_Days_Spent_Together/Python3.py), [Go](Algorithms/Easy/2409_Count_Days_Spent_Together/Go.go), [C++](Algorithms/Easy/2409_Count_Days_Spent_Together/C++.cpp) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Python3](Algorithms/Easy/2413_Smallest_Even_Multiple/Python3.py), Go, C++ |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [Python3](Algorithms/Easy/2418_Sort_the_People/Python3.py), Go, C++ |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [Python3](Algorithms/Easy/2427_Number_of_Common_Factors/Python3.py), Go, C++ |
