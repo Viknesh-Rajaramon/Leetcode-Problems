@@ -1,16 +1,22 @@
 class Solution:
     def minCost(self, grid: list[list[int]]) -> int:
         m, n = len(grid), len(grid[0])
-        dp = [[set() for _ in range(n)] for _ in range(m)]
-        dp[0][0].add(grid[0][0])
-
+        dp = [set() for _ in range(n)]
+        dp[0].add(grid[0][0])
         for i in range(m):
             for j in range(n):
-                for xor in dp[i][j]:
-                    if i+1 < m:
-                        dp[i+1][j].add(xor ^ grid[i+1][j])
-                    
-                    if j+1 < n:
-                        dp[i][j+1].add(xor ^ grid[i][j+1])
+                if i == 0 and j == 0:
+                    continue
 
-        return min(dp[m-1][n-1])
+                curr = set()
+                if i > 0:
+                    for xor in dp[j]:
+                        curr.add(xor ^ grid[i][j])
+
+                if j > 0:
+                    for xor in dp[j-1]:
+                        curr.add(xor ^ grid[i][j])
+
+                dp[j] = curr
+
+        return min(dp[n-1])
