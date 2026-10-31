@@ -1058,7 +1058,7 @@
 | 3659 | [Partition Array Into K-Distinct Groups](https://leetcode.com/problems/partition-array-into-k-distinct-groups/) | [Python3](Algorithms/Medium/3659_Partition_Array_Into_K-Distinct_Groups/Python3.py), Go, C++ |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) | [Python3](Algorithms/Medium/3660_Jump_Game_IX/Python3.py), Go, C++ |
 | 3664 | [Two-Letter Card Game](https://leetcode.com/problems/two-letter-card-game/) | [Python3](Algorithms/Medium/3664_Two-Letter_Card_Game/Python3.py), Go, C++ |
-| 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | [Python3](Algorithms/Medium/3665_Twisted_Mirror_Path_Count/Python3.py), Go, C++ |
+| 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | [Python3](Algorithms/Medium/3665_Twisted_Mirror_Path_Count/Python3.py), [Go](Algorithms/Medium/3665_Twisted_Mirror_Path_Count/Go.go), [C++](Algorithms/Medium/3665_Twisted_Mirror_Path_Count/C++.cpp) |
 | 3669 | [Balanced K-Factor Decomposition](https://leetcode.com/problems/balanced-k-factor-decomposition/) | [Python3](Algorithms/Medium/3669_Balanced_K-Factor_Decomposition/Python3.py), Go, C++ |
 | 3670 | [Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/) | [Python3](Algorithms/Medium/3670_Maximum_Product_of_Two_Integers_With_No_Common_Bits/Python3.py), Go, C++ |
 | 3675 | [Minimum Operations to Transform String](https://leetcode.com/problems/minimum-operations-to-transform-string/) | [Python3](Algorithms/Medium/3675_Minimum_Operations_to_Transform_String/Python3.py), Go, C++ |
