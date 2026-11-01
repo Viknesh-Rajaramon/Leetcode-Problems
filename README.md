@@ -545,6 +545,7 @@
 | 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) | [Python3](Algorithms/Easy/4083_Minimum_Deletions_to_Make_Array_Sharp/Python3.py), [Go](Algorithms/Easy/4083_Minimum_Deletions_to_Make_Array_Sharp/Go.go), [C++](Algorithms/Easy/4083_Minimum_Deletions_to_Make_Array_Sharp/C++.cpp) |
 | 4088 | [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | [Python3](Algorithms/Easy/4088_Difference_Between_Peaks_and_Valleys/Python3.py), [Go](Algorithms/Easy/4088_Difference_Between_Peaks_and_Valleys/Go.go), [C++](Algorithms/Easy/4088_Difference_Between_Peaks_and_Valleys/C++.cpp) |
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [Python3](Algorithms/Easy/4092_Binary_Digit_Score/Python3.py), [Go](Algorithms/Easy/4092_Binary_Digit_Score/Go.go), [C++](Algorithms/Easy/4092_Binary_Digit_Score/C++.cpp) |
+| 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [Python3](Algorithms/Easy/4097_Minimum_Value_of_Merged_Integers/Python3.py), [Go](Algorithms/Easy/4097_Minimum_Value_of_Merged_Integers/Go.go), [C++](Algorithms/Easy/4097_Minimum_Value_of_Merged_Integers/C++.cpp) |
 
 ### Medium
 
@@ -1248,6 +1249,8 @@
 | 4090 | [Count Magical Substring Pairs I](https://leetcode.com/problems/count-magical-substring-pairs-i/) | [Python3](Algorithms/Medium/4090_Count_Magical_Substring_Pairs_I/Python3.py), [Go](Algorithms/Medium/4090_Count_Magical_Substring_Pairs_I/Go.go), [C++](Algorithms/Medium/4090_Count_Magical_Substring_Pairs_I/C++.cpp) |
 | 4093 | [Maximize Sum After At Most K Digit Rearrangements](https://leetcode.com/problems/maximize-sum-after-at-most-k-digit-rearrangements/) | [Python3](Algorithms/Medium/4093_Maximize_Sum_After_At_Most_K_Digit_Rearrangements/Python3.py), [Go](Algorithms/Medium/4093_Maximize_Sum_After_At_Most_K_Digit_Rearrangements/Go.go), [C++](Algorithms/Medium/4093_Maximize_Sum_After_At_Most_K_Digit_Rearrangements/C++.cpp) |
 | 4094 | [Count Frequency Staircase Subarrays I](https://leetcode.com/problems/count-frequency-staircase-subarrays-i/) | [Python3](Algorithms/Medium/4094_Count_Frequency_Staircase_Subarrays_I/Python3.py), [Go](Algorithms/Medium/4094_Count_Frequency_Staircase_Subarrays_I/Go.go), [C++](Algorithms/Medium/4094_Count_Frequency_Staircase_Subarrays_I/C++.cpp) |
+| 4098 | [Minimize the Maximum Value of GCD-Connected Array](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) | [Python3](Algorithms/Medium/4098_Minimize_the_Maximum_Value_of_GCD-Connected_Array/Python3.py), [Go](Algorithms/Medium/4098_Minimize_the_Maximum_Value_of_GCD-Connected_Array/Go.go), [C++](Algorithms/Medium/4098_Minimize_the_Maximum_Value_of_GCD-Connected_Array/C++.cpp) |
+| 4099 | [Minimum Operations to Sort With Locked Indices](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) | [Python3](Algorithms/Medium/4099_Minimum_Operations_to_Sort_With_Locked_Indices/Python3.py), [Go](Algorithms/Medium/4099_Minimum_Operations_to_Sort_With_Locked_Indices/Go.go), [C++](Algorithms/Medium/4099_Minimum_Operations_to_Sort_With_Locked_Indices/C++.cpp) |
 
 ### Hard
 
@@ -1487,6 +1490,7 @@
 | 4086 | [Minimum Interval Selection to Cover Target Intervals](https://leetcode.com/problems/minimum-interval-selection-to-cover-target-intervals/) | [Python3](Algorithms/Hard/4086_Minimum_Interval_Selection_to_Cover_Target_Intervals/Python3.py), [Go](Algorithms/Hard/4086_Minimum_Interval_Selection_to_Cover_Target_Intervals/Go.go), [C++](Algorithms/Hard/4086_Minimum_Interval_Selection_to_Cover_Target_Intervals/C++.cpp) |
 | 4091 | [Count Magical Substring Pairs II](https://leetcode.com/problems/count-magical-substring-pairs-ii/) | [Python3](Algorithms/Hard/4091_Count_Magical_Substring_Pairs_II/Python3.py), [Go](Algorithms/Hard/4091_Count_Magical_Substring_Pairs_II/Go.go), [C++](Algorithms/Hard/4091_Count_Magical_Substring_Pairs_II/C++.cpp) |
 | 4095 | [Count Frequency Staircase Subarrays II](https://leetcode.com/problems/count-frequency-staircase-subarrays-ii/) | [Python3](Algorithms/Hard/4095_Count_Frequency_Staircase_Subarrays_II/Python3.py), [Go](Algorithms/Hard/4095_Count_Frequency_Staircase_Subarrays_II/Go.go), [C++](Algorithms/Hard/4095_Count_Frequency_Staircase_Subarrays_II/C++.cpp) |
+| 4100 | [Minimum Cost Path With Even XOR Parity](https://leetcode.com/problems/minimum-cost-path-with-even-xor-parity/) | [Python3](Algorithms/Hard/4100_Minimum_Cost_Path_With_Even_XOR_Parity/Python3.py), [Go](Algorithms/Hard/4100_Minimum_Cost_Path_With_Even_XOR_Parity/Go.go), [C++](Algorithms/Hard/4100_Minimum_Cost_Path_With_Even_XOR_Parity/C++.cpp) |
 
 
 ## Database
