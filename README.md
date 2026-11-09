@@ -1260,6 +1260,9 @@
 | 4102 | [Count Valid Substrings I](https://leetcode.com/problems/count-valid-substrings-i/) | [Python3](Algorithms/Medium/4102_Count_Valid_Substrings_I/Python3.py), [Go](Algorithms/Medium/4102_Count_Valid_Substrings_I/Go.go), [C++](Algorithms/Medium/4102_Count_Valid_Substrings_I/C++.cpp) |
 | 4103 | [Remove Elements by Type and Color](https://leetcode.com/problems/remove-elements-by-type-and-color/) | [Python3](Algorithms/Medium/4103_Remove_Elements_by_Type_and_Color/Python3.py), [Go](Algorithms/Medium/4103_Remove_Elements_by_Type_and_Color/Go.go), [C++](Algorithms/Medium/4103_Remove_Elements_by_Type_and_Color/C++.cpp) |
 | 4104 | [Count Valid Substrings II](https://leetcode.com/problems/count-valid-substrings-ii/) | [Python3](Algorithms/Medium/4104_Count_Valid_Substrings_II/Python3.py), [Go](Algorithms/Medium/4104_Count_Valid_Substrings_II/Go.go), [C++](Algorithms/Medium/4104_Count_Valid_Substrings_II/C++.cpp) |
+| 4106 | [Find Mismatched Segments Between Two Strings](https://leetcode.com/problems/find-mismatched-segments-between-two-strings/) | [Python3](Algorithms/Medium/4106_Find_Mismatched_Segments_Between_Two_Strings/Python3.py), [Go](Algorithms/Medium/4106_Find_Mismatched_Segments_Between_Two_Strings/Go.go), [C++](Algorithms/Medium/4106_Find_Mismatched_Segments_Between_Two_Strings/C++.cpp) |
+| 4107 | [Count Valid Suffix Sorts I](https://leetcode.com/problems/count-valid-suffix-sorts-i/) | [Python3](Algorithms/Medium/4107_Count_Valid_Suffix_Sorts_I/Python3.py), [Go](Algorithms/Medium/4107_Count_Valid_Suffix_Sorts_I/Go.go), [C++](Algorithms/Medium/4107_Count_Valid_Suffix_Sorts_I/C++.cpp) |
+| 4108 | [Minimum Cost to Make Red Nodes Connected](https://leetcode.com/problems/minimum-cost-to-make-red-nodes-connected/) | [Python3](Algorithms/Medium/4108_Minimum_Cost_to_Make_Red_Nodes_Connected/Python3.py), [Go](Algorithms/Medium/4108_Minimum_Cost_to_Make_Red_Nodes_Connected/Go.go), [C++](Algorithms/Medium/4108_Minimum_Cost_to_Make_Red_Nodes_Connected/C++.cpp) |
 
 ### Hard
 
@@ -1502,6 +1505,7 @@
 | 4095 | [Count Frequency Staircase Subarrays II](https://leetcode.com/problems/count-frequency-staircase-subarrays-ii/) | [Python3](Algorithms/Hard/4095_Count_Frequency_Staircase_Subarrays_II/Python3.py), [Go](Algorithms/Hard/4095_Count_Frequency_Staircase_Subarrays_II/Go.go), [C++](Algorithms/Hard/4095_Count_Frequency_Staircase_Subarrays_II/C++.cpp) |
 | 4100 | [Minimum Cost Path With Even XOR Parity](https://leetcode.com/problems/minimum-cost-path-with-even-xor-parity/) | [Python3](Algorithms/Hard/4100_Minimum_Cost_Path_With_Even_XOR_Parity/Python3.py), [Go](Algorithms/Hard/4100_Minimum_Cost_Path_With_Even_XOR_Parity/Go.go), [C++](Algorithms/Hard/4100_Minimum_Cost_Path_With_Even_XOR_Parity/C++.cpp) |
 | 4105 | [Repeated String Match II](https://leetcode.com/problems/repeated-string-match-ii/) | [Python3](Algorithms/Hard/4105_Repeated_String_Match_II/Python3.py), [Go](Algorithms/Hard/4105_Repeated_String_Match_II/Go.go), [C++](Algorithms/Hard/4105_Repeated_String_Match_II/C++.cpp) |
+| 4109 | [Count Valid Suffix Sorts II](https://leetcode.com/problems/count-valid-suffix-sorts-ii/) | [Python3](Algorithms/Hard/4109_Count_Valid_Suffix_Sorts_II/Python3.py), [Go](Algorithms/Hard/4109_Count_Valid_Suffix_Sorts_II/Go.go), [C++](Algorithms/Hard/4109_Count_Valid_Suffix_Sorts_II/C++.cpp) |
 
 
 ## Database
