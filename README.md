@@ -547,6 +547,7 @@
 | 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [Python3](Algorithms/Easy/4092_Binary_Digit_Score/Python3.py), [Go](Algorithms/Easy/4092_Binary_Digit_Score/Go.go), [C++](Algorithms/Easy/4092_Binary_Digit_Score/C++.cpp) |
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [Python3](Algorithms/Easy/4097_Minimum_Value_of_Merged_Integers/Python3.py), [Go](Algorithms/Easy/4097_Minimum_Value_of_Merged_Integers/Go.go), [C++](Algorithms/Easy/4097_Minimum_Value_of_Merged_Integers/C++.cpp) |
 
+
 ### Medium
 
 | # | Title | Solution |
@@ -1256,6 +1257,9 @@
 | 4094 | [Count Frequency Staircase Subarrays I](https://leetcode.com/problems/count-frequency-staircase-subarrays-i/) | [Python3](Algorithms/Medium/4094_Count_Frequency_Staircase_Subarrays_I/Python3.py), [Go](Algorithms/Medium/4094_Count_Frequency_Staircase_Subarrays_I/Go.go), [C++](Algorithms/Medium/4094_Count_Frequency_Staircase_Subarrays_I/C++.cpp) |
 | 4098 | [Minimize the Maximum Value of GCD-Connected Array](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) | [Python3](Algorithms/Medium/4098_Minimize_the_Maximum_Value_of_GCD-Connected_Array/Python3.py), [Go](Algorithms/Medium/4098_Minimize_the_Maximum_Value_of_GCD-Connected_Array/Go.go), [C++](Algorithms/Medium/4098_Minimize_the_Maximum_Value_of_GCD-Connected_Array/C++.cpp) |
 | 4099 | [Minimum Operations to Sort With Locked Indices](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) | [Python3](Algorithms/Medium/4099_Minimum_Operations_to_Sort_With_Locked_Indices/Python3.py), [Go](Algorithms/Medium/4099_Minimum_Operations_to_Sort_With_Locked_Indices/Go.go), [C++](Algorithms/Medium/4099_Minimum_Operations_to_Sort_With_Locked_Indices/C++.cpp) |
+| 4102 | [Count Valid Substrings I](https://leetcode.com/problems/count-valid-substrings-i/) | [Python3](Algorithms/Medium/4102_Count_Valid_Substrings_I/Python3.py), [Go](Algorithms/Medium/4102_Count_Valid_Substrings_I/Go.go), [C++](Algorithms/Medium/4102_Count_Valid_Substrings_I/C++.cpp) |
+| 4103 | [Remove Elements by Type and Color](https://leetcode.com/problems/remove-elements-by-type-and-color/) | [Python3](Algorithms/Medium/4103_Remove_Elements_by_Type_and_Color/Python3.py), [Go](Algorithms/Medium/4103_Remove_Elements_by_Type_and_Color/Go.go), [C++](Algorithms/Medium/4103_Remove_Elements_by_Type_and_Color/C++.cpp) |
+| 4104 | [Count Valid Substrings II](https://leetcode.com/problems/count-valid-substrings-ii/) | [Python3](Algorithms/Medium/4104_Count_Valid_Substrings_II/Python3.py), [Go](Algorithms/Medium/4104_Count_Valid_Substrings_II/Go.go), [C++](Algorithms/Medium/4104_Count_Valid_Substrings_II/C++.cpp) |
 
 ### Hard
 
@@ -1497,6 +1501,7 @@
 | 4091 | [Count Magical Substring Pairs II](https://leetcode.com/problems/count-magical-substring-pairs-ii/) | [Python3](Algorithms/Hard/4091_Count_Magical_Substring_Pairs_II/Python3.py), [Go](Algorithms/Hard/4091_Count_Magical_Substring_Pairs_II/Go.go), [C++](Algorithms/Hard/4091_Count_Magical_Substring_Pairs_II/C++.cpp) |
 | 4095 | [Count Frequency Staircase Subarrays II](https://leetcode.com/problems/count-frequency-staircase-subarrays-ii/) | [Python3](Algorithms/Hard/4095_Count_Frequency_Staircase_Subarrays_II/Python3.py), [Go](Algorithms/Hard/4095_Count_Frequency_Staircase_Subarrays_II/Go.go), [C++](Algorithms/Hard/4095_Count_Frequency_Staircase_Subarrays_II/C++.cpp) |
 | 4100 | [Minimum Cost Path With Even XOR Parity](https://leetcode.com/problems/minimum-cost-path-with-even-xor-parity/) | [Python3](Algorithms/Hard/4100_Minimum_Cost_Path_With_Even_XOR_Parity/Python3.py), [Go](Algorithms/Hard/4100_Minimum_Cost_Path_With_Even_XOR_Parity/Go.go), [C++](Algorithms/Hard/4100_Minimum_Cost_Path_With_Even_XOR_Parity/C++.cpp) |
+| 4105 | [Repeated String Match II](https://leetcode.com/problems/repeated-string-match-ii/) | [Python3](Algorithms/Hard/4105_Repeated_String_Match_II/Python3.py), [Go](Algorithms/Hard/4105_Repeated_String_Match_II/Go.go), [C++](Algorithms/Hard/4105_Repeated_String_Match_II/C++.cpp) |
 
 
 ## Database
