@@ -2,21 +2,18 @@ from typing import List
 
 class Solution:
     def longestMonotonicSubarray(self, nums: List[int]) -> int:
-        n = len(nums)
-
-        curr_inc, max_inc = 1, 0
-        curr_dec, max_dec = 1, 0
-        for i in range(n-1):
-            if nums[i+1] > nums[i]:
-                curr_inc += 1
+        result, inc, dec = 1, 1, 1
+        for i in range(len(nums)-1):
+            if nums[i] < nums[i+1]:
+                inc += 1
+                dec = 1
+            elif nums[i] > nums[i+1]:
+                dec += 1
+                inc = 1
             else:
-                max_inc = max(max_inc, curr_inc)
-                curr_inc = 1
+                inc = 1
+                dec = 1
             
-            if nums[i+1] < nums[i]:
-                curr_dec += 1
-            else:
-                max_dec = max(max_dec, curr_dec)
-                curr_dec = 1
+            result = max(result, inc, dec)
         
-        return max(max_inc, curr_inc, max_dec, curr_dec)
+        return result
