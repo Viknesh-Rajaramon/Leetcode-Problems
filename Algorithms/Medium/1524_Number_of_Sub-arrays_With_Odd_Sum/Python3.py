@@ -2,10 +2,7 @@ from typing import List
 
 class Solution:
     def numOfSubarrays(self, arr: List[int]) -> int:
-        n = len(arr)
-        odd_count = 0
-        curr_sum = 0
-
+        n, odd_count, curr_sum = len(arr), 0, 0
         for num in arr:
             curr_sum += num
             if curr_sum % 2:
