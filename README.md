@@ -320,6 +320,7 @@
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [Python3](Algorithms/Easy/2220_Minimum_Bit_Flips_to_Convert_Number/Python3.py), Go, C++ |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python3](Algorithms/Easy/2235_Add_Two_Integers/Python3.py), Go, C++ |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [Python3](Algorithms/Easy/2236_Root_Equals_Sum_of_Children/Python3.py), Go, C++ |
+| 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Python3](Algorithms/Easy/2243_Calculate_Digit_Sum_of_a_String/Python3.py), [Go](Algorithms/Easy/2243_Calculate_Digit_Sum_of_a_String/Go.go), [C++](Algorithms/Easy/2243_Calculate_Digit_Sum_of_a_String/C++.cpp) |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Python3](Algorithms/Easy/2264_Largest_3-Same-Digit_Number_in_String/Python3.py), Go, C++ |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [Python3](Algorithms/Easy/2273_Find_Resultant_Array_After_Removing_Anagrams/Python3.py), Go, C++ |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [Python3](Algorithms/Easy/2278_Percentage_of_Letter_in_String/Python3.py), Go, C++ |
