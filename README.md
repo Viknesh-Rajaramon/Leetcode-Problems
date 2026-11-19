@@ -904,6 +904,7 @@
 | 2559 | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Python3](Algorithms/Medium/2559_Count_Vowel_Strings_in_Ranges/Python3.py), Go, C++ |
 | 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/) | [Python3](Algorithms/Medium/2560_House_Robber_IV/Python3.py), Go, C++ |
 | 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Python3](Algorithms/Medium/2563_Count_the_Number_of_Fair_Pairs/Python3.py), Go, C++ |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Python3](Algorithms/Medium/2567_Minimum_Score_by_Changing_Two_Elements/Python3.py), [Go](Algorithms/Medium/2567_Minimum_Score_by_Changing_Two_Elements/Go.go), [C++](Algorithms/Medium/2567_Minimum_Score_by_Changing_Two_Elements/C++.cpp) |
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Python3](Algorithms/Medium/2579_Count_Total_Number_of_Colored_Cells/Python3.py), Go, C++ |
 | 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/) | [Python3](Algorithms/Medium/2594_Minimum_Time_to_Repair_Cars/Python3.py), Go, C++ |
 | 2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | [Python3](Algorithms/Medium/2598_Smallest_Missing_Non-negative_Integer_After_Operations/Python3.py), Go, C++ |
